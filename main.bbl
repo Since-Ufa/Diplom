@@ -1,0 +1,2107 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Saisree2022}{article}{}
+      \name{author}{3}{}{%
+        {{hash=81d45e4eca9d87d279621588cfff3fa4}{%
+           family={Saisree},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=28c83015cf56f8e5d8eabbfed10e090a}{%
+           family={Nair},
+           familyi={N\bibinitperiod},
+           given={J.\bibnamedelimi S.\bibnamedelimi Arya},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e3e2b2d1be8ecf4aafc295743cf7b07b}{%
+           family={Sandhya},
+           familyi={S\bibinitperiod},
+           given={K.\bibnamedelimi Y.},
+           giveni={K\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{namehash}{16034f658d2e97d5ef07bf6765eb1c02}
+      \strng{fullhash}{16034f658d2e97d5ef07bf6765eb1c02}
+      \strng{bibnamehash}{16034f658d2e97d5ef07bf6765eb1c02}
+      \strng{authorbibnamehash}{16034f658d2e97d5ef07bf6765eb1c02}
+      \strng{authornamehash}{16034f658d2e97d5ef07bf6765eb1c02}
+      \strng{authorfullhash}{16034f658d2e97d5ef07bf6765eb1c02}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A highly stable copper (Cu) nanocluster (NC), which exhibited stability for more than one year, was synthesized using nitrogen-doped graphene quantum dots (N-GQDs) as reducing and capping agents and smaller glutathione molecules as additional capping agents. The synthesized NC, CuNC@N-GQDs, successfully sensed dopamine (DA), serotonin (SER), and nicotine (NIC) simultaneously with well-defined peaks and good peak-to-peak separation, whereas none of the controls including CuNCs and N-GQDs exhibited the simultaneous sensing properties. In addition, they exhibited enhanced sensitivity with current responses ∼4, ∼4, and ∼2 times those of the corresponding control for DA, SER, and NIC. The limits of detection obtained were 0.001, 1.00, and 0.01 nM for DA, SER, and NIC, respectively. The higher sensitivity and the simultaneous sensing are indicative of the synergistic effect of CuNCs and N-GQDs in the CuNC@N-GQDs. The sensing performance was successfully extended to real blood and urine samples spiked with DA, SER, and NIC.}
+      \field{internalsortissue}{21}
+      \field{internalsortvolume}{10}
+      \field{issn}{2050-750X}
+      \field{journaltitle}{Journal of Materials Chemistry B}
+      \field{title}{A highly stable copper nano cluster on nitrogen-doped graphene quantum dots for the simultaneous electrochemical sensing of dopamine, serotonin, and nicotine: a possible addiction scrutinizing strategy}
+      \field{year}{2022}
+      \field{issue}{21}
+      \range{issue}{1}
+      \field{pages}{3974\bibrangedash 3988}
+      \range{pages}{15}
+      \field{volume}{10}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1039/D1TB02368C
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1039/D1TB02368C
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1039/D1TB02368C
+      \endverb
+    \endentry
+    \entry{Jug2002}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=5b8209e173cdd863c752db9c4d7dd9ef}{%
+           family={Jug},
+           familyi={J\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d2a4a5ec672f00f1ea6dfb55a9f6b742}{%
+           family={Zimmermann},
+           familyi={Z\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+        {{hash=eaf874e3f21bd12a940dad67716ff47e}{%
+           family={Calaminici},
+           familyi={C\bibinitperiod},
+           given={Patrizia},
+           giveni={P\bibinitperiod}}}%
+        {{hash=707cb6c8d03294d1f70a4483ecaad9de}{%
+           family={Köster},
+           familyi={K\bibinitperiod},
+           given={Andreas\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{c70ca2e1b8fc960ec3067910d86b6a30}
+      \strng{authornamehash}{c70ca2e1b8fc960ec3067910d86b6a30}
+      \strng{authorfullhash}{24427494a9e6655d5ffe0bd9ae093dae}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{internalsortissue}{11}
+      \field{internalsortvolume}{116}
+      \field{issn}{00219606}
+      \field{journaltitle}{Journal of Chemical Physics}
+      \field{month}{3}
+      \field{title}{Structure and stability of small copper clusters}
+      \field{year}{2002}
+      \field{issue}{11}
+      \range{issue}{1}
+      \field{pages}{4497\bibrangedash 4507}
+      \range{pages}{11}
+      \field{volume}{116}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.1436465
+      \endverb
+    \endentry
+    \entry{Jabbar2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=15e551b601d06fe75b1d1bc3cde7d11b}{%
+           family={Jabbar},
+           familyi={J\bibinitperiod},
+           given={Mohammed\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter Open Ltd}%
+      }
+      \strng{namehash}{15e551b601d06fe75b1d1bc3cde7d11b}
+      \strng{fullhash}{15e551b601d06fe75b1d1bc3cde7d11b}
+      \strng{bibnamehash}{15e551b601d06fe75b1d1bc3cde7d11b}
+      \strng{authorbibnamehash}{15e551b601d06fe75b1d1bc3cde7d11b}
+      \strng{authornamehash}{15e551b601d06fe75b1d1bc3cde7d11b}
+      \strng{authorfullhash}{15e551b601d06fe75b1d1bc3cde7d11b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dopamine is considered an important molecule that plays several essential roles in the human body, and herein lies the key to this paper on the electronic and optical properties of dopamine and its derivatives, such as quinone and L-dihydroxyphenylalanine (L-DOPA), using DFT and TD-DFT methods, respectively. Our findings show that dopamine has a dielectric behavior, whereas quinone and L-DOPA have semiconductor behaviors in the ground and excited states. By computing the optical properties, we disclose that the electronic transition spectrum of dopamine, quinone and L-DOPA are observed in the ultra-violet region, visible spectrum, and (ultraviolet and visible regions), respectively. Other properties, such as ionization potential, electronic affinity, hardness and softness are also calculated due to their importance in sensor applications and sensing.}
+      \field{internalsortissue}{1}
+      \field{internalsortvolume}{30}
+      \field{issn}{21910243}
+      \field{journaltitle}{Journal of the Mechanical Behavior of Materials}
+      \field{month}{1}
+      \field{title}{Computational studies on electronic and optical properties of dopamine derivatives structure: A DFT study}
+      \field{year}{2021}
+      \field{issue}{1}
+      \range{issue}{1}
+      \field{pages}{279\bibrangedash 284}
+      \range{pages}{6}
+      \field{volume}{30}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1515/jmbm-2021-0030
+      \endverb
+      \keyw{DFT,L-DOPA,TD-DFT,dopamine,energy gap,quinone}
+    \endentry
+    \entry{Jaque2004}{article}{}
+      \name{author}{2}{}{%
+        {{hash=665b883805bb97b6a711f87161acf28f}{%
+           family={Jaque},
+           familyi={J\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=69a63dac3a870a5aac61f88d798ba9f7}{%
+           family={Toro-Labbé},
+           familyi={T\bibinithyphendelim L\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{03e332e5559a8b374fae8b76636f6d91}
+      \strng{fullhash}{03e332e5559a8b374fae8b76636f6d91}
+      \strng{bibnamehash}{03e332e5559a8b374fae8b76636f6d91}
+      \strng{authorbibnamehash}{03e332e5559a8b374fae8b76636f6d91}
+      \strng{authornamehash}{03e332e5559a8b374fae8b76636f6d91}
+      \strng{authorfullhash}{03e332e5559a8b374fae8b76636f6d91}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper we study and rationalize the formation of neutral copper clusters from dimer to nonamer using the available experimental data of binding energies and electronic properties. A complete and consistent picture of the formation of copper clusters in terms of the changes in chemical potential and hardness emerges indicating that the one-atom growth reactions are mainly driven by changes in hardness. An analytic expression for the binding energy as a function of the cluster size is proposed and used to predict the growth pattern of copper clusters.}
+      \field{internalsortissue}{8}
+      \field{internalsortvolume}{108}
+      \field{issn}{15206106}
+      \field{journaltitle}{Journal of Physical Chemistry B}
+      \field{month}{2}
+      \field{title}{The formation of neutral copper clusters from experimental binding energies and reactivity descriptors}
+      \field{year}{2004}
+      \field{issue}{8}
+      \range{issue}{1}
+      \field{pages}{2568\bibrangedash 2574}
+      \range{pages}{7}
+      \field{volume}{108}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1021/jp036260v
+      \endverb
+    \endentry
+    \entry{Jaque2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=665b883805bb97b6a711f87161acf28f}{%
+           family={Jaque},
+           familyi={J\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=69a63dac3a870a5aac61f88d798ba9f7}{%
+           family={Toro-Labbé},
+           familyi={T\bibinithyphendelim L\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{03e332e5559a8b374fae8b76636f6d91}
+      \strng{fullhash}{03e332e5559a8b374fae8b76636f6d91}
+      \strng{bibnamehash}{03e332e5559a8b374fae8b76636f6d91}
+      \strng{authorbibnamehash}{03e332e5559a8b374fae8b76636f6d91}
+      \strng{authornamehash}{03e332e5559a8b374fae8b76636f6d91}
+      \strng{authorfullhash}{03e332e5559a8b374fae8b76636f6d91}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortissue}{7}
+      \field{internalsortvolume}{117}
+      \field{issn}{00219606}
+      \field{journaltitle}{Journal of Chemical Physics}
+      \field{month}{8}
+      \field{title}{Characterization of copper clusters through the use of density functional theory reactivity descriptors}
+      \field{year}{2002}
+      \field{issue}{7}
+      \range{issue}{1}
+      \field{pages}{3208\bibrangedash 3218}
+      \range{pages}{11}
+      \field{volume}{117}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.1493178
+      \endverb
+    \endentry
+    \entry{Buglak2024}{article}{}
+      \name{author}{2}{}{%
+        {{hash=02dcfce14408f02d673aaf6d3922a49c}{%
+           family={Buglak},
+           familyi={B\bibinitperiod},
+           given={Andrey\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e82a1dda8426f99e3f5988e1e5a2e864}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Minh\bibnamedelima Tho},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media Deutschland GmbH}%
+      }
+      \strng{namehash}{68e7c50967aa8066251226148111074a}
+      \strng{fullhash}{68e7c50967aa8066251226148111074a}
+      \strng{bibnamehash}{68e7c50967aa8066251226148111074a}
+      \strng{authorbibnamehash}{68e7c50967aa8066251226148111074a}
+      \strng{authornamehash}{68e7c50967aa8066251226148111074a}
+      \strng{authorfullhash}{68e7c50967aa8066251226148111074a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nowadays, coinage metal nanoclusters (NCs) are largely presented in diagnostics, bioimaging, and biocatalysis due to their high biocompatibility, chemical stability, and sensitivity to surrounding biomolecules. Silver and gold NCs are usually characterized by intense luminescence and photostability, which is in great demand in the detection of organic compounds, ions, pH, temperature, etc. The experimental synthesis of metal NCs often occurs on biopolymer templates, mostly DNA and proteins. However, this review mainly focuses on the interactions with small biomolecules (SBMs) of a molecular weight less than 1000 Da: amino acids, nucleobases, thiolates, oligopeptides, etc. Such molecules can serve as the templates for an eco-friendly facile one-pot synthesis of biocompatible luminescent NCs. The latter aspect makes NCs suitable for diagnostics and intracellular bioimaging. Another important aspect is the interaction of clusters with biomarkers, which is largely exploited by nanosensors: biomarker detection often occurs through either fluorescence emission “turn-on” or “turn-off” mechanisms. Moreover, as theoretical studies show, electronic absorption spectra and Raman spectra of the metal-organic complexes allow efficient detection of various analytes. In this regard, both theoretical and experimental studies of SBM complexes with metal NCs are in great demand. Therefore, this review aims to summarize up-to-date studies on the interaction of small biomolecules with coinage metal NCs from both theoretical and experimental viewpoints.}
+      \field{issn}{18672469}
+      \field{journaltitle}{Biophysical Reviews}
+      \field{month}{8}
+      \field{title}{Interactions of coinage metal nanoclusters with low-molecular-weight biocompounds}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1007/s12551-024-01200-x
+      \endverb
+      \keyw{Biosensing,DFT,Ligand-metal interactions,Luminescence,Metal nanoclusters,SERS}
+    \endentry
+    \entry{Buglak2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=02dcfce14408f02d673aaf6d3922a49c}{%
+           family={Buglak},
+           familyi={B\bibinitperiod},
+           given={Andrey\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7128ea71d8472d7726d425982de1e026}{%
+           family={Pomogaev},
+           familyi={P\bibinitperiod},
+           given={Vladimir\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a17448b8baeb9fa0f78388f275aec1e8}{%
+           family={Kononov},
+           familyi={K\bibinitperiod},
+           given={Alexei\bibnamedelima I.},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {John Wiley}%
+        {Sons Inc.}%
+      }
+      \strng{namehash}{b0fc949d6ef214ef5f83fedfe5b2251c}
+      \strng{fullhash}{b0fc949d6ef214ef5f83fedfe5b2251c}
+      \strng{bibnamehash}{b0fc949d6ef214ef5f83fedfe5b2251c}
+      \strng{authorbibnamehash}{b0fc949d6ef214ef5f83fedfe5b2251c}
+      \strng{authornamehash}{b0fc949d6ef214ef5f83fedfe5b2251c}
+      \strng{authorfullhash}{b0fc949d6ef214ef5f83fedfe5b2251c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The detailed structures of most of ligand-stabilized metal nanoclusters (NCs) remain unknown due to the absence of crystal structure data for them. In such a situation, quantum-chemical modeling is of particular interest. We compared the performance of different theoretical methods of geometry optimization and absorption spectra calculation for silver-thiolate complexes. We showed that the absorption spectra calculated with the ADC(2) method were consistent with the spectra obtained with CC2 method. Three DFT functionals (B3LYP, CAM-B3LYP, and M06-2X) failed to reproduce the CC2 absorption spectra of the silver-thiolate complexes.}
+      \field{internalsortissue}{20}
+      \field{internalsortvolume}{119}
+      \field{issn}{1097461X}
+      \field{journaltitle}{International Journal of Quantum Chemistry}
+      \field{month}{10}
+      \field{title}{Predicting absorption spectra of silver-ligand complexes}
+      \field{year}{2019}
+      \field{issue}{20}
+      \range{issue}{1}
+      \field{volume}{119}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1002/qua.25995
+      \endverb
+      \keyw{ADC(2),CAM-B3LYP,CC2,M062X,TDDFT,silver nanoclusters,silver-thiolate complexes}
+    \endentry
+    \entry{Liu2021}{article}{}
+      \name{author}{2}{}{%
+        {{hash=54cca625f4359a563a232cb50c3ace27}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xixia},
+           giveni={X\bibinitperiod}}}%
+        {{hash=6e646f1f01d8bd42005f52d71ab0376e}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Juewen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {John Wiley}%
+        {Sons Inc}%
+      }
+      \strng{namehash}{4ae23d9b2b3b4369a4c52109e38795a8}
+      \strng{fullhash}{4ae23d9b2b3b4369a4c52109e38795a8}
+      \strng{bibnamehash}{4ae23d9b2b3b4369a4c52109e38795a8}
+      \strng{authorbibnamehash}{4ae23d9b2b3b4369a4c52109e38795a8}
+      \strng{authornamehash}{4ae23d9b2b3b4369a4c52109e38795a8}
+      \strng{authorfullhash}{4ae23d9b2b3b4369a4c52109e38795a8}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dopamine is a key catecholamine neurotransmitter and it has critical roles in the function of the human central nervous system. Abnormal release of dopamine is related to neurological diseases and depression. Therefore, it is necessary to monitor dopamine levels in vivo and in real time to understand its physiological roles. In this review, we discuss dopamine detection focusing on the molecular recognition methods including enzymes, antibodies, and aptamers, as well as new advances based on nanomaterials and molecularly imprinted polymers (MIPs). A large fraction of these sensors rely on electrochemical detection to fulfill the requirement of fast, in situ, and in vivo detection with a high spatial and temporal resolution. These methods need to overcome interferences from molecules with a similar redox potential. In addition, fluorescent and colorimetric sensors based on aptamers are also quite popular, and care needs to be taken to validate specific dopamine binding. Combining aptamers or MIPs with electrochemistry promises to achieve rapid detection and increased selectivity. In this article, we pay more attention to the molecular recognition mechanism and critically review the sensor designs. In the end, some future directions are discussed.}
+      \field{internalsortissue}{1}
+      \field{internalsortvolume}{2}
+      \field{issn}{2688268X}
+      \field{journaltitle}{VIEW}
+      \field{month}{2}
+      \field{title}{Biosensors and sensors for dopamine detection}
+      \field{year}{2021}
+      \field{issue}{1}
+      \range{issue}{1}
+      \field{volume}{2}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1002/VIW.20200102
+      \endverb
+    \endentry
+    \entry{Xue2021}{article}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=a308b02c6bd71dcfee26fb907c5adfb4}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=50b7a1b58fd48f6d755bdab73f722c98}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Zehua},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=40eed8b2d5b763b307e42c2ff2c5e1d9}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Mai},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8a86586f493de6f754d35b4e9cf7c286}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=58d13e35c94260b60a2a478725a58fd5}{%
+           family={Xia},
+           familyi={X\bibinitperiod},
+           given={Chenglai},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{authorbibnamehash}{a36bb0fa580185ab4b0ebd5b6b49d3d3}
+      \strng{authornamehash}{a36bb0fa580185ab4b0ebd5b6b49d3d3}
+      \strng{authorfullhash}{f1947fc32635d92a1a750cf77ae85562}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Copper nanoclusters (Cu NCs) with their inherent optical and chemical advantages have gained increasing attention as a kind of novel material that possesses great potential, primarily in the use of contaminants sensing and bio-imaging. With a focus on environmental safety, this article comprehensively reviews the recent advances of Cu NCs in the application of various contaminants, including pesticide residues, heavy metal ions, sulfide ions and nitroaromatics. The common preparation methods and sensing mechanisms are summarized. The typical high-quality sensing probes based on Cu NCs towards various target contaminants are presented; additionally, the challenges and future perspectives in the development and application of Cu NCs in monitoring and analyzing environmental pollutants are discussed.}
+      \field{internalsortissue}{11}
+      \field{internalsortvolume}{11}
+      \field{issn}{20796374}
+      \field{journaltitle}{Biosensors}
+      \field{month}{11}
+      \field{title}{Synthesis of copper nanocluster and its application in pollutant analysis}
+      \field{year}{2021}
+      \field{issue}{11}
+      \range{issue}{1}
+      \field{volume}{11}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3390/bios11110424
+      \endverb
+      \keyw{Environmental analysis,Explosive,Fluorescence,Heavy metal,Nanocluster,Pesticide,Pollutant,Sensor,Sulfide}
+    \endentry
+    \entry{PENG2021138898}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d804b6a29419cce71b9f324985ae8e57}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Yong-jin},
+           giveni={Y\bibinithyphendelim j\bibinitperiod}}}%
+        {{hash=46f9933867f1050fcca722bb6c10a2bd}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={He},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5adfe26faff3ce94e4a144e5ad799701}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chang-jun},
+           giveni={C\bibinithyphendelim j\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e1e71137ac8a9a91088b5fab47516a9}
+      \strng{fullhash}{1e1e71137ac8a9a91088b5fab47516a9}
+      \strng{bibnamehash}{1e1e71137ac8a9a91088b5fab47516a9}
+      \strng{authorbibnamehash}{1e1e71137ac8a9a91088b5fab47516a9}
+      \strng{authornamehash}{1e1e71137ac8a9a91088b5fab47516a9}
+      \strng{authorfullhash}{1e1e71137ac8a9a91088b5fab47516a9}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Compared with gold and silver nanoclusters, copper nanoclusters (Cu NCs) have incomparable price advantages. As a new type of photoluminescence and nanocatalysis materials, copper nanoclusters have attracted more and more attention in the fields of photoluminescence analysis, biological probe imaging and catalysis. In this work the electronic structures of Cu6(SR)6-1 and Cu6(SR)60 nanoclusters, chemical interaction between metal core Cu6 and ligands (SR)6 and optical properties of the nanocluster were studied using quantum mechanical calculation method which can be helpful for us to understand the electronical properties in the nanocluster and design the new nanocluster structure with desired properties.}
+      \field{internalsortvolume}{780}
+      \field{issn}{0009-2614}
+      \field{journaltitle}{Chemical Physics Letters}
+      \field{title}{DFT investigation on electronic structure, chemical bonds and optical properties of Cu6(SR)6 nanocluster}
+      \field{year}{2021}
+      \field{pages}{138898}
+      \range{pages}{1}
+      \field{volume}{780}
+      \range{volume}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cplett.2021.138898
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0009261421005819
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0009261421005819
+      \endverb
+      \keyw{DFT,Copper nanocluster,Electronic properties}
+    \endentry
+    \entry{Dez2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ac91684784f6fd1b46c36681b6d6b305}{%
+           family={Díez},
+           familyi={D\bibinitperiod},
+           given={Isabel},
+           giveni={I\bibinitperiod}}}%
+        {{hash=51e3222d173116dac8311b0cdbf985b6}{%
+           family={Ras},
+           familyi={R\bibinitperiod},
+           given={Robin\bibnamedelima H.A.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{9335a868f658a45ad461b224ed22a265}
+      \strng{fullhash}{9335a868f658a45ad461b224ed22a265}
+      \strng{bibnamehash}{9335a868f658a45ad461b224ed22a265}
+      \strng{authorbibnamehash}{9335a868f658a45ad461b224ed22a265}
+      \strng{authornamehash}{9335a868f658a45ad461b224ed22a265}
+      \strng{authorfullhash}{9335a868f658a45ad461b224ed22a265}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Silver nanoclusters are a class of fluorophores with attractive features, including brightness, photostability and subnanometer size. In this review we overview the different scaffolds that are used as stabilizer for silver nanoclusters (e.g. polymers, dendrimers, DNA oligomers, cryogenic noble gas matrixes, inorganic glasses, zeolites and nanoparticles), and we briefly discuss the recent advances. © 2011 The Royal Society of Chemistry.}
+      \field{internalsortissue}{5}
+      \field{internalsortvolume}{3}
+      \field{issn}{20403364}
+      \field{journaltitle}{Nanoscale}
+      \field{month}{5}
+      \field{title}{Fluorescent silver nanoclusters}
+      \field{year}{2011}
+      \field{issue}{5}
+      \range{issue}{1}
+      \field{pages}{1963\bibrangedash 1970}
+      \range{pages}{8}
+      \field{volume}{3}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1039/c1nr00006c
+      \endverb
+    \endentry
+    \entry{Baghdasaryan2021}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4cb5473597f940c429f7aed2ef3fb878}{%
+           family={Baghdasaryan},
+           familyi={B\bibinitperiod},
+           given={Ani},
+           giveni={A\bibinitperiod}}}%
+        {{hash=557f7a08540c1e97845a95cfc389a806}{%
+           family={Bürgi},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry}%
+      }
+      \strng{namehash}{73159ba3ee3ed5874bc8490b03a67bb6}
+      \strng{fullhash}{73159ba3ee3ed5874bc8490b03a67bb6}
+      \strng{bibnamehash}{73159ba3ee3ed5874bc8490b03a67bb6}
+      \strng{authorbibnamehash}{73159ba3ee3ed5874bc8490b03a67bb6}
+      \strng{authornamehash}{73159ba3ee3ed5874bc8490b03a67bb6}
+      \strng{authorfullhash}{73159ba3ee3ed5874bc8490b03a67bb6}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Atomically precise metal nanoclusters (MNCs) have gained tremendous research interest in recent years due to their extraordinary properties. The molecular-like properties that originate from the quantized electronic states provide novel opportunities for the construction of unique nanomaterials possessing rich molecular-like absorption, luminescence, and magnetic properties. The field of monolayer-protected metal nanoclusters, especially copper, with well-defined molecular structures and compositions, is relatively new, about two to three decades old. Nevertheless, the massive progress in the field illustrates the importance of such nanoobjects as promising materials for various applications. In this respect, nanocluster-based catalysts have become very popular, showing high efficiencies and activities for the catalytic conversion of chemical compounds. Biomedical applications of clusters are an active research field aimed at finding better fluorescent contrast agents, therapeutic pharmaceuticals for the treatment and prevention of diseases, the early diagnosis of cancers and other potent diseases, especially at early stages. A huge library of structures and the compositions of copper nanoclusters (CuNCs) with atomic precisions have already been discovered during last few decades; however, there are many concerns to be addressed and questions to be answered. Hopefully, in future, with the combined efforts of material scientists, inorganic chemists, and computational scientists, a thorough understanding of the unique molecular-like properties of metal nanoclusters will be achieved. This, on the other hand, will allow the interdisciplinary researchers to design novel catalysts, biosensors, or therapeutic agents using highly structured, atomically precise, and stable CuNCs. Thus, we hope this review will guide the reader through the field of CuNCs, while discussing the main achievements and improvements, along with challenges and drawbacks that one needs to face and overcome.}
+      \field{internalsortissue}{13}
+      \field{internalsortvolume}{13}
+      \field{issn}{20403372}
+      \field{journaltitle}{Nanoscale}
+      \field{month}{4}
+      \field{title}{Copper nanoclusters: Designed synthesis, structural diversity, and multiplatform applications}
+      \field{year}{2021}
+      \field{issue}{13}
+      \range{issue}{1}
+      \field{pages}{6283\bibrangedash 6340}
+      \range{pages}{58}
+      \field{volume}{13}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1039/d0nr08489a
+      \endverb
+    \endentry
+    \entry{Qing2019}{article}{useauthor=false}
+      \name{author}{8}{}{%
+        {{hash=b98f47b90f1a8611a46e8a48030d78c0}{%
+           family={Qing},
+           familyi={Q\bibinitperiod},
+           given={Taiping},
+           giveni={T\bibinitperiod}}}%
+        {{hash=24d96ec3a3b3c57f53b6c632e959e143}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Kaiwu},
+           giveni={K\bibinitperiod}}}%
+        {{hash=219fd8ed543483d8cee73606619ccd01}{%
+           family={Qing},
+           familyi={Q\bibinitperiod},
+           given={Zhihe},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=dc340e90e108aefd6b9b7f9e468716a1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xuan},
+           giveni={X\bibinitperiod}}}%
+        {{hash=043458c2cd163662e369fdf010d31c34}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Caicheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f189b293bd3263254702f8c5fe1d714b}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1f485d27e69085a57a2d0049a8073163}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Haizhi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6fc087d94258de78b951a000f2ead9ae}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag Wien}%
+      }
+      \strng{authorbibnamehash}{4b9234d71246b79e20dff84582feb308}
+      \strng{authornamehash}{4b9234d71246b79e20dff84582feb308}
+      \strng{authorfullhash}{7db96f96f42b300859866a154c66d957}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Copper nanoclusters (CuNCs) are an attractive alternative to other metal nanoclusters. The synthesis of CuNCs is highly efficient and fast, with low-cost and without any complicated manipulation. Because of their tunable fluorescence and low toxicity, CuNCs have been highly exploited for biochemical sensing. This review (with 172 refs.) summarizes the progress that has been made in the field in the past years. Following an introduction into the fundamentals of CuNCs, the review first focuses on synthetic methods and the fluorescence properties of CuNCs (with subsections on the use of proteins, peptides, DNA and other molecules as templates). This is followed by a section on the use of CuNCs in fluorometric assays, with subsections on the detection of small molecules, proteins, nucleic acids, various other biomolecules including drugs, and of pH values. A further large chapter summarizes the work related to environmental analyses, specifically on determination of metal ions, anions and pollutants. [Figure not available: see fulltext.].}
+      \field{internalsortissue}{10}
+      \field{internalsortvolume}{186}
+      \field{issn}{14365073}
+      \field{journaltitle}{Microchimica Acta}
+      \field{month}{10}
+      \field{title}{Recent progress in copper nanocluster-based fluorescent probing: a review}
+      \field{year}{2019}
+      \field{issue}{10}
+      \range{issue}{1}
+      \field{volume}{186}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1007/s00604-019-3747-4
+      \endverb
+      \keyw{Bioimaging,Environmental analysis,Fluorometry,Metal nanoclusters,Nanoprobe}
+    \endentry
+    \entry{Karpushkin2020}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=08c930f384541846f422ae01829086bd}{%
+           family={Karpushkin},
+           familyi={K\bibinitperiod},
+           given={Evgeny},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1acd5d7cff8deb34313d54b0f57cc27a}{%
+           family={Ivanova},
+           familyi={I\bibinitperiod},
+           given={Natalia},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d5b46e9d851f73a56c2d508ddf0cb7a9}{%
+           family={Lopatina},
+           familyi={L\bibinitperiod},
+           given={Larisa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6fe15ac43a6719afd55c6c55b0cc9e53}{%
+           family={Sergeyev},
+           familyi={S\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Scientific}%
+      }
+      \strng{authorbibnamehash}{295e1708f7a0189f77c559e6d396f100}
+      \strng{authornamehash}{295e1708f7a0189f77c559e6d396f100}
+      \strng{authorfullhash}{40b3263e5cc6e6cd589d449ad6ca3e73}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Gold nanoclusters have been prepared using DNA as the stabilizer. The accompanying changes in the system at different components ratios have been discussed; the obtained products have been comprehensively characterized using a set of spectroscopy and microscopy techniques. Complexity of the underlying mechanism and the many-faceted role of DNA in the synthesis have been demonstrated. The obtained nanoclusters can serve as efficient homogeneous catalysts and in vivo biosensors.}
+      \field{internalsortissue}{4}
+      \field{internalsortvolume}{13}
+      \field{issn}{17937213}
+      \field{journaltitle}{Functional Materials Letters}
+      \field{month}{5}
+      \field{title}{Fluorescent gold nanoclusters prepared in the presence of DNA}
+      \field{year}{2020}
+      \field{issue}{4}
+      \range{issue}{1}
+      \field{volume}{13}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1142/S1793604720410027
+      \endverb
+      \keyw{DNA,Gold,catalysis,fluorescence,nanoparticles}
+    \endentry
+    \entry{Wegeberg2021}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e9fd7fcd1843eda8c33527193d30b509}{%
+           family={Wegeberg},
+           familyi={W\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a79a6d911ec1d20ca53c39035e744c72}{%
+           family={Wenger},
+           familyi={W\bibinitperiod},
+           given={Oliver\bibnamedelima S.},
+           giveni={O\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{78ddfa4fbb42332eb1b62784f86f9472}
+      \strng{fullhash}{78ddfa4fbb42332eb1b62784f86f9472}
+      \strng{bibnamehash}{78ddfa4fbb42332eb1b62784f86f9472}
+      \strng{authorbibnamehash}{78ddfa4fbb42332eb1b62784f86f9472}
+      \strng{authornamehash}{78ddfa4fbb42332eb1b62784f86f9472}
+      \strng{authorfullhash}{78ddfa4fbb42332eb1b62784f86f9472}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Precious and rare elements have traditionally dominated inorganic photophysics and photochemistry, but now we are witnessing a paradigm shift toward cheaper and more abundant metals. Even though emissive complexes based on selected first-row transition metals have long been known, recent conceptual breakthroughs revealed that a much broader range of elements in different oxidation states are useable for this purpose. Coordination compounds of V, Cr, Mn, Fe, Co, Ni, and Cu now show electronically excited states with unexpected reactivity and photoluminescence behavior. Aside from providing a compact survey of the recent conceptual key advances in this dynamic field, our Perspective identifies the main design strategies that enabled the discovery of fundamentally new types of 3d-metal-based luminophores and photosensitizers operating in solution at room temperature.}
+      \field{internalsortissue}{11}
+      \field{internalsortvolume}{1}
+      \field{issn}{26913704}
+      \field{journaltitle}{JACS Au}
+      \field{month}{11}
+      \field{title}{Luminescent First-Row Transition Metal Complexes}
+      \field{year}{2021}
+      \field{issue}{11}
+      \range{issue}{1}
+      \field{pages}{1860\bibrangedash 1876}
+      \range{pages}{17}
+      \field{volume}{1}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1021/jacsau.1c00353
+      \endverb
+      \keyw{Earth-abundant metals,Photoluminescence,coordination chemistry,first-row transition metal complexes,ligand-to-metal charge transfer,metal-to-ligand charge transfer}
+    \endentry
+    \entry{Dong2025}{article}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=62b6258574c3123dc0433db72a46b395}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Qinhui},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=156f3afeea913531eceb7377f750f143}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=a57c0e5e6cf0412986a41f9b55e529a0}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Shusheng},
+           giveni={S\bibinitperiod}}}%
+        {{hash=baf08dda01c6f9d0603db3753905ba34}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Xiangfang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=1c22c4761275eae06bb1a57dc9cd97ea}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Pengfei},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{308043e620b54f0cd565ed21142aa1ad}
+      \strng{authornamehash}{308043e620b54f0cd565ed21142aa1ad}
+      \strng{authorfullhash}{d68205d119b4ded770a9ac4d99d75443}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{291}
+      \field{journaltitle}{Talanta}
+      \field{title}{Cysteine-assisted synthesis of copper nanoclusters for construction of FRET-based ratiometric sensor for visual detection of alkaline phosphatase}
+      \field{year}{2025}
+      \field{volume}{291}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.talanta.2025.127910
+      \endverb
+    \endentry
+    \entry{Demirel2018}{article}{useauthor=false}
+      \name{author}{6}{}{%
+        {{hash=a3a685bfb4d199f454c614bc01c1e38e}{%
+           family={Demirel},
+           familyi={D\bibinitperiod},
+           given={Gokhan},
+           giveni={G\bibinitperiod}}}%
+        {{hash=bdafeccfde4037d49e16556dcb81ab65}{%
+           family={Usta},
+           familyi={U\bibinitperiod},
+           given={Hakan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5356d595490b3beec1155810099f35ec}{%
+           family={Yilmaz},
+           familyi={Y\bibinitperiod},
+           given={Mustafa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8d819e4ab8c5faf405358b165c68caa7}{%
+           family={Celik},
+           familyi={C\bibinitperiod},
+           given={Melis},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d506dc00d52b161771a92396f5e1181c}{%
+           family={Alidagi},
+           familyi={A\bibinitperiod},
+           given={Hilal\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=192bab63a6c431b137b1eb4aebee4c82}{%
+           family={Buyukserin},
+           familyi={B\bibinitperiod},
+           given={Fatih},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{authorbibnamehash}{2135cc3cf80053c98af35798d6aeafd3}
+      \strng{authornamehash}{2135cc3cf80053c98af35798d6aeafd3}
+      \strng{authorfullhash}{6bd1d00b658db1b96a2edc63c996e457}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortissue}{20}
+      \field{internalsortvolume}{6}
+      \field{journaltitle}{J. Mater. Chem. C}
+      \field{title}{Surface-enhanced Raman spectroscopy (SERS)}
+      \field{year}{2018}
+      \field{issue}{20}
+      \range{issue}{1}
+      \field{pages}{5314\bibrangedash 5335}
+      \range{pages}{22}
+      \field{volume}{6}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1039/C8TC01168K
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.org
+      \endverb
+      \verb{url}
+      \verb http://doi.org
+      \endverb
+    \endentry
+    \entry{Gao2023}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=5b5c80d20ac49ad6ca426d3b46a020d5}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Lizhong},
+           giveni={L\bibinitperiod}}}%
+        {{hash=263166d75e441619eeaf1567f4d5028f}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Tingting},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f2eba0e034590fe96727f74a0437bcc1}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={De-En},
+           giveni={D\bibinithyphendelim E\bibinitperiod}}}%
+        {{hash=a36852c0391a928f6f39a3b7920d2e92}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Qichun},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{6c5af72568d68fba4c4f3064254084ea}
+      \strng{authornamehash}{6c5af72568d68fba4c4f3064254084ea}
+      \strng{authorfullhash}{e0b3f3c3151867de388e725a4c1208f4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{14}
+      \field{journaltitle}{Chemical Science}
+      \field{title}{Solvent-mediated precipitating synthesis and optical properties of polyhydrido Cu\(_{13}\) nanoclusters with four vertex-sharing tetrahedrons}
+      \field{year}{2023}
+      \field{pages}{1772\bibrangedash 1783}
+      \range{pages}{12}
+      \field{volume}{14}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1039/D2SC06099J
+      \endverb
+    \endentry
+    \entry{Han2025}{article}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=c87be0393b233c791171e93e4d3f0249}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=28b6504d56c03d7d44c0ecca06ae0869}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6a9e4c45273ab09b07e55f373b915dbc}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Xiaoyi},
+           giveni={X\bibinitperiod}}}%
+        {{hash=3adeae6400b02834d2f958b71ec82809}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Xueyun},
+           giveni={X\bibinitperiod}}}%
+        {{hash=a8eab9075a7e8567d259e822a8ff36e6}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Liang},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7d4ab5d16b0cff766063685d6f8032dd}
+      \strng{authornamehash}{7d4ab5d16b0cff766063685d6f8032dd}
+      \strng{authorfullhash}{b817e8dc291f60a8893452300bad1f9e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{17}
+      \field{journaltitle}{Nanoscale}
+      \field{title}{Advances in precise synthesis of metal nanoclusters and their applications in electrochemical biosensing of disease biomarkers}
+      \field{year}{2025}
+      \field{pages}{3616\bibrangedash 3634}
+      \range{pages}{19}
+      \field{volume}{17}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1039/D4NR04714A
+      \endverb
+    \endentry
+    \entry{Califf2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=640d5bc793962877d7e7098907821599}{%
+           family={Califf},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Inc.}%
+      }
+      \strng{namehash}{640d5bc793962877d7e7098907821599}
+      \strng{fullhash}{640d5bc793962877d7e7098907821599}
+      \strng{bibnamehash}{640d5bc793962877d7e7098907821599}
+      \strng{authorbibnamehash}{640d5bc793962877d7e7098907821599}
+      \strng{authornamehash}{640d5bc793962877d7e7098907821599}
+      \strng{authorfullhash}{640d5bc793962877d7e7098907821599}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Biomarkers are critical to the rational development of medical therapeutics, but significant confusion persists regarding fundamental definitions and concepts involved in their use in research and clinical practice, particularly in the fields of chronic disease and nutrition. Clarification of the definitions of different biomarkers and a better understanding of their appropriate application could result in substantial benefits. This review examines biomarker definitions recently established by the U.S. Food and Drug Administration and the National Institutes of Health as part of their joint Biomarkers, EndpointS, and other Tools (BEST) resource. These definitions are placed in context of their respective uses in patient care, clinical research, or therapeutic development. We explore the distinctions between biomarkers and clinical outcome assessments and discuss the specific definitions and applications of diagnostic, monitoring, pharmacodynamic/response, predictive, prognostic, safety, and susceptibility/risk biomarkers. We also explore the implications of current biomarker development trends, including complex composite biomarkers and digital biomarkers derived from sensors and mobile technologies. Finally, we discuss the challenges and potential benefits of biomarker-driven predictive toxicology and systems pharmacology, the need to ensure quality and reproducibility of the science underlying biomarker development, and the importance of fostering collaboration across the entire ecosystem of medical product development. Impact statement: Biomarkers are critical to the rational development of medical diagnostics and therapeutics, but significant confusion persists regarding fundamental definitions and concepts involved in their use in research and clinical practice. Clarification of the definitions of different biomarker classes and a better understanding of their appropriate application could yield substantial benefits. Biomarker definitions recently established in a joint FDA-NIH resource place different classes of biomarkers in the context of their respective uses in patient care, clinical research, or therapeutic development. Complex composite biomarkers and digital biomarkers derived from sensors and mobile technologies, together with biomarker-driven predictive toxicology and systems pharmacology, are reshaping development of diagnostic and therapeutic technologies. An approach to biomarker development that prioritizes the quality and reproducibility of the science underlying biomarker development and incorporates collaborative regulatory science involving multiple disciplines will lead to rational, evidence-based biomarker development that keeps pace with scientific and clinical need.}
+      \field{internalsortissue}{3}
+      \field{internalsortvolume}{243}
+      \field{issn}{15353699}
+      \field{journaltitle}{Experimental Biology and Medicine}
+      \field{month}{2}
+      \field{title}{Biomarker definitions and their applications}
+      \field{year}{2018}
+      \field{issue}{3}
+      \range{issue}{1}
+      \field{pages}{213\bibrangedash 221}
+      \range{pages}{9}
+      \field{volume}{243}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1177/1535370217750088
+      \endverb
+      \keyw{Biomarkers,cardiovascular,epidemiology,medicine,monitoring,pharmacology/toxicology}
+    \endentry
+    \entry{Biomarkers}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Types of biomarkers and their applications | Abcam}
+      \verb{urlraw}
+      \verb https://www.abcam.com/en-us/knowledge-center/immunology-and-infectious-disease/types-of-biomarkers-and-their-applications
+      \endverb
+      \verb{url}
+      \verb https://www.abcam.com/en-us/knowledge-center/immunology-and-infectious-disease/types-of-biomarkers-and-their-applications
+      \endverb
+    \endentry
+    \entry{Biomarkers2}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{A Comprehensive Review on Ethical Considerations in Biomarker Research and Application}
+      \verb{urlraw}
+      \verb https://www.ijpsjournal.com/article/A+Comprehensive+Review+on+Ethical+Considerations+in+Biomarker+Research+and+Application++
+      \endverb
+      \verb{url}
+      \verb https://www.ijpsjournal.com/article/A+Comprehensive+Review+on+Ethical+Considerations+in+Biomarker+Research+and+Application++
+      \endverb
+    \endentry
+    \entry{Romeo2021}{article}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=4983d632d9b87de4d2e4dc2905b0bec5}{%
+           family={Romeo},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=60d2f79b3dd307367960073834f2589c}{%
+           family={López-Martínez},
+           familyi={L\bibinithyphendelim M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5cdc37b7bd39d7a82c0ffe0af70b5aae}{%
+           family={Berganza-Granda},
+           familyi={B\bibinithyphendelim G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3bd61167fcca9d1859fd9bdf790f4ddf}{%
+           family={Goñi-de-Cerio},
+           familyi={G\bibinithyphendelim C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9a76e77bb4e14572657270cd0c19d578}{%
+           family={Cortajarena},
+           familyi={C\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{b71e832561ce1c676add34e2fae92230}
+      \strng{authornamehash}{b71e832561ce1c676add34e2fae92230}
+      \strng{authorfullhash}{8307800f0b11bf25b8e8fa9e42dfec9c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{3}
+      \field{journaltitle}{Nanoscale Advances}
+      \field{title}{Biomarker sensing platforms based on fluorescent metal nanoclusters}
+      \field{year}{2021}
+      \field{pages}{1331\bibrangedash 1341}
+      \range{pages}{11}
+      \field{volume}{3}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1039/D0NA00796J
+      \endverb
+    \endentry
+    \entry{Babu2022}{article}{useauthor=false}
+      \name{author}{10}{}{%
+        {{hash=bab696fa85328c39f3fdecb2ebff0761}{%
+           family={Babu},
+           familyi={B\bibinitperiod},
+           given={Kumar},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d7ed2b9a62e506b14f19727b307c9d3e}{%
+           family={Kotha},
+           familyi={K\bibinitperiod},
+           given={Jyothi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dc0dc185d95e27ca5316b324864c4734}{%
+           family={Bandaru},
+           familyi={B\bibinitperiod},
+           given={Shamili},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0c57c6ffeeb335550323b29a33b81921}{%
+           family={Ghantasala},
+           familyi={G\bibinitperiod},
+           given={Jyothi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2ae6d404edd32eb419aed7be3cddd43d}{%
+           family={Haseena},
+           familyi={H\bibinitperiod},
+           given={Sheik},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f03faaa5da33db5eba22d5de84a5718a}{%
+           family={Bhamidipati},
+           familyi={B\bibinitperiod},
+           given={Keerti},
+           giveni={K\bibinitperiod}}}%
+        {{hash=83ac1a5c2717d7744db8c6f812f9f87e}{%
+           family={Puvvada},
+           familyi={P\bibinitperiod},
+           given={Nagaprasad},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0d3ccc9f03030d16c59deeb59e5eca5f}{%
+           family={Ravva},
+           familyi={R\bibinitperiod},
+           given={Mahesh\bibnamedelima Kumar},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=7b516a16e45985a70409b8388d70f3ee}{%
+           family={Thondamal},
+           familyi={T\bibinitperiod},
+           given={Manjunatha},
+           giveni={M\bibinitperiod}}}%
+        {{hash=04523e3eaf77cdeef166c6c7ca8764fa}{%
+           family={Chakrabortty},
+           familyi={C\bibinitperiod},
+           given={Sabyasachi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{15c55ed62220d875d25a312935aa86d3}
+      \strng{authornamehash}{15c55ed62220d875d25a312935aa86d3}
+      \strng{authorfullhash}{a890b7866dcd82e2bd728f5a307ae746}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{12}
+      \field{journaltitle}{RSC Advances}
+      \field{month}{06}
+      \field{title}{Engineering colloidally stable, highly fluorescent and nontoxic Cu nanoclusters via reaction parameter optimization}
+      \field{year}{2022}
+      \field{pages}{17585\bibrangedash 17595}
+      \range{pages}{11}
+      \field{volume}{12}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1039/D2RA02819K
+      \endverb
+    \endentry
+    \entry{Haiguang2026}{article}{useauthor=false}
+      \name{author}{6}{}{%
+        {{hash=c2a4436285d5146073c75dd646105c74}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Haiguang},
+           giveni={H\bibinitperiod}}}%
+        {{hash=513f5d3ed1502e673f3504c2b703f5eb}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ziping},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=24d0a74e7a53751869b5c8b39e3c1939}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Qiaofeng},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=28b6504d56c03d7d44c0ecca06ae0869}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ping},
+           giveni={P\bibinitperiod}}}%
+        {{hash=fc430a61917a56aea1799b19648125c1}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Jianping},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c5e8abd8649e4a0fce94b58c4ba8bcdb}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Xun},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{1c914ebd1ebc9f2bef52a04cc36e9f2e}
+      \strng{authornamehash}{1c914ebd1ebc9f2bef52a04cc36e9f2e}
+      \strng{authorfullhash}{725f5ace5ee0c61284e39f2155da752e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Cancer poses a significant global health challenge, necessitating precise diagnosis and effective therapeutic strategies to improve survival outcomes. Metal nanoclusters (NCs) have emerged as promising candidates for cancer imaging and treatment, attributed to their remarkable cancer-targeting capabilities, high imaging signal-to-noise ratio, potent anti-cancer activity, efficient in vivo clearance, and superior biocompatibility. In this review, a comprehensive overview of the design and applications of metal NCs for cancer imaging and treatment, focusing on their core–shell designability at the atomic and molecular levels is provided. The unique advantages of metal NCs for cancer imaging and treatment are emphasized, encompassing aspects such as clinical translation, pharmacokinetics, targeted delivery, and biocompatibility. The applications of these metal NCs in cancer imaging, treatment, and imaging-guided treatment is summarized, focusing on how their core–shell designs and physicochemical properties influence therapeutic efficacy. Finally, a perspective on the impending challenges and promising avenues for the advancement of metal NCs in the realm of cancer imaging and treatment are offered.}
+      \field{internalsortvolume}{36}
+      \field{journaltitle}{Advanced Functional Materials}
+      \field{title}{Metal Nanoclusters for Cancer Imaging and Treatment}
+      \field{year}{2026}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{e07924}
+      \range{pages}{-1}
+      \field{volume}{36}
+      \range{volume}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1002/adfm.202507924
+      \endverb
+      \verb{eprint}
+      \verb https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202507924
+      \endverb
+      \verb{urlraw}
+      \verb https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202507924
+      \endverb
+      \verb{url}
+      \verb https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202507924
+      \endverb
+      \keyw{cancer imaging,cancer treatment,core–shell,metal nanoclusters,photoluminescence}
+    \endentry
+    \entry{Sijia2024}{article}{useauthor=false}
+      \name{author}{5}{}{%
+        {{hash=59524add41b5c3bb2b94ebbb8083d5fb}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Sijia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b05219a6acab0132847dc1d15a7fc0ef}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=5b64d06d3b5965816284185a6e6ddefb}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yuhao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=95029785aad9da9ab69c7194c8ac7415}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Baolin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=189ba19f98c58f913f598018a813637c}{%
+           family={Miao},
+           familyi={M\bibinitperiod},
+           given={Yuqing},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{5e772947966fe3973df1b05cc438b736}
+      \strng{authornamehash}{5e772947966fe3973df1b05cc438b736}
+      \strng{authorfullhash}{ac932421c0b84eeef1cfdc637080b15b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Nanomedicine-induced cancer cell death has become a prominent area of research in the life sciences field in recent years. The concept of cuproptosis was first proposed in 2022. Copper homeostasis in organisms is tightly regulated by protein transporters and molecular chaperones. Disruptions in copper homeostasis can adversely affect mitochondrial respiration and disrupt other physiological processes, leading to cytotoxicity. Therefore, researchers have designed and refined copper-based nanomaterials to induce cuproptosis and assess their effects on cancer treatment. While several reviews on cuproptosis exist, they primarily delve into its molecular mechanisms. This review begins with elucidating the metabolism and homeostasis of copper in the body. Subsequently, the latest advancements in copper nanomaterial-induced cuproptosis for cancer treatment and antimicrobial purposes is summarized. Finally, a comprehensive summary and outlook on the subject is provided. The goal with this review is to assist researchers in gaining a deeper understanding of the interaction between nanomaterials and cuproptosis, thereby offering new perspectives for designing novel nanomaterials to induce cuproptosis.}
+      \field{internalsortvolume}{4}
+      \field{journaltitle}{Advanced NanoBiomed Research}
+      \field{title}{Recent Advances in the Biomedical Applications of Copper Nanomaterial-Mediated Cuproptosis}
+      \field{year}{2024}
+      \field{number}{8}
+      \range{number}{1}
+      \field{pages}{2400018}
+      \range{pages}{1}
+      \field{volume}{4}
+      \range{volume}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1002/anbr.202400018
+      \endverb
+      \verb{eprint}
+      \verb https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/anbr.202400018
+      \endverb
+      \verb{urlraw}
+      \verb https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/anbr.202400018
+      \endverb
+      \verb{url}
+      \verb https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/anbr.202400018
+      \endverb
+      \keyw{antibacterial,cancer treatment,copper-based nanomaterials,cuproptosis,synergistic therapy}
+    \endentry
+    \entry{Hejazy2018}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=71610851f36f806f6d9e5239b6bdf4d9}{%
+           family={Hejazy},
+           familyi={H\bibinitperiod},
+           given={Marzie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=33c3bf85681fb3194f7c96d79968146c}{%
+           family={Koohi},
+           familyi={K\bibinitperiod},
+           given={Mohammad\bibnamedelima Kazem},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=4531d2de864aeb570a296ef1919e45b8}{%
+           family={Bassiri\bibnamedelimb Mohamad\bibnamedelima Pour},
+           familyi={B\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Adele},
+           giveni={A\bibinitperiod}}}%
+        {{hash=940efdc2752a7495a9bfe516e753020f}{%
+           family={Najafi},
+           familyi={N\bibinitperiod},
+           given={Davood},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Tehran University of Medical Sciences}%
+      }
+      \strng{authorbibnamehash}{e062d85e40d6e1df8900fbd96c0b6362}
+      \strng{authornamehash}{e062d85e40d6e1df8900fbd96c0b6362}
+      \strng{authorfullhash}{8c20026ce2a3fc7e79e4c775ddb88d50}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The health effects of nanoparticles (NPs) are raising considerable and growing concerns from the public and government around the world. Nano-metals are new forms of metal with special properties, but are characterized by having a particle size of less than 100 nm. Copper is an essential trace element and its deficiency leads to different diseases in humans. In general, copper NPs have been reported among the most toxic nanomaterials in mammals. The toxicity of nano-copper depends on sex. The increase in the production of reactive oxygen species (ROS) and reactive nitrogen species (RNS) plays an important role in copper-induced organic dysfunction.In this review, we will not only summarize the tissues toxicology induced by nano-copper, but also we will discuss the functions of ROS and RNS in the pathogenesis and toxicity in different organs, DNA damage as a result of oxidative stress, changes in Blood biochemical indexes, and the mechanism of the nano-copper induced apoptosis.}
+      \field{internalsortvolume}{3}
+      \field{issn}{2476-3489}
+      \field{journaltitle}{Nanomedicine Research Journal}
+      \field{title}{Toxicity of manufactured copper nanoparticles - A review}
+      \field{year}{2018}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \field{volume}{3}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.22034/nmrj.2018.01.001
+      \endverb
+      \verb{eprint}
+      \verb https://www.nanomedicine-rj.com/article_31894_ca50333df78f2f7bd42ac688af0af3e9.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nanomedicine-rj.com/article_31894.html
+      \endverb
+      \verb{url}
+      \verb https://www.nanomedicine-rj.com/article_31894.html
+      \endverb
+      \keyw{Apoptosis,Nano-Copper,nanoparticles,Rns,Ros,Toxicity}
+    \endentry
+    \entry{He2025}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=5b5c80d20ac49ad6ca426d3b46a020d5}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Lizhong},
+           giveni={L\bibinitperiod}}}%
+        {{hash=263166d75e441619eeaf1567f4d5028f}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Tingting},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9b7d6de24ab5e1330b02936f73206852}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={De-en},
+           giveni={D\bibinithyphendelim e\bibinitperiod}}}%
+        {{hash=a36852c0391a928f6f39a3b7920d2e92}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Qichun},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{6c5af72568d68fba4c4f3064254084ea}
+      \strng{authornamehash}{6c5af72568d68fba4c4f3064254084ea}
+      \strng{authorfullhash}{fa81d08162dc340a55114b2f52136432}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{535}
+      \field{journaltitle}{Coordination Chemistry Reviews}
+      \field{title}{Recent progress in atomically precise metal nanoclusters: From	bio-related properties to biological applications}
+      \field{year}{2025}
+      \field{volume}{535}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.ccr.2025.216633
+      \endverb
+    \endentry
+    \entry{TOWNSEND2003145}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ac54b685b51f40935ee9aafe96c735b2}{%
+           family={Townsend},
+           familyi={T\bibinitperiod},
+           given={Danyelle\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=fc2dcd1b756c4b3c71cb1744d309c3d0}{%
+           family={Tew},
+           familyi={T\bibinitperiod},
+           given={Kenneth\bibnamedelima D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=1f593d09dbaa422b4bffa5fa6094e057}{%
+           family={Tapiero},
+           familyi={T\bibinitperiod},
+           given={Haim},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{8fa29d3f03b83865f75c89b94c34ffd4}
+      \strng{fullhash}{8fa29d3f03b83865f75c89b94c34ffd4}
+      \strng{bibnamehash}{8fa29d3f03b83865f75c89b94c34ffd4}
+      \strng{authorbibnamehash}{8fa29d3f03b83865f75c89b94c34ffd4}
+      \strng{authornamehash}{8fa29d3f03b83865f75c89b94c34ffd4}
+      \strng{authorfullhash}{8fa29d3f03b83865f75c89b94c34ffd4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Reduced glutathione (GSH) is the most prevalent non-protein thiol in animal cells. Its de novo and salvage synthesis serves to maintain a reduced cellular environment and the tripeptide is a co-factor for many cytoplasmic enzymes and may also act as an important post-translational modification in a number of cellular proteins. The cysteine thiol acts as a nucleophile in reactions with both exogenous and endogenous electrophilic species. As a consequence, reactive oxygen species (ROS) are frequently targeted by GSH in both spontaneous and catalytic reactions. Since ROS have defined roles in cell signaling events as well as in human disease pathologies, an imbalance in expression of GSH and associated enzymes has been implicated in a variety of circumstances. Cause and effect links between GSH metabolism and diseases such as cancer, neurodegenerative diseases, cystic fibrosis (CF), HIV, and aging have been shown. Polymorphic expression of enzymes involved in GSH homeostasis influences susceptibility and progression of these conditions. This review provides an overview of the biological importance of GSH at the level of the cell and organism.}
+      \field{internalsortvolume}{57}
+      \field{issn}{0753-3322}
+      \field{journaltitle}{Biomedicine \& Pharmacotherapy}
+      \field{title}{The importance of glutathione in human disease}
+      \field{year}{2003}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{145\bibrangedash 155}
+      \range{pages}{11}
+      \field{volume}{57}
+      \range{volume}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0753-3322(03)00043-X
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S075333220300043X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S075333220300043X
+      \endverb
+      \keyw{Glutathione (GSH),Glutathione transferases (GST),Reactive oxygen species (ROS),Human diseases}
+    \endentry
+    \entry{Sohrab2021}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=946a44db0bf6ae70d570c73ad9287d97}{%
+           family={Ramesh},
+           familyi={R\bibinitperiod},
+           given={Muthusamy},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6d8949ea9ac3926823c87a1c2df22f4b}{%
+           family={Shaikh},
+           familyi={S\bibinitperiod},
+           given={Sohrab\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8f813c5d4afad8256c8b68bacf9eff3e}{%
+           family={Aswinprakash},
+           familyi={A\bibinitperiod},
+           given={Subramanian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fda59157ed9c5511dd8a3f1ab15fb0c3}{%
+           family={Jagadeesh},
+           familyi={J\bibinitperiod},
+           given={Dhamodharan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{58f579c7465a6833d9c9b94fa1abd271}
+      \strng{authornamehash}{58f579c7465a6833d9c9b94fa1abd271}
+      \strng{authorfullhash}{1c6e78943345a02c27319e6b049377ae}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract: Cysteine is one of the major intermediate products of cellular amino-acid metabolism. It is a semi-essential amino acid for protein synthesis. Besides, it is also employed in the regulation of major endogenous anti-oxidant molecule i.e., reduced glutathione (GSH). Further, it is a precursor of multiple sulfur-containing molecules like hydrogen sulfide, lanthionine, taurine, coenzyme A and biotin. It is also one of the key molecules for post-translational modifications of various cellular proteins. In physiological conditions, it is employed in the sulfhydration process and plays a key role in the physiology modification of the inflammatory process in various organs, including the neurological system. The catabolism of cysteine is regulated by cysteine dioxygenase enzyme activity. The dysregulated conditions of cysteine and cysteine-associated hydrogen sulfide metabolism are widely employed in the acceleration of the neurodegenerative process. Moreover, the upregulation of cysteine and hydrogen sulfide synthesis occurs via the reverse trans-sulfuration process. This process helps to manage the worsening of a pathological condition of a cellular system. Moreover, it is also employed in the accumulation of homocysteine contents. Further, both cysteine and homocysteine molecules are widely accepted as biomarkers for various types of diseases. Therefore, the targets involved in the regulation of cysteine have been considered as valid targets to treat various disorders like cardiac disease, ischemic stroke, diabetes, cancer, and renal dysfunction.}
+      \field{internalsortvolume}{14}
+      \field{issn}{1872-3128/1874-0758}
+      \field{journaltitle}{Drug Metabolism Letters}
+      \field{title}{Physiological and Pathophysiological Role of Cysteine Metabolism in Human Metabolic Syndrome}
+      \field{year}{2021}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{177\bibrangedash 192}
+      \range{pages}{16}
+      \field{volume}{14}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.2174/1872312814666211210111820
+      \endverb
+      \verb{urlraw}
+      \verb https://www.eurekaselect.com/article/119337
+      \endverb
+      \verb{url}
+      \verb https://www.eurekaselect.com/article/119337
+      \endverb
+    \endentry
+    \entry{Cysteine}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{Cysteine - an overview | ScienceDirect Topics}
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/topics/food-science/cysteine
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/topics/food-science/cysteine
+      \endverb
+    \endentry
+    \entry{ijms21239057}{article}{useauthor=false}
+      \name{author}{7}{}{%
+        {{hash=09fbc220fb9c3d4672e0951748411081}{%
+           family={Czumaj},
+           familyi={C\bibinitperiod},
+           given={Aleksandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fd009f7f3317748d1bf9ae97b18c787c}{%
+           family={Szrok-Jurga},
+           familyi={S\bibinithyphendelim J\bibinitperiod},
+           given={Sylwia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a62b496fce13f025358ee378fdf585bc}{%
+           family={Hebanowska},
+           familyi={H\bibinitperiod},
+           given={Areta},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3f70923515c780589f44094bc71c446c}{%
+           family={Turyn},
+           familyi={T\bibinitperiod},
+           given={Jacek},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1a34dd4474b91f90999d964e588f9a74}{%
+           family={Swierczynski},
+           familyi={S\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c8134ac973fc5b77b9946957e7983da6}{%
+           family={Sledzinski},
+           familyi={S\bibinitperiod},
+           given={Tomasz},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0a6a6bdedf5cb1be8dfeb2c327aadc1d}{%
+           family={Stelmanska},
+           familyi={S\bibinitperiod},
+           given={Ewa},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{d3e3566d3ebc187040635d76f08e92b0}
+      \strng{authornamehash}{d3e3566d3ebc187040635d76f08e92b0}
+      \strng{authorfullhash}{7c211852808984df34e069528d20a3d7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The importance of coenzyme A (CoA) as a carrier of acyl residues in cell metabolism is well understood. Coenzyme A participates in more than 100 different catabolic and anabolic reactions, including those involved in the metabolism of lipids, carbohydrates, proteins, ethanol, bile acids, and xenobiotics. However, much less is known about the importance of the concentration of this cofactor in various cell compartments and the role of altered CoA concentration in various pathologies. Despite continuous research on these issues, the molecular mechanisms in the regulation of the intracellular level of CoA under pathological conditions are still not well understood. This review summarizes the current knowledge of (a) CoA subcellular concentrations; (b) the roles of CoA synthesis and degradation processes; and (c) protein modification by reversible CoA binding to proteins (CoAlation). Particular attention is paid to (a) the roles of changes in the level of CoA under pathological conditions, such as in neurodegenerative diseases, cancer, myopathies, and infectious diseases; and (b) the beneficial effect of CoA and pantethine (which like CoA is finally converted to Pan and cysteamine), used at pharmacological doses for the treatment of hyperlipidemia.}
+      \field{internalsortvolume}{21}
+      \field{issn}{1422-0067}
+      \field{journaltitle}{International Journal of Molecular Sciences}
+      \field{title}{The Pathophysiological Role of CoA}
+      \field{year}{2020}
+      \field{number}{23}
+      \range{number}{1}
+      \field{volume}{21}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.3390/ijms21239057
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1422-0067/21/23/9057
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1422-0067/21/23/9057
+      \endverb
+    \endentry
+    \entry{Kumar2017}{article}{useauthor=false}
+      \name{author}{6}{}{%
+        {{hash=5e7935c727917fe87682df759e8ddb65}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Avinash},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6dd7159bbea2995b0763caeed40f94b1}{%
+           family={Palfrey},
+           familyi={P\bibinitperiod},
+           given={Henry\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=99ea805b740cd6add9ef6af9828ad517}{%
+           family={Pathak},
+           familyi={P\bibinitperiod},
+           given={Rashmi},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e5b154aeac96a297706c0fbfcbb9437c}{%
+           family={Kadowitz},
+           familyi={K\bibinitperiod},
+           given={Philip\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b8f743f56350a6f91c4b0d102498d441}{%
+           family={Gettys},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima W.},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=32ba96365688eb551b91c13631d93638}{%
+           family={Murthy},
+           familyi={M\bibinitperiod},
+           given={Subramanyam\bibnamedelima N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{0a5b3b6c5b49ddbf905f542dc6883144}
+      \strng{authornamehash}{0a5b3b6c5b49ddbf905f542dc6883144}
+      \strng{authorfullhash}{378324af89f187512ac2698689d10c34}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An association between arteriosclerosis and homocysteine (Hcy) was first demonstrated in 1969. Hcy is a sulfur containing amino acid derived from the essential amino acid methionine (Met). Hyperhomocysteinemia (HHcy) was subsequently shown in several age-related pathologies such as osteoporosis, Alzheimer's disease, Parkinson's disease, stroke, and cardiovascular disease (CVD). Also, Hcy is associated with (but not limited to) cancer, aortic aneurysm, hypothyroidism and end renal stage disease to mention some. The circulating levels of Hcy can be increased by defects in enzymes of the metabolism of Met, deficiencies of vitamins B6, B12 and folate or by feeding Met enriched diets. Additionally, some of the pharmaceuticals currently in clinical practice such as lipid lowering, and anti-Parkinsonian drugs are known to elevate Hcy levels. Studies on supplementation with folate, vitamins B6 and B12 have shown reduction in Hcy levels but concomitant reduction in certain associated pathologies have not been definitive. The enormous importance of Hcy in health and disease is illustrated by its prevalence in the medical literature (e.g. > 22,000 publications). Although there are compelling data in favor of Hcy as a modifiable risk factor, the debate regarding the significance of Hcy mediated health effects is still ongoing. Despite associations between increased levels of Hcy with several pathologies being well documented, whether it is a causative factor, or an effect remains inconclusive. The present review though not exhaustive, is focused on several important aspects of Hcy metabolism and their relevance to health.}
+      \field{internalsortvolume}{14}
+      \field{journaltitle}{Nutrition \& Metabolism}
+      \field{title}{The metabolism and significance of homocysteine in nutrition and health}
+      \field{year}{2017}
+      \field{number}{1}
+      \range{number}{1}
+      \field{volume}{14}
+      \range{volume}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1186/s12986-017-0233-z
+      \endverb
+    \endentry
+    \entry{Grimme2010}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=3a2585af369dbd4150db746c63177b0c}{%
+           family={Grimme},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9ea89f28c9ac3083757e980d0b4a8fec}{%
+           family={Antony},
+           familyi={A\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c1a85a74b8b1d9992721d20377d7f50f}{%
+           family={Ehrlich},
+           familyi={E\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=46ef1d196909f4706f09f9180d33ab91}{%
+           family={Krieg},
+           familyi={K\bibinitperiod},
+           given={Helge},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7f2c045e27c631b672c2213391161e48}
+      \strng{authornamehash}{7f2c045e27c631b672c2213391161e48}
+      \strng{authorfullhash}{e1a418c5d65690d89c4609d3b99952c2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The method of dispersion correction as an add-on to standard Kohn-Sham density functional theory (DFT-D) has been refined regarding higher accuracy, broader range of applicability, and less empiricism. The main new ingredients are atom-pairwise specific dispersion coefficients and cutoff radii that are both computed from first principles. The coefficients for new eighth-order dispersion terms are computed using established recursion relations. System (geometry) dependent information is used for the first time in a DFT-D type approach by employing the new concept of fractional coordination numbers (CN). They are used to interpolate between dispersion coefficients of atoms in different chemical environments. The method only requires adjustment of two global parameters for each density functional, is asymptotically exact for a gas of weakly interacting neutral atoms, and easily allows the computation of atomic forces. Three-body nonadditivity terms are considered. The method has been assessed on standard benchmark sets for inter- and intramolecular noncovalent interactions with a particular emphasis on a consistent description of light and heavy element systems. The mean absolute deviations for the S22 benchmark set of noncovalent interactions for 11 standard density functionals decrease by 15\%-40\% compared to the previous (already accurate) DFT-D version. Spectacular improvements are found for a tripeptide-folding model and all tested metallic systems. The rectification of the long-range behavior and the use of more accurate C6 coefficients also lead to a much better description of large (infinite) systems as shown for graphene sheets and the adsorption of benzene on an Ag(111) surface. For graphene it is found that the inclusion of three-body terms substantially (by about 10\%) weakens the interlayer binding. We propose the revised DFT-D method as a general tool for the computation of the dispersion energy in molecules and solids of any kind with DFT and related (low-cost) electronic structure methods for large systems. © 2010 American Institute of Physics.}
+      \field{internalsortissue}{15}
+      \field{internalsortvolume}{132}
+      \field{issn}{00219606}
+      \field{journaltitle}{Journal of Chemical Physics}
+      \field{month}{4}
+      \field{title}{A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu}
+      \field{year}{2010}
+      \field{issue}{15}
+      \range{issue}{1}
+      \field{volume}{132}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.3382344
+      \endverb
+    \endentry
+    \entry{Hellweg2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=26cb7261125c49065b71e481f2cae976}{%
+           family={Hellweg},
+           familyi={H\bibinitperiod},
+           given={Arnim},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b194fce0a14db3afc984052eb570f8aa}{%
+           family={Rappoport},
+           familyi={R\bibinitperiod},
+           given={Dmitrij},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry}%
+      }
+      \strng{namehash}{5bf0d4515d6533cb33e07425e6a2e023}
+      \strng{fullhash}{5bf0d4515d6533cb33e07425e6a2e023}
+      \strng{bibnamehash}{5bf0d4515d6533cb33e07425e6a2e023}
+      \strng{authorbibnamehash}{5bf0d4515d6533cb33e07425e6a2e023}
+      \strng{authornamehash}{5bf0d4515d6533cb33e07425e6a2e023}
+      \strng{authorfullhash}{5bf0d4515d6533cb33e07425e6a2e023}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We report optimized auxiliary basis sets for use with the Karlsruhe segmented contracted basis sets including moderately diffuse basis functions (Rappoport and Furche, J. Chem. Phys., 2010, 133, 134105) in resolution-of-the-identity (RI) post-self-consistent field (post-SCF) computations for the elements H-Rn (except lanthanides). The errors of the RI approximation using optimized auxiliary basis sets are analyzed on a comprehensive test set of molecules containing the most common oxidation states of each element and do not exceed those of the corresponding unaugmented basis sets. During these studies an unsatisfying performance of the def2-SVP and def2-QZVPP auxiliary basis sets for Barium was found and improved sets are provided. We establish the versatility of the def2-SVPD, def2-TZVPPD, and def2-QZVPPD basis sets for RI-MP2 and RI-CC (coupled-cluster) energy and property calculations. The influence of diffuse basis functions on correlation energy, basis set superposition error, atomic electron affinity, dipole moments, and computational timings is evaluated at different levels of theory using benchmark sets and showcase examples.}
+      \field{internalsortissue}{2}
+      \field{internalsortvolume}{17}
+      \field{issn}{14639076}
+      \field{journaltitle}{Physical Chemistry Chemical Physics}
+      \field{month}{1}
+      \field{title}{Development of new auxiliary basis functions of the Karlsruhe segmented contracted basis sets including diffuse basis functions (def2-SVPD, def2-TZVPPD, and def2-QVPPD) for RI-MP2 and RI-CC calculations}
+      \field{year}{2015}
+      \field{issue}{2}
+      \range{issue}{1}
+      \field{pages}{1010\bibrangedash 1017}
+      \range{pages}{8}
+      \field{volume}{17}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1039/c4cp04286g
+      \endverb
+    \endentry
+    \entry{Jia2013}{article}{}
+      \name{author}{3}{}{%
+        {{hash=638f685063592b1bd85e0548131a3d99}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Xiaofang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=bcdd73174e26b44169c10e9083e72469}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=65ac06c14692476a0fbddda5f0b0bdb5}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Erkang},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{f52d51d4fddc34e9447a0278f088e3fa}
+      \strng{fullhash}{f52d51d4fddc34e9447a0278f088e3fa}
+      \strng{bibnamehash}{f52d51d4fddc34e9447a0278f088e3fa}
+      \strng{authorbibnamehash}{f52d51d4fddc34e9447a0278f088e3fa}
+      \strng{authornamehash}{f52d51d4fddc34e9447a0278f088e3fa}
+      \strng{authorfullhash}{f52d51d4fddc34e9447a0278f088e3fa}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A facile and versatile method for preparing water-soluble, stable, luminescent Cu nanoclusters (NCs) via the process of size-focusing etching from nonluminescent nanocrystals is presented. Using glutathione as a model ligand, the smallest cluster, Cu2, is selectively synthesized to form a nearly monodisperse product, eliminating the need for tedious size fractionation. Evolution of photoluminescence and absorption spectra reveal that the formation of stable cluster species occurs through surface etching. Intriguingly, the as-prepared CuNCs exhibit an aggregation-induced emission enhancement effect. The CuNCs emit a faint light when dispersed in aqueous solution, but generate a striking fluorescence intensity enhancement upon aggregation. Armed with these attractive properties, the emissive CuNCs are expected to open new opportunities for the construction of light-emitting diodes, chemosensors, and bioimaging systems. Copyright © 2013 WILEY-VCH Verlag GmbH \& Co. KGaA, Weinheim.}
+      \field{internalsortissue}{22}
+      \field{internalsortvolume}{9}
+      \field{issn}{16136810}
+      \field{journaltitle}{Small}
+      \field{month}{11}
+      \field{title}{Cu nanoclusters with aggregation induced emission enhancement}
+      \field{year}{2013}
+      \field{issue}{22}
+      \range{issue}{1}
+      \field{pages}{3873\bibrangedash 3879}
+      \range{pages}{7}
+      \field{volume}{9}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1002/smll.201300896
+      \endverb
+      \keyw{aggregation-induced emission,cluster compounds,copper nanoparticles,fluorescent emission,size-focusing}
+    \endentry
+    \entry{HoenbergKohn1964}{article}{}
+      \name{author}{2}{}{%
+        {{hash=40ea553b503fe0418f7f07689980cd95}{%
+           family={Hohenberg},
+           familyi={H\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5d41414fe0631332e20a859e66a25627}{%
+           family={Kohn},
+           familyi={K\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{7d5f8c830aae8dc4c996b32459939beb}
+      \strng{fullhash}{7d5f8c830aae8dc4c996b32459939beb}
+      \strng{bibnamehash}{7d5f8c830aae8dc4c996b32459939beb}
+      \strng{authorbibnamehash}{7d5f8c830aae8dc4c996b32459939beb}
+      \strng{authornamehash}{7d5f8c830aae8dc4c996b32459939beb}
+      \strng{authorfullhash}{7d5f8c830aae8dc4c996b32459939beb}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortissue}{3}
+      \field{internalsortvolume}{136}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{11}
+      \field{title}{Inhomogeneous Electron Gas}
+      \field{year}{1964}
+      \field{issue}{3B}
+      \range{issue}{-1}
+      \field{pages}{B864\bibrangedash B871}
+      \range{pages}{-1}
+      \field{volume}{136}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRev.136.B864
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.136.B864
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.136.B864
+      \endverb
+    \endentry
+    \entry{KohnSham1965}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5d41414fe0631332e20a859e66a25627}{%
+           family={Kohn},
+           familyi={K\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=408fdc9dce7e09d891fdc02bb87d27d9}{%
+           family={Sham},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{52da45566c0310e12ed857c5012d1622}
+      \strng{fullhash}{52da45566c0310e12ed857c5012d1622}
+      \strng{bibnamehash}{52da45566c0310e12ed857c5012d1622}
+      \strng{authorbibnamehash}{52da45566c0310e12ed857c5012d1622}
+      \strng{authornamehash}{52da45566c0310e12ed857c5012d1622}
+      \strng{authorfullhash}{52da45566c0310e12ed857c5012d1622}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortissue}{4}
+      \field{internalsortvolume}{140}
+      \field{journaltitle}{Phys. Rev.}
+      \field{month}{11}
+      \field{title}{Self-Consistent Equations Including Exchange and Correlation Effects}
+      \field{year}{1965}
+      \field{issue}{4A}
+      \range{issue}{-1}
+      \field{pages}{A1133\bibrangedash A1138}
+      \range{pages}{-1}
+      \field{volume}{140}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRev.140.A1133
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.140.A1133
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRev.140.A1133
+      \endverb
+    \endentry
+    \entry{Yanai2004}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e922e43e3d6d41340a4f6273dc7d8e99}{%
+           family={Yanai},
+           familyi={Y\bibinitperiod},
+           given={Takeshi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=09ebf1547bcc95b88ca13563d9f04163}{%
+           family={Tew},
+           familyi={T\bibinitperiod},
+           given={David\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=1f9ccaad327285e0ca09b1f0bd8846da}{%
+           family={Handy},
+           familyi={H\bibinitperiod},
+           given={Nicholas\bibnamedelima C.},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{abdabcd62f1a79fa587468f46ffe75d3}
+      \strng{fullhash}{abdabcd62f1a79fa587468f46ffe75d3}
+      \strng{bibnamehash}{abdabcd62f1a79fa587468f46ffe75d3}
+      \strng{authorbibnamehash}{abdabcd62f1a79fa587468f46ffe75d3}
+      \strng{authornamehash}{abdabcd62f1a79fa587468f46ffe75d3}
+      \strng{authorfullhash}{abdabcd62f1a79fa587468f46ffe75d3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A new hybrid exchange-correlation functional named CAM-B3LYP is proposed. It combines the hybrid qualities of B3LYP and the long-range correction presented by Tawada et al. [J. Chem. Phys., in press]. We demonstrate that CAM-B3LYP yields atomization energies of similar quality to those from B3LYP, while also performing well for charge transfer excitations in a dipeptide model, which B3LYP underestimates enormously. The CAM-B3LYP functional comprises of 0.19 Hartree-Fock (HF) plus 0.81 Becke 1988 (B88) exchange interaction at short-range, and 0.65 HF plus 0.35 B88 at long-range. The intermediate region is smoothly described through the standard error function with parameter 0.33. © 2004 Elsevier B.V. All rights reserved.}
+      \field{internalsortissue}{1}
+      \field{internalsortvolume}{393}
+      \field{issn}{00092614}
+      \field{journaltitle}{Chemical Physics Letters}
+      \field{month}{7}
+      \field{title}{A new hybrid exchange-correlation functional using the Coulomb-attenuating method (CAM-B3LYP)}
+      \field{year}{2004}
+      \field{issue}{1\bibrangedash 3}
+      \range{issue}{3}
+      \field{pages}{51\bibrangedash 57}
+      \range{pages}{7}
+      \field{volume}{393}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.cplett.2004.06.011
+      \endverb
+    \endentry
+    \entry{Perdew1996}{article}{}
+      \name{author}{3}{}{%
+        {{hash=49bd2640f858f16dfcddcc404b026f30}{%
+           family={Perdew},
+           familyi={P\bibinitperiod},
+           given={John\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=33a535778ce96cdd2d59799deeea173d}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={Kieron},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ccb694b80578a814211265eb307fdcde}{%
+           family={Ernzerhof},
+           familyi={E\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{29da3039da81061b60722fb2fe692310}
+      \strng{fullhash}{29da3039da81061b60722fb2fe692310}
+      \strng{bibnamehash}{29da3039da81061b60722fb2fe692310}
+      \strng{authorbibnamehash}{29da3039da81061b60722fb2fe692310}
+      \strng{authornamehash}{29da3039da81061b60722fb2fe692310}
+      \strng{authorfullhash}{29da3039da81061b60722fb2fe692310}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortissue}{18}
+      \field{internalsortvolume}{77}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{month}{10}
+      \field{title}{Generalized Gradient Approximation Made Simple}
+      \field{year}{1996}
+      \field{issue}{18}
+      \range{issue}{1}
+      \field{pages}{3865\bibrangedash 3868}
+      \range{pages}{4}
+      \field{volume}{77}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.77.3865
+      \endverb
+      \verb{urlraw}
+      \verb https://link.aps.org/doi/10.1103/PhysRevLett.77.3865
+      \endverb
+      \verb{url}
+      \verb https://link.aps.org/doi/10.1103/PhysRevLett.77.3865
+      \endverb
+    \endentry
+    \entry{Ernzerhof1999}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ccb694b80578a814211265eb307fdcde}{%
+           family={Ernzerhof},
+           familyi={E\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6b833ff9ec8eab914a2c220f704345e5}{%
+           family={Scuseria},
+           familyi={S\bibinitperiod},
+           given={Gustavo\bibnamedelima E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Physics Inc.}%
+      }
+      \strng{namehash}{2eb4df604820775d0adf42740f51e452}
+      \strng{fullhash}{2eb4df604820775d0adf42740f51e452}
+      \strng{bibnamehash}{2eb4df604820775d0adf42740f51e452}
+      \strng{authorbibnamehash}{2eb4df604820775d0adf42740f51e452}
+      \strng{authornamehash}{2eb4df604820775d0adf42740f51e452}
+      \strng{authorfullhash}{2eb4df604820775d0adf42740f51e452}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Is.}
+      \field{internalsortissue}{11}
+      \field{internalsortvolume}{110}
+      \field{issn}{00219606}
+      \field{journaltitle}{Journal of Chemical Physics}
+      \field{month}{3}
+      \field{title}{Assessment of the Perdew-Burke-Ernzerhof exchange-correlation functional}
+      \field{year}{1999}
+      \field{issue}{11}
+      \range{issue}{1}
+      \field{pages}{5029\bibrangedash 5036}
+      \range{pages}{8}
+      \field{volume}{110}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.478401
+      \endverb
+    \endentry
+    \entry{Chai2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3ae822c1b4ae5faabb7a06bf88ed4b35}{%
+           family={Chai},
+           familyi={C\bibinitperiod},
+           given={Jeng\bibnamedelima Da},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{%
+           family={Head-Gordon},
+           familyi={H\bibinithyphendelim G\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9025d1e06cd9d856ecf6a19c16f9dfaa}
+      \strng{fullhash}{9025d1e06cd9d856ecf6a19c16f9dfaa}
+      \strng{bibnamehash}{9025d1e06cd9d856ecf6a19c16f9dfaa}
+      \strng{authorbibnamehash}{9025d1e06cd9d856ecf6a19c16f9dfaa}
+      \strng{authornamehash}{9025d1e06cd9d856ecf6a19c16f9dfaa}
+      \strng{authorfullhash}{9025d1e06cd9d856ecf6a19c16f9dfaa}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The long-range operators for Hartree-Fock exchange from two recently proposed long-range corrected hybrid functionals, ωB97 and ωB97X [J.-D. Chai, M. Head-Gordon, J. Chem. Phys. 128 (2008) 084106], are discussed. A conserved property is found in the middle-range region of the operator from ωB97X. We argue that the fine details of the Hartree-Fock exchange mixing in this region are responsible for the accuracy of the long-range corrected hybrid functionals in thermochemistry and barrier heights.}
+      \field{internalsortissue}{1}
+      \field{internalsortvolume}{467}
+      \field{issn}{00092614}
+      \field{journaltitle}{Chemical Physics Letters}
+      \field{month}{12}
+      \field{title}{Optimal operators for Hartree-Fock exchange from long-range corrected hybrid density functionals}
+      \field{year}{2008}
+      \field{issue}{1\bibrangedash 3}
+      \range{issue}{3}
+      \field{pages}{176\bibrangedash 178}
+      \range{pages}{3}
+      \field{volume}{467}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.cplett.2008.10.070
+      \endverb
+    \endentry
+    \entry{Parr1989}{article}{useauthor=false}
+      \name{author}{6}{}{%
+        {{hash=2422f0f0806e2d3daff5fcd971be38f1}{%
+           family={Yang},
+           familyi={Y\bibinitperiod}}}%
+        {{hash=c7d2db7088ed48f282197569a96765d1}{%
+           family={Parr},
+           familyi={P\bibinitperiod}}}%
+        {{hash=c579e7a2da168f2e63e6abfd01fab784}{%
+           family={Miehlich},
+           familyi={M\bibinitperiod},
+           given={Burkhard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ec7a93259596281a7c7e413899d3c988}{%
+           family={Savin},
+           familyi={S\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3323938213ad97b8053bbb466ce4694e}{%
+           family={Stoll},
+           familyi={S\bibinitperiod},
+           given={Hermann},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9979f7fedb465e098239580a47ba46e6}{%
+           family={Preuss},
+           familyi={P\bibinitperiod},
+           given={Heinzwerner},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{cdb1f81b8a2906a92ba361e712e686c2}
+      \strng{authornamehash}{cdb1f81b8a2906a92ba361e712e686c2}
+      \strng{authorfullhash}{f4524cf7dd9a88a9c5d9b39d2f6d4aa1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Two recently published density functionals (A.D. Becke, J. Chem. Phys. 88 (1988) 1053 and C. Lee, W. Yang and R.G. Parr, Phys. Rev. B 37 (1988) 785) arc used to calculate the correlation energies of first-row atoms, ions and molecules. The correlation contributions to ionization energies, electron aftinities and dissociation energies thus obtamed are ofcomparable quality to those of other density functionals.}
+      \field{internalsortissue}{3}
+      \field{internalsortvolume}{157}
+      \field{journaltitle}{CHEMICAL PHYSICS LETTERS}
+      \field{title}{RESULTS OBTAINED WITH THE CORRELATION ENERGY DENSITY FUNCTIONALS OF}
+      \field{year}{1989}
+      \field{issue}{3}
+      \range{issue}{1}
+      \field{volume}{157}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/0009-2614(89)87234-3
+      \endverb
+    \endentry
+    \entry{ORCA6}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fff80c744c5a0bff437149b6520d03a2}{%
+           family={Neese},
+           familyi={N\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{fff80c744c5a0bff437149b6520d03a2}
+      \strng{fullhash}{fff80c744c5a0bff437149b6520d03a2}
+      \strng{bibnamehash}{fff80c744c5a0bff437149b6520d03a2}
+      \strng{authorbibnamehash}{fff80c744c5a0bff437149b6520d03a2}
+      \strng{authornamehash}{fff80c744c5a0bff437149b6520d03a2}
+      \strng{authorfullhash}{fff80c744c5a0bff437149b6520d03a2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{15}
+      \field{journaltitle}{WIREs Computational Molecular Science}
+      \field{title}{Software Update: The ORCA Program System—Version 6.0}
+      \field{year}{2025}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{e70019}
+      \range{pages}{-1}
+      \field{volume}{15}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1002/wcms.70019
+      \endverb
+    \endentry
+    \entry{ORCA_cpcm_1}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f01ac137805c977b24c113472a96678b}{%
+           family={Takano},
+           familyi={T\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=82a91bdeacc9d8b36b951d4324ac92c2}{%
+           family={Houk},
+           familyi={H\bibinitperiod},
+           given={K.\bibnamedelimi N.},
+           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{a2ead5c95a78a100041adef77a5be886}
+      \strng{fullhash}{a2ead5c95a78a100041adef77a5be886}
+      \strng{bibnamehash}{a2ead5c95a78a100041adef77a5be886}
+      \strng{authorbibnamehash}{a2ead5c95a78a100041adef77a5be886}
+      \strng{authornamehash}{a2ead5c95a78a100041adef77a5be886}
+      \strng{authorfullhash}{a2ead5c95a78a100041adef77a5be886}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The conductor-like polarizable continuum model (CPCM) using several cavity models is applied to compute aqueous solvation free energies for a number of organic molecules (30 neutral molecules, 21 anions, and 19 cations). The calculated solvation free energies are compared to the available experimental data from the viewpoint of cavity models, computational methods, calculation time, and aqueous pKa values. The HF/6-31+G(d)//HF/6-31+G(d) and the HF/6-31+G(d)//B3LYP/6-31+G(d) with the UAKS cavities, in which radii are optimized with PBE0/6-31G(d), provide aqueous solvation effects in best agreement with available experimental data. The mean absolute deviations from experiment are 2.6 kcal/mol. The MP2/6-31++G-(d,p)//HF/6-31+G(d) with the CPCM-UAKS(HF/6-31+G(d)) calculation is also performed for the base-catalyzed hydrolysis of methyl acetate in water. © 2005 American Chemical Society.}
+      \field{internalsortissue}{1}
+      \field{internalsortvolume}{1}
+      \field{issn}{15499626}
+      \field{journaltitle}{Journal of Chemical Theory and Computation}
+      \field{title}{Benchmarking the conductor-like polarizable continuum model (CPCM) for aqueous solvation free energies of neutral and ionic organic molecules}
+      \field{year}{2005}
+      \field{issue}{1}
+      \range{issue}{1}
+      \field{pages}{70\bibrangedash 77}
+      \range{pages}{8}
+      \field{volume}{1}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1021/ct049977a
+      \endverb
+    \endentry
+    \entry{ORCA_cpcm_2}{online}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{title}{ORCA Input Library}
+      \verb{urlraw}
+      \verb https://sites.google.com/site/orcainputlibrary/continuum-solvation-cpcmcosmo-smd
+      \endverb
+      \verb{url}
+      \verb https://sites.google.com/site/orcainputlibrary/continuum-solvation-cpcmcosmo-smd
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

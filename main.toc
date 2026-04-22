@@ -1,0 +1,17 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Содержание}{2}{Doc-Start}%
+\contentsline {section}{ВВЕДЕНИЕ}{3}{Doc-Start}%
+\contentsline {section}{ЛИТЕРАТУРНЫЙ ОБЗОР}{5}{Doc-Start}%
+\contentsline {subsection}{Металлические кластеры}{5}{section*.1}%
+\contentsline {subsection}{Тиоляты}{8}{Item.10}%
+\contentsline {subsection}{Квантово-химические вычисления}{9}{Item.14}%
+\contentsline {section}{МЕТОДЫ ИССЛЕДОВАНИЯ}{15}{Item.19}%
+\contentsline {section}{РЕЗУЛЬТАТЫ И ОБСУЖДЕНИЕ}{16}{Item.22}%
+\contentsline {subsection}{Комплексы с SCH$_3$}{16}{section*.2}%
+\contentsline {subsection}{Комплексы с цистеином}{25}{table.4}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{32}{figure.12}%
+\contentsline {section}{БЛАГОДАРНОСТИ}{34}{figure.12}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ЛИТЕРАТУРНЫХ ИСТОЧНИКОВ И ИНФОРМАЦИОННЫХ МАТЕРИАЛОВ}{35}{figure.12}%
+\contentsline {section}{ПРИЛОЖЕНИЯ}{40}{figure.12}%
+\contentsline {subsection}{Геометрии и декартовы координаты оптимизированных комплексовмплексов}{40}{section*.3}%
+\contentsfinish 
