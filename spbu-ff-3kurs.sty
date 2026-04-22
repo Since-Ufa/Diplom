@@ -1,0 +1,118 @@
+% Kompanies Mikhail
+
+\usepackage[a4paper,top=2cm,bottom=2cm,left=2.5cm,right=1cm,marginparwidth=1.75cm]{geometry}
+\savegeometry{Base}
+
+\addto\captionsrussian{\renewcommand{\contentsname}{\centering \large Содержание}}
+\addto\captionsrussian{\renewcommand{\refname}{\centering \large Список использованных литературных источников 
+и информационных материалов}}
+\setlength{\parindent}{0ex}
+\setlength{\parskip}{0.4cm}
+\renewcommand{\baselinestretch}{1.15}
+
+\usepackage{fontspec} 
+\setmainfont{Times New Roman}
+
+\hyphenation{СПбГУ}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{} 
+\fancyhead[C]{\thepage}
+\renewcommand{\headrule}{}
+
+
+%\usepackage[compact,explicit]{titlesec}
+\usepackage{titlesec}
+\titleformat{\section}
+   {\normalfont\Large\centering}{\thesection}{1em}{}
+\titleformat{\subsection}
+   {\normalfont\large\centering}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}
+   {\normalfont\large\centering}{\thesubsubsection}{1em}{}
+
+\usepackage{titletoc}
+
+%\makeatletter
+%\let\c@lofdepth\relax
+%\let\c@lotdepth\relax
+%\makeatother
+%\usepackage{tocloft}
+%\renewcommand{\cftsecdotsep}{\cftdotsep}
+
+\contentsmargin[1cm]{0cm}
+
+\titlecontents{section}[1em]{}
+{\thecontentslabel\enspace}
+{}
+{\titlerule*[0.7pc]{.}\contentspage}[\vskip -8pt]
+
+%\makeatletter
+%\renewcommand*\l@section{\@dottedtocline{1}{1.5em}{2.3em}}
+%\makeatother
+
+\newcommand{\ToC}[0]{
+\newgeometry{top=2cm,bottom=2cm,left=2.0cm,right=1cm,marginparwidth=1.75cm}
+  \addcontentsline{toc}{section}{Содержание}
+\tableofcontents
+\newpage
+\loadgeometry{Base}
+}
+   
+
+\newcommand{\FirstPage}[8]{
+\thispagestyle{empty}
+\begin{center} ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ\\
+ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ\\
+«САНКТ-ПЕТЕРБУРГСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ»\\
+(СПбГУ)
+\end{center}
+
+\begin{center}
+	Кафедра молекулярной биофизики и физики полимеров
+\end{center} 
+
+\begin{center}
+        \includegraphics[width=0.25\linewidth]{gerb.png} 
+\end{center}
+
+\begin{center}
+\large 
+    \textbf{Электронно-возбужденные состояния в кластерах меди,\\ защищенных тиолятами}
+\end{center}
+
+\begin{center}
+	Выпускная квалификационная работа \\
+	Специальность #1   
+\end{center} 
+
+
+\vspace{1.cm}
+\begin{flushright}
+  Выполнил студент 4 курса бакалавриата \\
+(группа #2)\\
+\textbf{#3}     
+\end{flushright}
+
+\begin{flushright}
+Научный руководитель: \\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ #4, \textbf{#5}
+\end{flushright}
+
+\begin{flushright}
+	Рецензент: \\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ #6, \textbf{#7}
+\end{flushright}
+
+
+\vspace{2cm}
+
+\begin{center}
+    Санкт-Петербург\\
+    #8
+\end{center}
+
+\newpage
+}
+
+
