@@ -2101,6 +2101,59 @@
       \verb https://sites.google.com/site/orcainputlibrary/continuum-solvation-cpcmcosmo-smd
       \endverb
     \endentry
+    \entry{Grimme2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=3a2585af369dbd4150db746c63177b0c}{%
+           family={Grimme},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c1a85a74b8b1d9992721d20377d7f50f}{%
+           family={Ehrlich},
+           familyi={E\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7cb60366f9b8a050856b7dcdde43b066}{%
+           family={Goerigk},
+           familyi={G\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4b6041b0a755ed3bf5baedebafa62a0}
+      \strng{fullhash}{a4b6041b0a755ed3bf5baedebafa62a0}
+      \strng{bibnamehash}{a4b6041b0a755ed3bf5baedebafa62a0}
+      \strng{authorbibnamehash}{a4b6041b0a755ed3bf5baedebafa62a0}
+      \strng{authornamehash}{a4b6041b0a755ed3bf5baedebafa62a0}
+      \strng{authorfullhash}{a4b6041b0a755ed3bf5baedebafa62a0}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract It is shown by an extensive benchmark on molecular energy data that the mathematical form of the damping function in DFT-D methods has only a minor impact on the quality of the results. For 12 different functionals, a standard “zero-damping” formula and rational damping to finite values for small interatomic distances according to Becke and Johnson (BJ-damping) has been tested. The same (DFT-D3) scheme for the computation of the dispersion coefficients is used. The BJ-damping requires one fit parameter more for each functional (three instead of two) but has the advantage of avoiding repulsive interatomic forces at shorter distances. With BJ-damping better results for nonbonded distances and more clear effects of intramolecular dispersion in four representative molecular structures are found. For the noncovalently-bonded structures in the S22 set, both schemes lead to very similar intermolecular distances. For noncovalent interaction energies BJ-damping performs slightly better but both variants can be recommended in general. The exception to this is Hartree-Fock that can be recommended only in the BJ-variant and which is then close to the accuracy of corrected GGAs for non-covalent interactions. According to the thermodynamic benchmarks BJ-damping is more accurate especially for medium-range electron correlation problems and only small and practically insignificant double-counting effects are observed. It seems to provide a physically correct short-range behavior of correlation/dispersion even with unmodified standard functionals. In any case, the differences between the two methods are much smaller than the overall dispersion effect and often also smaller than the influence of the underlying density functional. © 2011 Wiley Periodicals, Inc. J Comput Chem, 2011}
+      \field{internalsortvolume}{32}
+      \field{journaltitle}{Journal of Computational Chemistry}
+      \field{title}{Effect of the damping function in dispersion corrected density functional theory}
+      \field{year}{2011}
+      \field{number}{7}
+      \range{number}{1}
+      \field{pages}{1456\bibrangedash 1465}
+      \range{pages}{10}
+      \field{volume}{32}
+      \range{volume}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1002/jcc.21759
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcc.21759
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.21759
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.21759
+      \endverb
+      \keyw{dispersion energy,density functional theory,noncovalent interactions,van der Waals complexes}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
