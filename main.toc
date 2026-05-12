@@ -15,4 +15,5 @@
 \contentsline {section}{ПРИЛОЖЕНИЯ}{43}{figure.15}%
 \contentsline {subsection}{Декартовы координаты оптимизированных комплексов}{43}{section*.3}%
 \contentsline {subsection}{Оптимизированные геометрии комплексов в воде}{49}{section*.3}%
+\contentsline {subsection}{Энергии электронных переходов для комплексов \ce {Cu} + \ce {SCH3} в газовой фазе}{50}{figure.17}%
 \contentsfinish 

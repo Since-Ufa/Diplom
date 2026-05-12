@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.11.30)  8 MAY 2026 11:10
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.11.30)  12 MAY 2026 14:26
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1622,7 +1622,7 @@ Package biblatex Info: Reference segment=0 on input line 62.
 
 Package chemgreek Info: Activating mapping `fontspec' on line 62.
 
-<gerb.png, id=65, 2007.5pt x 2505.36pt>
+<gerb.png, id=69, 2007.5pt x 2505.36pt>
 File: gerb.png Graphic file (type png)
 <use gerb.png>
 Package luatex.def Info: gerb.png  used on input line 65.
@@ -1751,6 +1751,11 @@ Overfull \hbox (12.0pt too wide) detected at line 17
  []\TU/TimesNewRoman(0)/m/n/12 49
  []
 
+
+Overfull \hbox (12.0pt too wide) detected at line 18
+ []\TU/TimesNewRoman(0)/m/n/12 50
+ []
+
 )
 \tf@toc=\write6
 
@@ -1791,7 +1796,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 108.
 
-<pictures/metal_NCs.png, id=131, 1959.32pt x 1511.6475pt>
+<pictures/metal_NCs.png, id=136, 1959.32pt x 1511.6475pt>
 File: pictures/metal_NCs.png Graphic file (type png)
 <use pictures/metal_NCs.png>
 Package luatex.def Info: pictures/metal_NCs.png  used on input line 114.
@@ -1856,7 +1861,7 @@ Overfull \hbox (23.14511pt too wide) in paragraph at lines 213--214
 бо-ты раз-лич-ных DFT-функционалов
  []
 
-<figures/cu_mass_spec.png, id=254, 665.48625pt x 506.89375pt>
+<figures/cu_mass_spec.png, id=259, 665.48625pt x 506.89375pt>
 File: figures/cu_mass_spec.png Graphic file (type png)
 <use figures/cu_mass_spec.png>
 Package luatex.def Info: figures/cu_mass_spec.png  used on input line 219.
@@ -1919,7 +1924,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 365.
 
-<pictures/opt_SCH3_vac.jpg, id=345, 1019.81pt x 581.17125pt>
+<pictures/opt_SCH3_vac.jpg, id=350, 1019.81pt x 581.17125pt>
 File: pictures/opt_SCH3_vac.jpg Graphic file (type jpg)
 <use pictures/opt_SCH3_vac.jpg>
 Package luatex.def Info: pictures/opt_SCH3_vac.jpg  used on input line 374.
@@ -1967,7 +1972,7 @@ o.pdf>
 -eps-converted-to.pdf pictures/spectra/Cu_vacuum.eps>
 (epstopdf)             \includegraphics on input line 499.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/Cu_vacuum-eps-converted-to.pdf, id=369, 774.895pt x 593.21625
+<pictures/spectra/Cu_vacuum-eps-converted-to.pdf, id=374, 774.895pt x 593.21625
 pt>
 File: pictures/spectra/Cu_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu_vacuum-eps-converted-to.pdf>
@@ -1995,7 +2000,7 @@ to.pdf>
 m-eps-converted-to.pdf pictures/spectra/Cu2_vacuum.eps>
 (epstopdf)             \includegraphics on input line 506.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/Cu2_vacuum-eps-converted-to.pdf, id=378, 774.895pt x 593.2162
+<pictures/spectra/Cu2_vacuum-eps-converted-to.pdf, id=383, 774.895pt x 593.2162
 5pt>
 File: pictures/spectra/Cu2_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu2_vacuum-eps-converted-to.pdf>
@@ -2024,7 +2029,7 @@ to.pdf>
 m-eps-converted-to.pdf pictures/spectra/Cu3_vacuum.eps>
 (epstopdf)             \includegraphics on input line 527.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/Cu3_vacuum-eps-converted-to.pdf, id=481, 774.895pt x 593.2162
+<pictures/spectra/Cu3_vacuum-eps-converted-to.pdf, id=486, 774.895pt x 593.2162
 5pt>
 File: pictures/spectra/Cu3_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu3_vacuum-eps-converted-to.pdf>
@@ -2052,7 +2057,7 @@ to.pdf>
 m-eps-converted-to.pdf pictures/spectra/Cu4_vacuum.eps>
 (epstopdf)             \includegraphics on input line 534.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/Cu4_vacuum-eps-converted-to.pdf, id=489, 774.895pt x 593.2162
+<pictures/spectra/Cu4_vacuum-eps-converted-to.pdf, id=494, 774.895pt x 593.2162
 5pt>
 File: pictures/spectra/Cu4_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu4_vacuum-eps-converted-to.pdf>
@@ -2070,7 +2075,7 @@ to.pdf>
 m-eps-converted-to.pdf pictures/spectra/Cu5_vacuum.eps>
 (epstopdf)             \includegraphics on input line 541.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/Cu5_vacuum-eps-converted-to.pdf, id=490, 774.895pt x 593.2162
+<pictures/spectra/Cu5_vacuum-eps-converted-to.pdf, id=495, 774.895pt x 593.2162
 5pt>
 File: pictures/spectra/Cu5_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu5_vacuum-eps-converted-to.pdf>
@@ -2108,7 +2113,7 @@ erted-to.pdf>
 _vacuum-eps-converted-to.pdf pictures/spectra/CAM-B3Lyp_vacuum.eps>
 (epstopdf)             \includegraphics on input line 576.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/CAM-B3Lyp_vacuum-eps-converted-to.pdf, id=640, 774.895pt x 59
+<pictures/spectra/CAM-B3Lyp_vacuum-eps-converted-to.pdf, id=649, 774.895pt x 59
 3.21625pt>
 File: pictures/spectra/CAM-B3Lyp_vacuum-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -2127,7 +2132,7 @@ ed-to.pdf>
 cuum-eps-converted-to.pdf pictures/spectra/M06-2X_vacuum.eps>
 (epstopdf)             \includegraphics on input line 583.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/M06-2X_vacuum-eps-converted-to.pdf, id=641, 774.895pt x 593.2
+<pictures/spectra/M06-2X_vacuum-eps-converted-to.pdf, id=650, 774.895pt x 593.2
 1625pt>
 File: pictures/spectra/M06-2X_vacuum-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -2154,17 +2159,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [26<./pictures/spectra/M06-2X_vacuum-eps-converted-to.pdf>]
-<figures/orbitals/Cu2L2_1.jpg, id=724, 963.6pt x 542.025pt>
+<figures/orbitals/Cu2L2_1.jpg, id=733, 963.6pt x 542.025pt>
 File: figures/orbitals/Cu2L2_1.jpg Graphic file (type jpg)
 <use figures/orbitals/Cu2L2_1.jpg>
 Package luatex.def Info: figures/orbitals/Cu2L2_1.jpg  used on input line 599.
 (luatex.def)             Requested size: 164.31558pt x 92.42422pt.
-<figures/orbitals/Cu2L2_2.jpg, id=726, 963.6pt x 542.025pt>
+<figures/orbitals/Cu2L2_2.jpg, id=735, 963.6pt x 542.025pt>
 File: figures/orbitals/Cu2L2_2.jpg Graphic file (type jpg)
 <use figures/orbitals/Cu2L2_2.jpg>
 Package luatex.def Info: figures/orbitals/Cu2L2_2.jpg  used on input line 600.
 (luatex.def)             Requested size: 164.31558pt x 92.42422pt.
-<figures/orbitals/Cu2L2_3.jpg, id=728, 963.6pt x 542.025pt>
+<figures/orbitals/Cu2L2_3.jpg, id=737, 963.6pt x 542.025pt>
 File: figures/orbitals/Cu2L2_3.jpg Graphic file (type jpg)
 <use figures/orbitals/Cu2L2_3.jpg>
 Package luatex.def Info: figures/orbitals/Cu2L2_3.jpg  used on input line 601.
@@ -2184,7 +2189,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [27<./figures/orbitals/Cu2L2_1.jpg><./figures/orbitals/Cu2L2_2.jpg><./figures/or
 bitals/Cu2L2_3.jpg>]
-<pictures/opt_Cys_vac.jpg, id=747, 1019.81pt x 581.17125pt>
+<pictures/opt_Cys_vac.jpg, id=756, 1019.81pt x 581.17125pt>
 File: pictures/opt_Cys_vac.jpg Graphic file (type jpg)
 <use pictures/opt_Cys_vac.jpg>
 Package luatex.def Info: pictures/opt_Cys_vac.jpg  used on input line 658.
@@ -2242,7 +2247,7 @@ converted-to.pdf>
 3Lyp_vacuum-eps-converted-to.pdf pictures/spectra/Cys_CAM-B3Lyp_vacuum.eps>
 (epstopdf)             \includegraphics on input line 797.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to.pdf, id=775, 774.895pt 
+<pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to.pdf, id=784, 774.895pt 
 x 593.21625pt>
 File: pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -2261,7 +2266,7 @@ verted-to.pdf>
 X_vacuum-eps-converted-to.pdf pictures/spectra/Cys_M06-2X_vacuum.eps>
 (epstopdf)             \includegraphics on input line 804.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pdf, id=776, 774.895pt x 5
+<pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pdf, id=785, 774.895pt x 5
 93.21625pt>
 File: pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pdf Graphic file (typ
 e pdf)
@@ -2300,7 +2305,7 @@ ted-to.pdf>
 acuum-eps-converted-to.pdf pictures/spectra/COMP_Cu_vacuum.eps>
 (epstopdf)             \includegraphics on input line 828.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/COMP_Cu_vacuum-eps-converted-to.pdf, id=859, 774.895pt x 593.
+<pictures/spectra/COMP_Cu_vacuum-eps-converted-to.pdf, id=868, 774.895pt x 593.
 21625pt>
 File: pictures/spectra/COMP_Cu_vacuum-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2319,7 +2324,7 @@ rted-to.pdf>
 vacuum-eps-converted-to.pdf pictures/spectra/COMP_Cu2_vacuum.eps>
 (epstopdf)             \includegraphics on input line 829.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/COMP_Cu2_vacuum-eps-converted-to.pdf, id=861, 774.895pt x 593
+<pictures/spectra/COMP_Cu2_vacuum-eps-converted-to.pdf, id=870, 774.895pt x 593
 .21625pt>
 File: pictures/spectra/COMP_Cu2_vacuum-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -2343,7 +2348,7 @@ rted-to.pdf>
 vacuum-eps-converted-to.pdf pictures/spectra/COMP_Cu3_vacuum.eps>
 (epstopdf)             \includegraphics on input line 831.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/COMP_Cu3_vacuum-eps-converted-to.pdf, id=863, 774.895pt x 593
+<pictures/spectra/COMP_Cu3_vacuum-eps-converted-to.pdf, id=872, 774.895pt x 593
 .21625pt>
 File: pictures/spectra/COMP_Cu3_vacuum-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -2362,7 +2367,7 @@ rted-to.pdf>
 vacuum-eps-converted-to.pdf pictures/spectra/COMP_Cu4_vacuum.eps>
 (epstopdf)             \includegraphics on input line 832.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/COMP_Cu4_vacuum-eps-converted-to.pdf, id=865, 774.895pt x 593
+<pictures/spectra/COMP_Cu4_vacuum-eps-converted-to.pdf, id=874, 774.895pt x 593
 .21625pt>
 File: pictures/spectra/COMP_Cu4_vacuum-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -2386,7 +2391,7 @@ rted-to.pdf>
 vacuum-eps-converted-to.pdf pictures/spectra/COMP_Cu5_vacuum.eps>
 (epstopdf)             \includegraphics on input line 834.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/COMP_Cu5_vacuum-eps-converted-to.pdf, id=867, 774.895pt x 593
+<pictures/spectra/COMP_Cu5_vacuum-eps-converted-to.pdf, id=876, 774.895pt x 593
 .21625pt>
 File: pictures/spectra/COMP_Cu5_vacuum-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -2578,7 +2583,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [48]
-<pictures/opt_SCH3_wat.jpg, id=1241, 1019.81pt x 581.17125pt>
+<pictures/opt_SCH3_wat.jpg, id=1250, 1019.81pt x 581.17125pt>
 File: pictures/opt_SCH3_wat.jpg Graphic file (type jpg)
 <use pictures/opt_SCH3_wat.jpg>
 Package luatex.def Info: pictures/opt_SCH3_wat.jpg  used on input line 1417.
@@ -2588,7 +2593,7 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 1417--1418
  [][] 
  []
 
-<pictures/opt_Cys_wat.jpg, id=1242, 1019.81pt x 581.17125pt>
+<pictures/opt_Cys_wat.jpg, id=1251, 1019.81pt x 581.17125pt>
 File: pictures/opt_Cys_wat.jpg Graphic file (type jpg)
 <use pictures/opt_Cys_wat.jpg>
 Package luatex.def Info: pictures/opt_Cys_wat.jpg  used on input line 1424.
@@ -2599,6 +2604,14 @@ Overfull \hbox (0.79999pt too wide) in paragraph at lines 1424--1425
  []
 
 
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mhchem@cee' on input line 1430.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mhchem@cee' on input line 1430.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -2606,7 +2619,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[49<./pictures/opt_SCH3_wat.jpg><./pictures/opt_Cys_wat.jpg>] (./main.aux)
+[49<./pictures/opt_SCH3_wat.jpg><./pictures/opt_Cys_wat.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[50]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[51] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -2616,22 +2647,22 @@ L3 programming layer <2024-02-20>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 092E7121DF90176786F65330047DC3F3;3809.
+(rerunfilecheck)             Checksum: 02FA87832FD4DFDAC9836A65208DB4FD;4393.
 Package logreq Info: Writing requests to 'main.run.xml'.
 
 \openout1 = main.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 39898 strings out of 476447
+ 39911 strings out of 476447
  156460,4921788 words of node,token memory allocated
  1376 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 13 glue, 4 kern, 1 glyph, 160 attribute, 78 glue_sp
 ec, 82 attribute_list, 2 write, 34 pdf_action nodes
-   avail lists: 1:2,2:5588,3:1371,4:174,5:512,6:86,7:9379,8:124,9:3808,10:15,11:
+   avail lists: 1:2,2:5588,3:1371,4:182,5:512,6:86,7:9379,8:124,9:3808,10:15,11:
 1341
- 60816 multiletter control sequences out of 65536+600000
- 85 fonts using 17170727 bytes
+ 60825 multiletter control sequences out of 65536+600000
+ 91 fonts using 17542911 bytes
  102i,18n,102p,2809b,3207s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name 'Hfootnote.11'
@@ -2670,10 +2701,10 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (49 pages, 7363482 bytes).
+Output written on main.pdf (51 pages, 7370130 bytes).
 
-PDF statistics: 1325 PDF objects out of 1440 (max. 8388607)
- 785 compressed objects within 8 object streams
- 180 named destinations out of 1000 (max. 131072)
- 224 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1342 PDF objects out of 1440 (max. 8388607)
+ 800 compressed objects within 8 object streams
+ 184 named destinations out of 1000 (max. 131072)
+ 232 words of extra memory for PDF output out of 10000 (max. 100000000)
 

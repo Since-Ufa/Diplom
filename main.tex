@@ -543,7 +543,7 @@
 		\label{fig_bench_Cu5_vac}
 	\end{figure}
 	
-	Для всех комплексов посчитаны среднеквадратичные разности DFT и CCSD энергий для соответствующих переходов. Также отдельно посчитана среднеквадратичная ошибка (RMSE) для первого перехода (обычно, HOMO$\rarr$LUMO), в силу особого интереса к этой характеристике. Полученные результаты представлены в Табл.\ths\ref{tab_bench_1} и Табл.\ths\ref{tab_bench_2}.
+	Для всех комплексов посчитаны среднеквадратичные разности DFT и CCSD энергий для соответствующих переходов. Ознакомиться с энергиями электронных переходов между соответствующими энергетическими уровнями можно в Приложении (см.\ths Табл.\ths\ref{tab_pril_1}). Квадраты разностей энергий переходов представлены в Табл.\ths\ref{tab_pril_2}. Также отдельно посчитана среднеквадратичная ошибка (RMSE) для первого перехода (обычно, HOMO$\rarr$LUMO), в силу особого интереса к этой характеристике. Полученные результаты представлены в Табл.\ths\ref{tab_bench_1} и Табл.\ths\ref{tab_bench_2}.
 	
 	\begin{table}[H]
 		\caption{Среднеквадратичная ошибка CCSD–DFT для всех переходов в эВ.}
@@ -551,8 +551,8 @@
 		\centering
 		\begin{tabular}{|c|c|c|c|c|c|c|}
 			\hline
-			BHandH-LYP	&	CAM-B3LYP	& M06-2X	& PBE0	& wB97X		 \\ \hline
-			1,68				 &   1,05					& 1,39			 & 1,42		& 1,75			 \\ \hline
+			BHandH-LYP	&	CAM-B3LYP	& M06-2X	& PBE0	& wB97X	 	\\ \hline
+			1,68		&   1,05		& 1,39		& 1,42	& 1,75	 	\\ \hline
 		\end{tabular}
 	\end{table}
 	
@@ -563,7 +563,7 @@
 		\begin{tabular}{|c|c|c|c|c|c|c|}
 			\hline
 			BHandH-LYP	&	CAM-B3LYP	& M06-2X	& PBE0	& wB97X 	\\ \hline
-			0,45				 &   0,37					& 0,48			& 0,68	 & 0,79 		 \\ \hline
+			0,45		&   0,37		& 0,48		& 0,68	& 0,79 		\\ \hline
 		\end{tabular}
 	\end{table}	
 	
@@ -1425,6 +1425,75 @@ H       -3.705514000      8.368932000     -0.623581000
 		\caption{Оптимизированные {в воде} геометрии комплексов, стабилизированных цистеином (метод:\ths MP2\ths def2-TZVP).}
 		\label{fig_geoopt_SCH3_wat}
 	\end{figure}
+	
+	\subsection*{Приложение 3. Энергии электронных переходов для комплексов \ce{Cu} + \ce{SCH3} в газовой фазе}
+	\addcontentsline{toc}{subsection}{Энергии электронных переходов для комплексов \ce{Cu} + \ce{SCH3} в газовой фазе}
+	
+	\begin{table}[H]
+		\caption{Энергии соответствующих переходов для DFT функционалов и CCSD в эВ.}
+		\label{tab_pril_1}
+		\centering
+		\begin{tabular}{|c|c|c|c|c|c|c|}
+			\hline
+			\textbf{переход}        & \textbf{BHandHLYP} & \textbf{CAM-B3LYP} & \textbf{M06-2X} & \textbf{PBE0}  & \textbf{wB97X} & \textbf{CCSD}  \\ \hline
+			\multicolumn{7}{|c|}{\ce{Cu[SCH3]2}}                                           \\ \hline
+			HOMO $\rarr$ LUMO   & 4,724     & 4,527     & 4,567  & 4,277 & 4,901 & 4,462 \\ \hline
+			HOMO-1 $\rarr$ LUMO & 4,786     & 4,596     & 4,634  & 4,360 & 4,964 & 4,542 \\ \hline
+			HOMO $\rarr$ LUMO+2 & 5,206     & 4,992     & 5,043  & 4,823 & 5,228 & 4,726 \\ \hline
+			HOMO-3 $\rarr$ LUMO & 5,611     & 5,528     & 5,394  & 5,188 & 5,979 & 4,968 \\ \hline
+			\multicolumn{7}{|c|}{\ce{Cu2[SCH3]2}}                                          \\ \hline
+			HOMO $\rarr$ LUMO   & 3,193     & 3,374     & 3,131  & 2,975 & 3,785 & 3,355 \\ \hline
+			HOMO $\rarr$ LUMO+1 & 3,647     & 3,494     & 3,321  & 3,067 & 4,021 & 3,561 \\ \hline
+			HOMO $\rarr$ LUMO+2 & 3,647     & 3,725     & 3,394  & 3,555 & 3,906 & 3,705 \\ \hline
+			HOMO $\rarr$ LUMO+3 & 4,411     & 4,351     & 4,239  & 4,188 & 4,443 & 4,498 \\ \hline
+			HOMO $\rarr$ LUMO+4 & 4,816     & 4,797     & 4,550  & —     & 4,968 & 4,857 \\ \hline
+			\multicolumn{7}{|c|}{\ce{Cu3[SCH3]2}}                                          \\ \hline
+			HOMO $\rarr$ LUMO   & 3,458     & 3,109     & 3,443  & 3,171 & 2,979 & 3,429 \\ \hline
+			\multicolumn{7}{|c|}{\ce{Cu4[SCH3]3}}                                          \\ \hline
+			HOMO $\rarr$ LUMO   & 2,460     & 2,513     & 2,254  & 2,214 & 2,729 & 2,565 \\ \hline
+			HOMO $\rarr$ LUMO+1 & 2,981     & 2,921     & 3,019  & 2,842 & 2,920 & 2,860 \\ \hline
+			HOMO $\rarr$ LUMO+2 & 3,238     & 3,423     & 2,746  & 3,016 & 3,879 & 3,166 \\ \hline
+			HOMO $\rarr$ LUMO+5 & 4,009     & 4,149     & 3,751  & 3,671 & 3,892 & 3,824 \\ \hline
+			\multicolumn{7}{|c|}{\ce{Cu5[SCH3]4}}                                          \\ \hline
+			HOMO $\rarr$ LUMO   & 2,981     & 3,116     & 3,021  & 2,975 & 3,170 & 3,288 \\ \hline
+			HOMO $\rarr$ LUMO+1 & 2,460     & 3,132     & 2,926  & 2,862 & 3,258 & 3,727 \\ \hline
+			HOMO $\rarr$ LUMO+4 & 4,017     & 4,283     & 3,991  & 3,851 & —     & 4,396 \\ \hline
+			HOMO $\rarr$ LUMO+5 & 4,625     & —         & 4,154  & —     & 4,443 & 4,459 \\ \hline
+		\end{tabular}
+	\end{table}
+	
+	\begin{table}[H]
+	\caption{Квадрат разности энергии соответствующих переходов 'CCSD – функционал' в эВ.}
+	\label{tab_pril_2}
+	\centering
+		\begin{tabular}{|c|c|c|c|c|c|}
+			\hline
+			\textbf{переход}        & \textbf{BHandHLYP} & \textbf{CAM-B3LYP} & \textbf{M06-2X} & \textbf{PBE0}  & \textbf{wB97X}\\ \hline
+			\multicolumn{6}{|c|}{\ce{Cu[SCH3]2}}                                   \\ \hline
+			HOMO $\rarr$ LUMO   & 0,069     & 0,004     & 0,011  & 0,034 & 0,193 \\ \hline
+			HOMO-1 $\rarr$ LUMO & 0,059     & 0,003     & 0,008  & 0,033 & 0,178 \\ \hline
+			HOMO $\rarr$ LUMO+2 & 0,230     & 0,071     & 0,101  & 0,009 & 0,252 \\ \hline
+			HOMO-3 $\rarr$ LUMO & 0,413     & 0,314     & 0,181  & 0,049 & 1,022 \\ \hline
+			\multicolumn{6}{|c|}{\ce{Cu2[SCH3]2}}                                  \\ \hline
+			HOMO $\rarr$ LUMO   & 0,026     & 0,000     & 0,050  & 0,144 & 0,185 \\ \hline
+			HOMO $\rarr$ LUMO+1 & 0,007     & 0,005     & 0,058  & 0,244 & 0,211 \\ \hline
+			HOMO $\rarr$ LUMO+2 & 0,003     & 0,000     & 0,096  & 0,022 & 0,040 \\ \hline
+			HOMO $\rarr$ LUMO+3 & 0,007     & 0,022     & 0,067  & 0,096 & 0,003 \\ \hline
+			HOMO $\rarr$ LUMO+4 & 0,002     & 0,004     & 0,094  & —     & 0,012 \\ \hline
+			\multicolumn{6}{|c|}{\ce{Cu3[SCH3]2}}                                  \\ \hline
+			HOMO $\rarr$ LUMO   & 0,001     & 0,102     & 0,000  & 0,066 & 0,203 \\ \hline
+			\multicolumn{6}{|c|}{\ce{Cu4[SCH3]3}}                                  \\ \hline
+			HOMO $\rarr$ LUMO   & 0,011     & 0,003     & 0,097  & 0,123 & 0,027 \\ \hline
+			HOMO $\rarr$ LUMO+1 & 0,015     & 0,004     & 0,025  & 0,000 & 0,004 \\ \hline
+			HOMO $\rarr$ LUMO+2 & 0,005     & 0,066     & 0,176  & 0,022 & 0,508 \\ \hline
+			HOMO $\rarr$ LUMO+5 & 0,034     & 0,106     & 0,005  & 0,023 & 0,005 \\ \hline
+			\multicolumn{6}{|c|}{\ce{Cu5[SCH3]4}}                                  \\ \hline
+			HOMO $\rarr$ LUMO   & 0,094     & 0,030     & 0,072  & 0,098 & 0,014 \\ \hline
+			HOMO $\rarr$ LUMO+1 & 1,606     & 0,354     & 0,642  & 0,748 & 0,220 \\ \hline
+			HOMO $\rarr$ LUMO+4 & 0,143     & 0,013     & 0,164  & 0,297 & —     \\ \hline
+			HOMO $\rarr$ LUMO+5 & 0,028     & —         & 0,093  & —     & 0,000 \\ \hline
+		\end{tabular}
+	\end{table}
 	
 	\end{onehalfspace}
 \end{document}
