@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.11.30)  12 MAY 2026 14:26
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.11.30)  13 MAY 2026 14:08
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1678,27 +1678,19 @@ Overfull \hbox (6.0pt too wide) detected at line 4
  \TU/TimesNewRoman(0)/m/n/12 5
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
 Overfull \hbox (6.0pt too wide) detected at line 5
- []\TU/TimesNewRoman(0)/m/n/12 5
+ \TU/TimesNewRoman(0)/m/n/12 5
  []
 
 
 Overfull \hbox (12.0pt too wide) detected at line 6
- []\TU/TimesNewRoman(0)/m/n/12 10
+ \TU/TimesNewRoman(0)/m/n/12 10
  []
 
 
 Overfull \hbox (12.0pt too wide) detected at line 7
- []\TU/TimesNewRoman(0)/m/n/12 11
+ \TU/TimesNewRoman(0)/m/n/12 11
  []
 
 
@@ -1713,12 +1705,12 @@ Overfull \hbox (12.0pt too wide) detected at line 9
 
 
 Overfull \hbox (12.0pt too wide) detected at line 10
- []\TU/TimesNewRoman(0)/m/n/12 17
+ \TU/TimesNewRoman(0)/m/n/12 17
  []
 
 
 Overfull \hbox (12.0pt too wide) detected at line 11
- []\TU/TimesNewRoman(0)/m/n/12 28
+ \TU/TimesNewRoman(0)/m/n/12 28
  []
 
 
@@ -1728,32 +1720,42 @@ Overfull \hbox (12.0pt too wide) detected at line 12
 
 
 Overfull \hbox (12.0pt too wide) detected at line 13
- \TU/TimesNewRoman(0)/m/n/12 37
+ \TU/TimesNewRoman(0)/m/n/12 36
  []
 
 
 Overfull \hbox (12.0pt too wide) detected at line 14
- \TU/TimesNewRoman(0)/m/n/12 38
+ \TU/TimesNewRoman(0)/m/n/12 37
  []
 
 
 Overfull \hbox (12.0pt too wide) detected at line 15
- \TU/TimesNewRoman(0)/m/n/12 43
+ \TU/TimesNewRoman(0)/m/n/12 42
  []
 
 
 Overfull \hbox (12.0pt too wide) detected at line 16
- []\TU/TimesNewRoman(0)/m/n/12 43
+ \TU/TimesNewRoman(0)/m/n/12 42
  []
 
 
 Overfull \hbox (12.0pt too wide) detected at line 17
- []\TU/TimesNewRoman(0)/m/n/12 49
+ \TU/TimesNewRoman(0)/m/n/12 48
  []
 
+LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
 
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
+
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 Overfull \hbox (12.0pt too wide) detected at line 18
- []\TU/TimesNewRoman(0)/m/n/12 50
+ \TU/TimesNewRoman(0)/m/n/12 49
  []
 
 )
@@ -1796,7 +1798,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 108.
 
-<pictures/metal_NCs.png, id=136, 1959.32pt x 1511.6475pt>
+<pictures/metal_NCs.png, id=144, 1959.32pt x 1511.6475pt>
 File: pictures/metal_NCs.png Graphic file (type png)
 <use pictures/metal_NCs.png>
 Package luatex.def Info: pictures/metal_NCs.png  used on input line 114.
@@ -1855,16 +1857,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [10]
-Overfull \hbox (23.14511pt too wide) in paragraph at lines 213--214
+Overfull \hbox (23.14511pt too wide) in paragraph at lines 212--213
 \TU/TimesNewRoman(0)/m/n/12 Ос-нов-ной иде-ей дан-ной ра-
 бо-ты яв-ля-ет-ся срав-ни-тель-ный ана-лиз ра-
 бо-ты раз-лич-ных DFT-функционалов
  []
 
-<figures/cu_mass_spec.png, id=259, 665.48625pt x 506.89375pt>
+<figures/cu_mass_spec.png, id=266, 665.48625pt x 506.89375pt>
 File: figures/cu_mass_spec.png Graphic file (type png)
 <use figures/cu_mass_spec.png>
-Package luatex.def Info: figures/cu_mass_spec.png  used on input line 219.
+Package luatex.def Info: figures/cu_mass_spec.png  used on input line 218.
 (luatex.def)             Requested size: 248.96162pt x 189.62834pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1922,15 +1924,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [16]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 365.
+(hyperref)                be the same. Added a new anchor on input line 370.
 
-<pictures/opt_SCH3_vac.jpg, id=350, 1019.81pt x 581.17125pt>
+<pictures/opt_SCH3_vac.jpg, id=362, 1019.81pt x 581.17125pt>
 File: pictures/opt_SCH3_vac.jpg Graphic file (type jpg)
 <use pictures/opt_SCH3_vac.jpg>
-Package luatex.def Info: pictures/opt_SCH3_vac.jpg  used on input line 374.
+Package luatex.def Info: pictures/opt_SCH3_vac.jpg  used on input line 379.
 (luatex.def)             Requested size: 497.92325pt x 283.75659pt.
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 374--375
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 379--380
  [][] 
  []
 
@@ -1970,14 +1972,14 @@ o.pdf>
 (epstopdf)                    size: 60538 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cu_vacuum
 -eps-converted-to.pdf pictures/spectra/Cu_vacuum.eps>
-(epstopdf)             \includegraphics on input line 499.
+(epstopdf)             \includegraphics on input line 504.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/Cu_vacuum-eps-converted-to.pdf, id=374, 774.895pt x 593.21625
+<pictures/spectra/Cu_vacuum-eps-converted-to.pdf, id=386, 774.895pt x 593.21625
 pt>
 File: pictures/spectra/Cu_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu_vacuum-eps-converted-to.pdf>
 Package luatex.def Info: pictures/spectra/Cu_vacuum-eps-converted-to.pdf  used 
-on input line 499.
+on input line 504.
 (luatex.def)             Requested size: 398.3401pt x 304.9531pt.
 
 
@@ -1998,14 +2000,14 @@ to.pdf>
 (epstopdf)                    size: 55672 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cu2_vacuu
 m-eps-converted-to.pdf pictures/spectra/Cu2_vacuum.eps>
-(epstopdf)             \includegraphics on input line 506.
+(epstopdf)             \includegraphics on input line 511.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/Cu2_vacuum-eps-converted-to.pdf, id=383, 774.895pt x 593.2162
+<pictures/spectra/Cu2_vacuum-eps-converted-to.pdf, id=396, 774.895pt x 593.2162
 5pt>
 File: pictures/spectra/Cu2_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu2_vacuum-eps-converted-to.pdf>
 Package luatex.def Info: pictures/spectra/Cu2_vacuum-eps-converted-to.pdf  used
- on input line 506.
+ on input line 511.
 (luatex.def)             Requested size: 398.3401pt x 304.9531pt.
 
 
@@ -2027,14 +2029,14 @@ to.pdf>
 (epstopdf)                    size: 52978 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cu3_vacuu
 m-eps-converted-to.pdf pictures/spectra/Cu3_vacuum.eps>
-(epstopdf)             \includegraphics on input line 527.
+(epstopdf)             \includegraphics on input line 532.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/Cu3_vacuum-eps-converted-to.pdf, id=486, 774.895pt x 593.2162
+<pictures/spectra/Cu3_vacuum-eps-converted-to.pdf, id=499, 774.895pt x 593.2162
 5pt>
 File: pictures/spectra/Cu3_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu3_vacuum-eps-converted-to.pdf>
 Package luatex.def Info: pictures/spectra/Cu3_vacuum-eps-converted-to.pdf  used
- on input line 527.
+ on input line 532.
 (luatex.def)             Requested size: 398.3401pt x 304.9531pt.
 
 
@@ -2055,14 +2057,14 @@ to.pdf>
 (epstopdf)                    size: 54444 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cu4_vacuu
 m-eps-converted-to.pdf pictures/spectra/Cu4_vacuum.eps>
-(epstopdf)             \includegraphics on input line 534.
+(epstopdf)             \includegraphics on input line 539.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/Cu4_vacuum-eps-converted-to.pdf, id=494, 774.895pt x 593.2162
+<pictures/spectra/Cu4_vacuum-eps-converted-to.pdf, id=507, 774.895pt x 593.2162
 5pt>
 File: pictures/spectra/Cu4_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu4_vacuum-eps-converted-to.pdf>
 Package luatex.def Info: pictures/spectra/Cu4_vacuum-eps-converted-to.pdf  used
- on input line 534.
+ on input line 539.
 (luatex.def)             Requested size: 398.3401pt x 304.9531pt.
 Package epstopdf Info: Source file: <pictures/spectra/Cu5_vacuum.eps>
 (epstopdf)                    date: 2026-05-08 10:28:31
@@ -2073,14 +2075,14 @@ to.pdf>
 (epstopdf)                    size: 52637 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cu5_vacuu
 m-eps-converted-to.pdf pictures/spectra/Cu5_vacuum.eps>
-(epstopdf)             \includegraphics on input line 541.
+(epstopdf)             \includegraphics on input line 546.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/Cu5_vacuum-eps-converted-to.pdf, id=495, 774.895pt x 593.2162
+<pictures/spectra/Cu5_vacuum-eps-converted-to.pdf, id=508, 774.895pt x 593.2162
 5pt>
 File: pictures/spectra/Cu5_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu5_vacuum-eps-converted-to.pdf>
 Package luatex.def Info: pictures/spectra/Cu5_vacuum-eps-converted-to.pdf  used
- on input line 541.
+ on input line 546.
 (luatex.def)             Requested size: 398.3401pt x 304.9531pt.
 
 
@@ -2111,15 +2113,15 @@ erted-to.pdf>
 (epstopdf)                    size: 47220 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/CAM-B3Lyp
 _vacuum-eps-converted-to.pdf pictures/spectra/CAM-B3Lyp_vacuum.eps>
-(epstopdf)             \includegraphics on input line 576.
+(epstopdf)             \includegraphics on input line 581.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/CAM-B3Lyp_vacuum-eps-converted-to.pdf, id=649, 774.895pt x 59
+<pictures/spectra/CAM-B3Lyp_vacuum-eps-converted-to.pdf, id=660, 774.895pt x 59
 3.21625pt>
 File: pictures/spectra/CAM-B3Lyp_vacuum-eps-converted-to.pdf Graphic file (type
  pdf)
 <use pictures/spectra/CAM-B3Lyp_vacuum-eps-converted-to.pdf>
 Package luatex.def Info: pictures/spectra/CAM-B3Lyp_vacuum-eps-converted-to.pdf
-  used on input line 576.
+  used on input line 581.
 (luatex.def)             Requested size: 398.3401pt x 304.9531pt.
 Package epstopdf Info: Source file: <pictures/spectra/M06-2X_vacuum.eps>
 (epstopdf)                    date: 2026-05-08 10:34:33
@@ -2130,15 +2132,15 @@ ed-to.pdf>
 (epstopdf)                    size: 45610 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/M06-2X_va
 cuum-eps-converted-to.pdf pictures/spectra/M06-2X_vacuum.eps>
-(epstopdf)             \includegraphics on input line 583.
+(epstopdf)             \includegraphics on input line 588.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/M06-2X_vacuum-eps-converted-to.pdf, id=650, 774.895pt x 593.2
+<pictures/spectra/M06-2X_vacuum-eps-converted-to.pdf, id=661, 774.895pt x 593.2
 1625pt>
 File: pictures/spectra/M06-2X_vacuum-eps-converted-to.pdf Graphic file (type pd
 f)
 <use pictures/spectra/M06-2X_vacuum-eps-converted-to.pdf>
 Package luatex.def Info: pictures/spectra/M06-2X_vacuum-eps-converted-to.pdf  u
-sed on input line 583.
+sed on input line 588.
 (luatex.def)             Requested size: 398.3401pt x 304.9531pt.
 
 
@@ -2159,23 +2161,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [26<./pictures/spectra/M06-2X_vacuum-eps-converted-to.pdf>]
-<figures/orbitals/Cu2L2_1.jpg, id=733, 963.6pt x 542.025pt>
+<figures/orbitals/Cu2L2_1.jpg, id=744, 963.6pt x 542.025pt>
 File: figures/orbitals/Cu2L2_1.jpg Graphic file (type jpg)
 <use figures/orbitals/Cu2L2_1.jpg>
-Package luatex.def Info: figures/orbitals/Cu2L2_1.jpg  used on input line 599.
+Package luatex.def Info: figures/orbitals/Cu2L2_1.jpg  used on input line 604.
 (luatex.def)             Requested size: 164.31558pt x 92.42422pt.
-<figures/orbitals/Cu2L2_2.jpg, id=735, 963.6pt x 542.025pt>
+<figures/orbitals/Cu2L2_2.jpg, id=746, 963.6pt x 542.025pt>
 File: figures/orbitals/Cu2L2_2.jpg Graphic file (type jpg)
 <use figures/orbitals/Cu2L2_2.jpg>
-Package luatex.def Info: figures/orbitals/Cu2L2_2.jpg  used on input line 600.
+Package luatex.def Info: figures/orbitals/Cu2L2_2.jpg  used on input line 605.
 (luatex.def)             Requested size: 164.31558pt x 92.42422pt.
-<figures/orbitals/Cu2L2_3.jpg, id=737, 963.6pt x 542.025pt>
+<figures/orbitals/Cu2L2_3.jpg, id=748, 963.6pt x 542.025pt>
 File: figures/orbitals/Cu2L2_3.jpg Graphic file (type jpg)
 <use figures/orbitals/Cu2L2_3.jpg>
-Package luatex.def Info: figures/orbitals/Cu2L2_3.jpg  used on input line 601.
+Package luatex.def Info: figures/orbitals/Cu2L2_3.jpg  used on input line 606.
 (luatex.def)             Requested size: 164.31558pt x 92.42422pt.
 
-Overfull \hbox (13.0235pt too wide) in paragraph at lines 599--602
+Overfull \hbox (13.0235pt too wide) in paragraph at lines 604--607
  [][][][][][] 
  []
 
@@ -2189,13 +2191,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [27<./figures/orbitals/Cu2L2_1.jpg><./figures/orbitals/Cu2L2_2.jpg><./figures/or
 bitals/Cu2L2_3.jpg>]
-<pictures/opt_Cys_vac.jpg, id=756, 1019.81pt x 581.17125pt>
+<pictures/opt_Cys_vac.jpg, id=767, 1019.81pt x 581.17125pt>
 File: pictures/opt_Cys_vac.jpg Graphic file (type jpg)
 <use pictures/opt_Cys_vac.jpg>
-Package luatex.def Info: pictures/opt_Cys_vac.jpg  used on input line 658.
+Package luatex.def Info: pictures/opt_Cys_vac.jpg  used on input line 663.
 (luatex.def)             Requested size: 497.92325pt x 283.75659pt.
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 658--659
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 663--664
  [][] 
  []
 
@@ -2226,15 +2228,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[31]
 Package epstopdf Info: Source file: <pictures/spectra/Cys_CAM-B3Lyp_vacuum.eps>
 
 (epstopdf)                    date: 2026-05-08 10:42:27
@@ -2245,16 +2238,26 @@ converted-to.pdf>
 (epstopdf)                    size: 49809 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cys_CAM-B
 3Lyp_vacuum-eps-converted-to.pdf pictures/spectra/Cys_CAM-B3Lyp_vacuum.eps>
-(epstopdf)             \includegraphics on input line 797.
+(epstopdf)             \includegraphics on input line 802.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to.pdf, id=784, 774.895pt 
+<pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to.pdf, id=787, 774.895pt 
 x 593.21625pt>
 File: pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to.pdf Graphic file (
 type pdf)
 <use pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to.pdf>
 Package luatex.def Info: pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to
-.pdf  used on input line 797.
+.pdf  used on input line 802.
 (luatex.def)             Requested size: 348.54475pt x 266.82716pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[31]
 Package epstopdf Info: Source file: <pictures/spectra/Cys_M06-2X_vacuum.eps>
 (epstopdf)                    date: 2026-05-08 10:42:29
 (epstopdf)                    size: 176571 bytes
@@ -2264,15 +2267,15 @@ verted-to.pdf>
 (epstopdf)                    size: 47669 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cys_M06-2
 X_vacuum-eps-converted-to.pdf pictures/spectra/Cys_M06-2X_vacuum.eps>
-(epstopdf)             \includegraphics on input line 804.
+(epstopdf)             \includegraphics on input line 809.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pdf, id=785, 774.895pt x 5
+<pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pdf, id=796, 774.895pt x 5
 93.21625pt>
 File: pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pdf>
 Package luatex.def Info: pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pd
-f  used on input line 804.
+f  used on input line 809.
 (luatex.def)             Requested size: 348.54475pt x 266.82716pt.
 
 
@@ -2285,15 +2288,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [32<./pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to.pdf><./pictures/spe
 ctra/Cys_M06-2X_vacuum-eps-converted-to.pdf>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[33]
 Package epstopdf Info: Source file: <pictures/spectra/COMP_Cu_vacuum.eps>
 (epstopdf)                    date: 2026-05-08 11:00:55
 (epstopdf)                    size: 178538 bytes
@@ -2303,15 +2297,15 @@ ted-to.pdf>
 (epstopdf)                    size: 47093 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/COMP_Cu_v
 acuum-eps-converted-to.pdf pictures/spectra/COMP_Cu_vacuum.eps>
-(epstopdf)             \includegraphics on input line 828.
+(epstopdf)             \includegraphics on input line 834.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/COMP_Cu_vacuum-eps-converted-to.pdf, id=868, 774.895pt x 593.
+<pictures/spectra/COMP_Cu_vacuum-eps-converted-to.pdf, id=874, 774.895pt x 593.
 21625pt>
 File: pictures/spectra/COMP_Cu_vacuum-eps-converted-to.pdf Graphic file (type p
 df)
 <use pictures/spectra/COMP_Cu_vacuum-eps-converted-to.pdf>
 Package luatex.def Info: pictures/spectra/COMP_Cu_vacuum-eps-converted-to.pdf  
-used on input line 828.
+used on input line 834.
 (luatex.def)             Requested size: 774.89311pt x 593.2148pt.
 Package epstopdf Info: Source file: <pictures/spectra/COMP_Cu2_vacuum.eps>
 (epstopdf)                    date: 2026-05-08 11:00:56
@@ -2322,18 +2316,18 @@ rted-to.pdf>
 (epstopdf)                    size: 48648 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/COMP_Cu2_
 vacuum-eps-converted-to.pdf pictures/spectra/COMP_Cu2_vacuum.eps>
-(epstopdf)             \includegraphics on input line 829.
+(epstopdf)             \includegraphics on input line 835.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/COMP_Cu2_vacuum-eps-converted-to.pdf, id=870, 774.895pt x 593
+<pictures/spectra/COMP_Cu2_vacuum-eps-converted-to.pdf, id=876, 774.895pt x 593
 .21625pt>
 File: pictures/spectra/COMP_Cu2_vacuum-eps-converted-to.pdf Graphic file (type 
 pdf)
 <use pictures/spectra/COMP_Cu2_vacuum-eps-converted-to.pdf>
 Package luatex.def Info: pictures/spectra/COMP_Cu2_vacuum-eps-converted-to.pdf 
- used on input line 829.
+ used on input line 835.
 (luatex.def)             Requested size: 774.89311pt x 593.2148pt.
 
-Overfull \hbox (2.03333pt too wide) in paragraph at lines 828--830
+Overfull \hbox (2.03333pt too wide) in paragraph at lines 834--836
  [][][][] 
  []
 
@@ -2346,15 +2340,15 @@ rted-to.pdf>
 (epstopdf)                    size: 49021 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/COMP_Cu3_
 vacuum-eps-converted-to.pdf pictures/spectra/COMP_Cu3_vacuum.eps>
-(epstopdf)             \includegraphics on input line 831.
+(epstopdf)             \includegraphics on input line 837.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/COMP_Cu3_vacuum-eps-converted-to.pdf, id=872, 774.895pt x 593
+<pictures/spectra/COMP_Cu3_vacuum-eps-converted-to.pdf, id=878, 774.895pt x 593
 .21625pt>
 File: pictures/spectra/COMP_Cu3_vacuum-eps-converted-to.pdf Graphic file (type 
 pdf)
 <use pictures/spectra/COMP_Cu3_vacuum-eps-converted-to.pdf>
 Package luatex.def Info: pictures/spectra/COMP_Cu3_vacuum-eps-converted-to.pdf 
- used on input line 831.
+ used on input line 837.
 (luatex.def)             Requested size: 774.89311pt x 593.2148pt.
 Package epstopdf Info: Source file: <pictures/spectra/COMP_Cu4_vacuum.eps>
 (epstopdf)                    date: 2026-05-08 11:00:57
@@ -2365,18 +2359,18 @@ rted-to.pdf>
 (epstopdf)                    size: 48518 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/COMP_Cu4_
 vacuum-eps-converted-to.pdf pictures/spectra/COMP_Cu4_vacuum.eps>
-(epstopdf)             \includegraphics on input line 832.
+(epstopdf)             \includegraphics on input line 838.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/COMP_Cu4_vacuum-eps-converted-to.pdf, id=874, 774.895pt x 593
+<pictures/spectra/COMP_Cu4_vacuum-eps-converted-to.pdf, id=880, 774.895pt x 593
 .21625pt>
 File: pictures/spectra/COMP_Cu4_vacuum-eps-converted-to.pdf Graphic file (type 
 pdf)
 <use pictures/spectra/COMP_Cu4_vacuum-eps-converted-to.pdf>
 Package luatex.def Info: pictures/spectra/COMP_Cu4_vacuum-eps-converted-to.pdf 
- used on input line 832.
+ used on input line 838.
 (luatex.def)             Requested size: 774.89311pt x 593.2148pt.
 
-Overfull \hbox (2.03333pt too wide) in paragraph at lines 831--833
+Overfull \hbox (2.03333pt too wide) in paragraph at lines 837--839
  [][][][] 
  []
 
@@ -2389,16 +2383,25 @@ rted-to.pdf>
 (epstopdf)                    size: 45974 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/COMP_Cu5_
 vacuum-eps-converted-to.pdf pictures/spectra/COMP_Cu5_vacuum.eps>
-(epstopdf)             \includegraphics on input line 834.
+(epstopdf)             \includegraphics on input line 840.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/COMP_Cu5_vacuum-eps-converted-to.pdf, id=876, 774.895pt x 593
+<pictures/spectra/COMP_Cu5_vacuum-eps-converted-to.pdf, id=882, 774.895pt x 593
 .21625pt>
 File: pictures/spectra/COMP_Cu5_vacuum-eps-converted-to.pdf Graphic file (type 
 pdf)
 <use pictures/spectra/COMP_Cu5_vacuum-eps-converted-to.pdf>
 Package luatex.def Info: pictures/spectra/COMP_Cu5_vacuum-eps-converted-to.pdf 
- used on input line 834.
+ used on input line 840.
 (luatex.def)             Requested size: 774.89311pt x 593.2148pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[33]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2447,30 +2450,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [38]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[39]
-Overfull \hbox (3.68417pt too wide) in paragraph at lines 898--898
+Overfull \hbox (3.68417pt too wide) in paragraph at lines 905--905
 []\TU/TimesNewRoman(0)/m/n/12 Physiological and Pathophysiological Role of Cyste
 ine Metabolism in Human Metabolic Syndrome /
  []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[40]
-Overfull \hbox (1.96268pt too wide) in paragraph at lines 898--898
+Overfull \hbox (1.96268pt too wide) in paragraph at lines 905--905
 []|   [] |   []\TU/TimesNewRoman(0)/m/n/12 , |   [] |   [] Development of new au
 xiliary basis functions of the Karlsruhe segmented
  []
@@ -2483,7 +2469,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[41]
+[39]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2492,10 +2478,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[42]
+[40]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[41]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 906.
+(hyperref)                be the same. Added a new anchor on input line 913.
 
 luaotfload | aux : font no 83 (nil) defines no feature for script latn
 luaotfload | aux : font no 83 (nil) defines no feature for script dflt
@@ -2529,6 +2524,15 @@ Space].
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[42]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2574,42 +2578,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [47]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[48]
-<pictures/opt_SCH3_wat.jpg, id=1250, 1019.81pt x 581.17125pt>
+<pictures/opt_SCH3_wat.jpg, id=1257, 1019.81pt x 581.17125pt>
 File: pictures/opt_SCH3_wat.jpg Graphic file (type jpg)
 <use pictures/opt_SCH3_wat.jpg>
-Package luatex.def Info: pictures/opt_SCH3_wat.jpg  used on input line 1417.
-(luatex.def)             Requested size: 497.92325pt x 283.75659pt.
-
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 1417--1418
- [][] 
- []
-
-<pictures/opt_Cys_wat.jpg, id=1251, 1019.81pt x 581.17125pt>
-File: pictures/opt_Cys_wat.jpg Graphic file (type jpg)
-<use pictures/opt_Cys_wat.jpg>
-Package luatex.def Info: pictures/opt_Cys_wat.jpg  used on input line 1424.
+Package luatex.def Info: pictures/opt_SCH3_wat.jpg  used on input line 1424.
 (luatex.def)             Requested size: 497.92325pt x 283.75659pt.
 
 Overfull \hbox (0.79999pt too wide) in paragraph at lines 1424--1425
  [][] 
  []
 
+<pictures/opt_Cys_wat.jpg, id=1258, 1019.81pt x 581.17125pt>
+File: pictures/opt_Cys_wat.jpg Graphic file (type jpg)
+<use pictures/opt_Cys_wat.jpg>
+Package luatex.def Info: pictures/opt_Cys_wat.jpg  used on input line 1431.
+(luatex.def)             Requested size: 497.92325pt x 283.75659pt.
+
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 1431--1432
+ [][] 
+ []
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mhchem@cee' on input line 1430.
+(hyperref)                removing `\mhchem@cee' on input line 1437.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mhchem@cee' on input line 1430.
+(hyperref)                removing `\mhchem@cee' on input line 1437.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2619,7 +2614,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[49<./pictures/opt_SCH3_wat.jpg><./pictures/opt_Cys_wat.jpg>]
+[48<./pictures/opt_SCH3_wat.jpg><./pictures/opt_Cys_wat.jpg>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2628,7 +2623,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[50]
+[49]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2637,7 +2632,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[51] (./main.aux)
+[50] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -2647,23 +2642,25 @@ L3 programming layer <2024-02-20>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 02FA87832FD4DFDAC9836A65208DB4FD;4393.
+(rerunfilecheck)             Checksum: 3FFAB9184D5B6079D793BBD247FFBD28;4411.
 Package logreq Info: Writing requests to 'main.run.xml'.
 
 \openout1 = main.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 39911 strings out of 476447
+ 39913 strings out of 476447
  156460,4921788 words of node,token memory allocated
- 1376 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 13 glue, 4 kern, 1 glyph, 160 attribute, 78 glue_sp
-ec, 82 attribute_list, 2 write, 34 pdf_action nodes
-   avail lists: 1:2,2:5588,3:1371,4:182,5:512,6:86,7:9379,8:124,9:3808,10:15,11:
-1341
- 60825 multiletter control sequences out of 65536+600000
+ 1401 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 14 glue, 4 kern, 1 glyph, 166 attribute, 78 glue_sp
+ec, 85 attribute_list, 2 write, 34 pdf_action nodes
+   avail lists: 1:3,2:5588,3:1371,4:181,5:542,6:86,7:9369,8:124,9:3808,10:15,11:
+1252
+ 60827 multiletter control sequences out of 65536+600000
  91 fonts using 17542911 bytes
  102i,18n,102p,2809b,3207s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.12'
 
 warning  (pdf backend): unreferenced destination with name 'Hfootnote.11'
 
@@ -2691,20 +2688,23 @@ mf-dist/fonts/opentype/public/lm/lmmono12-regular.otf></System/Library/Fonts/Sup
 plemental/Times New Roman Italic.ttf></System/Library/Fonts/Supplemental/Times N
 ew Roman Bold.ttf></System/Library/Fonts/Supplemental/Times New Roman.ttf></usr/
 local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/lo
-cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/loca
-l/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/t
-exlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texl
-ive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive
-/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/20
-24/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (51 pages, 7370130 bytes).
+cal/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/loca
+l/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/
+texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/tex
+live/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texliv
+e/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2
+024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy8.pfb>
+Output written on main.pdf (50 pages, 7393010 bytes).
 
-PDF statistics: 1342 PDF objects out of 1440 (max. 8388607)
- 800 compressed objects within 8 object streams
+PDF statistics: 1358 PDF objects out of 1440 (max. 8388607)
+ 805 compressed objects within 9 object streams
  184 named destinations out of 1000 (max. 131072)
  232 words of extra memory for PDF output out of 10000 (max. 100000000)
 

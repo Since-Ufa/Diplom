@@ -3566,23 +3566,22 @@
     <bcf:citekey order="30" intorder="2">Cysteine</bcf:citekey>
     <bcf:citekey order="31" intorder="1">ijms21239057</bcf:citekey>
     <bcf:citekey order="32" intorder="1">Kumar2017</bcf:citekey>
-    <bcf:citekey order="33" intorder="1">Grimme2010</bcf:citekey>
-    <bcf:citekey order="34" intorder="1">Hellweg2015</bcf:citekey>
-    <bcf:citekey order="35" intorder="1">Jia2013</bcf:citekey>
-    <bcf:citekey order="36" intorder="1">Buglak2019</bcf:citekey>
-    <bcf:citekey order="37" intorder="1">Jia2013</bcf:citekey>
-    <bcf:citekey order="38" intorder="1">HoenbergKohn1964</bcf:citekey>
-    <bcf:citekey order="39" intorder="1">KohnSham1965</bcf:citekey>
-    <bcf:citekey order="40" intorder="1">Yanai2004</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">Perdew1996</bcf:citekey>
-    <bcf:citekey order="42" intorder="1">Ernzerhof1999</bcf:citekey>
-    <bcf:citekey order="43" intorder="1">Chai2008</bcf:citekey>
-    <bcf:citekey order="44" intorder="1">Parr1989</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">ORCA6</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">ORCA_cpcm_1</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">ORCA_cpcm_2</bcf:citekey>
-    <bcf:citekey order="48" intorder="1">Grimme2011</bcf:citekey>
-    <bcf:citekey order="49" intorder="1">Grimme2010</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">Hellweg2015</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">Jia2013</bcf:citekey>
+    <bcf:citekey order="35" intorder="1">Buglak2019</bcf:citekey>
+    <bcf:citekey order="36" intorder="1">Jia2013</bcf:citekey>
+    <bcf:citekey order="37" intorder="1">HoenbergKohn1964</bcf:citekey>
+    <bcf:citekey order="38" intorder="1">KohnSham1965</bcf:citekey>
+    <bcf:citekey order="39" intorder="1">Yanai2004</bcf:citekey>
+    <bcf:citekey order="40" intorder="1">Perdew1996</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">Ernzerhof1999</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">Chai2008</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">Parr1989</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">ORCA6</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">ORCA_cpcm_1</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">ORCA_cpcm_2</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">Grimme2011</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">Grimme2010</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

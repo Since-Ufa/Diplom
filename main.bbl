@@ -1549,51 +1549,6 @@
       \verb https://doi.org/10.1186/s12986-017-0233-z
       \endverb
     \endentry
-    \entry{Grimme2010}{article}{useauthor=false}
-      \name{author}{4}{}{%
-        {{hash=3a2585af369dbd4150db746c63177b0c}{%
-           family={Grimme},
-           familyi={G\bibinitperiod},
-           given={Stefan},
-           giveni={S\bibinitperiod}}}%
-        {{hash=9ea89f28c9ac3083757e980d0b4a8fec}{%
-           family={Antony},
-           familyi={A\bibinitperiod},
-           given={Jens},
-           giveni={J\bibinitperiod}}}%
-        {{hash=c1a85a74b8b1d9992721d20377d7f50f}{%
-           family={Ehrlich},
-           familyi={E\bibinitperiod},
-           given={Stephan},
-           giveni={S\bibinitperiod}}}%
-        {{hash=46ef1d196909f4706f09f9180d33ab91}{%
-           family={Krieg},
-           familyi={K\bibinitperiod},
-           given={Helge},
-           giveni={H\bibinitperiod}}}%
-      }
-      \strng{authorbibnamehash}{7f2c045e27c631b672c2213391161e48}
-      \strng{authornamehash}{7f2c045e27c631b672c2213391161e48}
-      \strng{authorfullhash}{e1a418c5d65690d89c4609d3b99952c2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The method of dispersion correction as an add-on to standard Kohn-Sham density functional theory (DFT-D) has been refined regarding higher accuracy, broader range of applicability, and less empiricism. The main new ingredients are atom-pairwise specific dispersion coefficients and cutoff radii that are both computed from first principles. The coefficients for new eighth-order dispersion terms are computed using established recursion relations. System (geometry) dependent information is used for the first time in a DFT-D type approach by employing the new concept of fractional coordination numbers (CN). They are used to interpolate between dispersion coefficients of atoms in different chemical environments. The method only requires adjustment of two global parameters for each density functional, is asymptotically exact for a gas of weakly interacting neutral atoms, and easily allows the computation of atomic forces. Three-body nonadditivity terms are considered. The method has been assessed on standard benchmark sets for inter- and intramolecular noncovalent interactions with a particular emphasis on a consistent description of light and heavy element systems. The mean absolute deviations for the S22 benchmark set of noncovalent interactions for 11 standard density functionals decrease by 15\%-40\% compared to the previous (already accurate) DFT-D version. Spectacular improvements are found for a tripeptide-folding model and all tested metallic systems. The rectification of the long-range behavior and the use of more accurate C6 coefficients also lead to a much better description of large (infinite) systems as shown for graphene sheets and the adsorption of benzene on an Ag(111) surface. For graphene it is found that the inclusion of three-body terms substantially (by about 10\%) weakens the interlayer binding. We propose the revised DFT-D method as a general tool for the computation of the dispersion energy in molecules and solids of any kind with DFT and related (low-cost) electronic structure methods for large systems. © 2010 American Institute of Physics.}
-      \field{internalsortissue}{15}
-      \field{internalsortvolume}{132}
-      \field{issn}{00219606}
-      \field{journaltitle}{Journal of Chemical Physics}
-      \field{month}{4}
-      \field{title}{A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu}
-      \field{year}{2010}
-      \field{issue}{15}
-      \range{issue}{1}
-      \field{volume}{132}
-      \range{volume}{1}
-      \verb{doi}
-      \verb 10.1063/1.3382344
-      \endverb
-    \endentry
     \entry{Hellweg2015}{article}{}
       \name{author}{2}{}{%
         {{hash=26cb7261125c49065b71e481f2cae976}{%
@@ -1805,8 +1760,8 @@
       \strng{authorbibnamehash}{abdabcd62f1a79fa587468f46ffe75d3}
       \strng{authornamehash}{abdabcd62f1a79fa587468f46ffe75d3}
       \strng{authorfullhash}{abdabcd62f1a79fa587468f46ffe75d3}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{A new hybrid exchange-correlation functional named CAM-B3LYP is proposed. It combines the hybrid qualities of B3LYP and the long-range correction presented by Tawada et al. [J. Chem. Phys., in press]. We demonstrate that CAM-B3LYP yields atomization energies of similar quality to those from B3LYP, while also performing well for charge transfer excitations in a dipeptide model, which B3LYP underestimates enormously. The CAM-B3LYP functional comprises of 0.19 Hartree-Fock (HF) plus 0.81 Becke 1988 (B88) exchange interaction at short-range, and 0.65 HF plus 0.35 B88 at long-range. The intermediate region is smoothly described through the standard error function with parameter 0.33. © 2004 Elsevier B.V. All rights reserved.}
@@ -2153,6 +2108,51 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.21759
       \endverb
       \keyw{dispersion energy,density functional theory,noncovalent interactions,van der Waals complexes}
+    \endentry
+    \entry{Grimme2010}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=3a2585af369dbd4150db746c63177b0c}{%
+           family={Grimme},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9ea89f28c9ac3083757e980d0b4a8fec}{%
+           family={Antony},
+           familyi={A\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c1a85a74b8b1d9992721d20377d7f50f}{%
+           family={Ehrlich},
+           familyi={E\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=46ef1d196909f4706f09f9180d33ab91}{%
+           family={Krieg},
+           familyi={K\bibinitperiod},
+           given={Helge},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{authorbibnamehash}{7f2c045e27c631b672c2213391161e48}
+      \strng{authornamehash}{7f2c045e27c631b672c2213391161e48}
+      \strng{authorfullhash}{e1a418c5d65690d89c4609d3b99952c2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The method of dispersion correction as an add-on to standard Kohn-Sham density functional theory (DFT-D) has been refined regarding higher accuracy, broader range of applicability, and less empiricism. The main new ingredients are atom-pairwise specific dispersion coefficients and cutoff radii that are both computed from first principles. The coefficients for new eighth-order dispersion terms are computed using established recursion relations. System (geometry) dependent information is used for the first time in a DFT-D type approach by employing the new concept of fractional coordination numbers (CN). They are used to interpolate between dispersion coefficients of atoms in different chemical environments. The method only requires adjustment of two global parameters for each density functional, is asymptotically exact for a gas of weakly interacting neutral atoms, and easily allows the computation of atomic forces. Three-body nonadditivity terms are considered. The method has been assessed on standard benchmark sets for inter- and intramolecular noncovalent interactions with a particular emphasis on a consistent description of light and heavy element systems. The mean absolute deviations for the S22 benchmark set of noncovalent interactions for 11 standard density functionals decrease by 15\%-40\% compared to the previous (already accurate) DFT-D version. Spectacular improvements are found for a tripeptide-folding model and all tested metallic systems. The rectification of the long-range behavior and the use of more accurate C6 coefficients also lead to a much better description of large (infinite) systems as shown for graphene sheets and the adsorption of benzene on an Ag(111) surface. For graphene it is found that the inclusion of three-body terms substantially (by about 10\%) weakens the interlayer binding. We propose the revised DFT-D method as a general tool for the computation of the dispersion energy in molecules and solids of any kind with DFT and related (low-cost) electronic structure methods for large systems. © 2010 American Institute of Physics.}
+      \field{internalsortissue}{15}
+      \field{internalsortvolume}{132}
+      \field{issn}{00219606}
+      \field{journaltitle}{Journal of Chemical Physics}
+      \field{month}{4}
+      \field{title}{A consistent and accurate ab initio parametrization of density functional dispersion correction (DFT-D) for the 94 elements H-Pu}
+      \field{year}{2010}
+      \field{issue}{15}
+      \range{issue}{1}
+      \field{volume}{132}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1063/1.3382344
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
