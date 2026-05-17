@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[105] biber-darwin:340> INFO - === Thu May 14, 2026, 17:15:56
-[128] Biber.pm:419> INFO - Reading 'main.bcf'
-[300] Biber.pm:979> INFO - Found 47 citekeys in bib section 0
-[322] Biber.pm:4419> INFO - Processing section 0
-[336] Biber.pm:4610> INFO - Looking for bibtex file 'links.bib' for section 0
-[346] bibtex.pm:1713> INFO - LaTeX decoding ...
-[496] bibtex.pm:1519> INFO - Found BibTeX data source 'links.bib'
-[1007] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1007] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[100] biber-darwin:340> INFO - === Sun May 17, 2026, 18:22:03
+[123] Biber.pm:419> INFO - Reading 'main.bcf'
+[296] Biber.pm:979> INFO - Found 47 citekeys in bib section 0
+[318] Biber.pm:4419> INFO - Processing section 0
+[331] Biber.pm:4610> INFO - Looking for bibtex file 'links.bib' for section 0
+[342] bibtex.pm:1713> INFO - LaTeX decoding ...
+[494] bibtex.pm:1519> INFO - Found BibTeX data source 'links.bib'
+[1006] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1006] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
 [1007] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
 [1007] Biber.pm:4245> INFO - No sort tailoring available for locale 'ru-RU'
-[1062] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1111] bbl.pm:763> INFO - Output to main.bbl
+[1064] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1112] bbl.pm:763> INFO - Output to main.bbl

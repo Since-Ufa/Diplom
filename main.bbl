@@ -478,47 +478,6 @@
       \endverb
       \keyw{DFT,Copper nanocluster,Electronic properties}
     \endentry
-    \entry{Dez2011}{article}{}
-      \name{author}{2}{}{%
-        {{hash=ac91684784f6fd1b46c36681b6d6b305}{%
-           family={Díez},
-           familyi={D\bibinitperiod},
-           given={Isabel},
-           giveni={I\bibinitperiod}}}%
-        {{hash=51e3222d173116dac8311b0cdbf985b6}{%
-           family={Ras},
-           familyi={R\bibinitperiod},
-           given={Robin\bibnamedelima H.A.},
-           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \strng{namehash}{9335a868f658a45ad461b224ed22a265}
-      \strng{fullhash}{9335a868f658a45ad461b224ed22a265}
-      \strng{bibnamehash}{9335a868f658a45ad461b224ed22a265}
-      \strng{authorbibnamehash}{9335a868f658a45ad461b224ed22a265}
-      \strng{authornamehash}{9335a868f658a45ad461b224ed22a265}
-      \strng{authorfullhash}{9335a868f658a45ad461b224ed22a265}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Silver nanoclusters are a class of fluorophores with attractive features, including brightness, photostability and subnanometer size. In this review we overview the different scaffolds that are used as stabilizer for silver nanoclusters (e.g. polymers, dendrimers, DNA oligomers, cryogenic noble gas matrixes, inorganic glasses, zeolites and nanoparticles), and we briefly discuss the recent advances. © 2011 The Royal Society of Chemistry.}
-      \field{internalsortissue}{5}
-      \field{internalsortvolume}{3}
-      \field{issn}{20403364}
-      \field{journaltitle}{Nanoscale}
-      \field{month}{5}
-      \field{title}{Fluorescent silver nanoclusters}
-      \field{year}{2011}
-      \field{issue}{5}
-      \range{issue}{1}
-      \field{pages}{1963\bibrangedash 1970}
-      \range{pages}{8}
-      \field{volume}{3}
-      \range{volume}{1}
-      \verb{doi}
-      \verb 10.1039/c1nr00006c
-      \endverb
-    \endentry
     \entry{Baghdasaryan2021}{article}{}
       \name{author}{2}{}{%
         {{hash=4cb5473597f940c429f7aed2ef3fb878}{%
@@ -541,8 +500,8 @@
       \strng{authorbibnamehash}{73159ba3ee3ed5874bc8490b03a67bb6}
       \strng{authornamehash}{73159ba3ee3ed5874bc8490b03a67bb6}
       \strng{authorfullhash}{73159ba3ee3ed5874bc8490b03a67bb6}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Atomically precise metal nanoclusters (MNCs) have gained tremendous research interest in recent years due to their extraordinary properties. The molecular-like properties that originate from the quantized electronic states provide novel opportunities for the construction of unique nanomaterials possessing rich molecular-like absorption, luminescence, and magnetic properties. The field of monolayer-protected metal nanoclusters, especially copper, with well-defined molecular structures and compositions, is relatively new, about two to three decades old. Nevertheless, the massive progress in the field illustrates the importance of such nanoobjects as promising materials for various applications. In this respect, nanocluster-based catalysts have become very popular, showing high efficiencies and activities for the catalytic conversion of chemical compounds. Biomedical applications of clusters are an active research field aimed at finding better fluorescent contrast agents, therapeutic pharmaceuticals for the treatment and prevention of diseases, the early diagnosis of cancers and other potent diseases, especially at early stages. A huge library of structures and the compositions of copper nanoclusters (CuNCs) with atomic precisions have already been discovered during last few decades; however, there are many concerns to be addressed and questions to be answered. Hopefully, in future, with the combined efforts of material scientists, inorganic chemists, and computational scientists, a thorough understanding of the unique molecular-like properties of metal nanoclusters will be achieved. This, on the other hand, will allow the interdisciplinary researchers to design novel catalysts, biosensors, or therapeutic agents using highly structured, atomically precise, and stable CuNCs. Thus, we hope this review will guide the reader through the field of CuNCs, while discussing the main achievements and improvements, along with challenges and drawbacks that one needs to face and overcome.}
@@ -561,6 +520,47 @@
       \range{volume}{1}
       \verb{doi}
       \verb 10.1039/d0nr08489a
+      \endverb
+    \endentry
+    \entry{Dez2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ac91684784f6fd1b46c36681b6d6b305}{%
+           family={Díez},
+           familyi={D\bibinitperiod},
+           given={Isabel},
+           giveni={I\bibinitperiod}}}%
+        {{hash=51e3222d173116dac8311b0cdbf985b6}{%
+           family={Ras},
+           familyi={R\bibinitperiod},
+           given={Robin\bibnamedelima H.A.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{9335a868f658a45ad461b224ed22a265}
+      \strng{fullhash}{9335a868f658a45ad461b224ed22a265}
+      \strng{bibnamehash}{9335a868f658a45ad461b224ed22a265}
+      \strng{authorbibnamehash}{9335a868f658a45ad461b224ed22a265}
+      \strng{authornamehash}{9335a868f658a45ad461b224ed22a265}
+      \strng{authorfullhash}{9335a868f658a45ad461b224ed22a265}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Silver nanoclusters are a class of fluorophores with attractive features, including brightness, photostability and subnanometer size. In this review we overview the different scaffolds that are used as stabilizer for silver nanoclusters (e.g. polymers, dendrimers, DNA oligomers, cryogenic noble gas matrixes, inorganic glasses, zeolites and nanoparticles), and we briefly discuss the recent advances. © 2011 The Royal Society of Chemistry.}
+      \field{internalsortissue}{5}
+      \field{internalsortvolume}{3}
+      \field{issn}{20403364}
+      \field{journaltitle}{Nanoscale}
+      \field{month}{5}
+      \field{title}{Fluorescent silver nanoclusters}
+      \field{year}{2011}
+      \field{issue}{5}
+      \range{issue}{1}
+      \field{pages}{1963\bibrangedash 1970}
+      \range{pages}{8}
+      \field{volume}{3}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1039/c1nr00006c
       \endverb
     \endentry
     \entry{Qing2019}{article}{useauthor=false}
@@ -612,8 +612,8 @@
       \strng{authorbibnamehash}{4b9234d71246b79e20dff84582feb308}
       \strng{authornamehash}{4b9234d71246b79e20dff84582feb308}
       \strng{authorfullhash}{7db96f96f42b300859866a154c66d957}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labeltitlesource}{title}
       \field{abstract}{Copper nanoclusters (CuNCs) are an attractive alternative to other metal nanoclusters. The synthesis of CuNCs is highly efficient and fast, with low-cost and without any complicated manipulation. Because of their tunable fluorescence and low toxicity, CuNCs have been highly exploited for biochemical sensing. This review (with 172 refs.) summarizes the progress that has been made in the field in the past years. Following an introduction into the fundamentals of CuNCs, the review first focuses on synthetic methods and the fluorescence properties of CuNCs (with subsections on the use of proteins, peptides, DNA and other molecules as templates). This is followed by a section on the use of CuNCs in fluorometric assays, with subsections on the detection of small molecules, proteins, nucleic acids, various other biomolecules including drugs, and of pH values. A further large chapter summarizes the work related to environmental analyses, specifically on determination of metal ions, anions and pollutants. [Figure not available: see fulltext.].}
       \field{internalsortissue}{10}
@@ -661,8 +661,8 @@
       \strng{authorbibnamehash}{295e1708f7a0189f77c559e6d396f100}
       \strng{authornamehash}{295e1708f7a0189f77c559e6d396f100}
       \strng{authorfullhash}{40b3263e5cc6e6cd589d449ad6ca3e73}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labeltitlesource}{title}
       \field{abstract}{Gold nanoclusters have been prepared using DNA as the stabilizer. The accompanying changes in the system at different components ratios have been discussed; the obtained products have been comprehensively characterized using a set of spectroscopy and microscopy techniques. Complexity of the underlying mechanism and the many-faceted role of DNA in the synthesis have been demonstrated. The obtained nanoclusters can serve as efficient homogeneous catalysts and in vivo biosensors.}
       \field{internalsortissue}{4}
@@ -1396,8 +1396,8 @@
       \strng{authorbibnamehash}{58f579c7465a6833d9c9b94fa1abd271}
       \strng{authornamehash}{58f579c7465a6833d9c9b94fa1abd271}
       \strng{authorfullhash}{1c6e78943345a02c27319e6b049377ae}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract: Cysteine is one of the major intermediate products of cellular amino-acid metabolism. It is a semi-essential amino acid for protein synthesis. Besides, it is also employed in the regulation of major endogenous anti-oxidant molecule i.e., reduced glutathione (GSH). Further, it is a precursor of multiple sulfur-containing molecules like hydrogen sulfide, lanthionine, taurine, coenzyme A and biotin. It is also one of the key molecules for post-translational modifications of various cellular proteins. In physiological conditions, it is employed in the sulfhydration process and plays a key role in the physiology modification of the inflammatory process in various organs, including the neurological system. The catabolism of cysteine is regulated by cysteine dioxygenase enzyme activity. The dysregulated conditions of cysteine and cysteine-associated hydrogen sulfide metabolism are widely employed in the acceleration of the neurodegenerative process. Moreover, the upregulation of cysteine and hydrogen sulfide synthesis occurs via the reverse trans-sulfuration process. This process helps to manage the worsening of a pathological condition of a cellular system. Moreover, it is also employed in the accumulation of homocysteine contents. Further, both cysteine and homocysteine molecules are widely accepted as biomarkers for various types of diseases. Therefore, the targets involved in the regulation of cysteine have been considered as valid targets to treat various disorders like cardiac disease, ischemic stroke, diabetes, cancer, and renal dysfunction.}
       \field{internalsortvolume}{14}
@@ -1422,8 +1422,8 @@
       \endverb
     \endentry
     \entry{Cysteine}{online}{}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{title}{Cysteine - an overview | ScienceDirect Topics}
       \verb{urlraw}
@@ -1809,8 +1809,8 @@
       \strng{authorbibnamehash}{29da3039da81061b60722fb2fe692310}
       \strng{authornamehash}{29da3039da81061b60722fb2fe692310}
       \strng{authorfullhash}{29da3039da81061b60722fb2fe692310}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{internalsortissue}{18}
