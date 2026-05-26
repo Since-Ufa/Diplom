@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.30)  20 MAY 2026 16:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.30)  26 MAY 2026 18:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1201,7 +1201,7 @@ File: lstmisc.sty 2024/02/21 1.10 (Carsten Heinz)
 File: listings.cfg 2024/02/21 1.10 listings configuration
 ))
 Package: listings 2024/02/21 1.10 (Carsten Heinz)
-Package hyperref Info: Option `colorlinks' set `true' on input line 63.
+Package hyperref Info: Option `colorlinks' set `true' on input line 59.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
@@ -1301,38 +1301,55 @@ File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 Package: chemfig 2023/12/28 v1.66 Draw molecule with an easy syntax (CT)
 )
+(/usr/local/texlive/2024/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip88
+\RaggedLeftLeftskip=\skip89
+\RaggedRightLeftskip=\skip90
+\CenteringRightskip=\skip91
+\RaggedLeftRightskip=\skip92
+\RaggedRightRightskip=\skip93
+\CenteringParfillskip=\skip94
+\RaggedLeftParfillskip=\skip95
+\RaggedRightParfillskip=\skip96
+\JustifyingParfillskip=\skip97
+\CenteringParindent=\skip98
+\RaggedLeftParindent=\skip99
+\RaggedRightParindent=\skip100
+\JustifyingParindent=\skip101
+)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 112.
+(hyperref)                removing `\\' on input line 110.
 
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 120.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 118.
+LaTeX Font Info:    ... okay on input line 118.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 118.
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
-20.
+18.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    ... okay on input line 118.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1390,70 +1407,70 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 120.
+Package hyperref Info: Link coloring ON on input line 118.
 
 (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 120.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 118.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 120.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 118.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T2A/cmr/m/n on input line 120.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 120.
+(Font)                  OT1/cmss/m/n --> T2A/cmr/m/n on input line 118.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T2A/cmss/b/n on input line 120.
+(Font)                  OT1/cmr/bx/n --> T2A/cmss/b/n on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T2A/cmss/b/n on input line 120.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 120.
+(Font)                  OT1/cmr/bx/n --> T2A/cmss/b/n on input line 118.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T2A/cmss/m/n on input line 120.
+(Font)                  OT1/cmss/m/n --> T2A/cmss/m/n on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T2A/cmss/m/n on input line 120.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 120.
+(Font)                  OT1/cmss/bx/n --> T2A/cmss/m/n on input line 118.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T2A/cmss/m/it on input line 120.
+(Font)                  OT1/cmr/m/it --> T2A/cmss/m/it on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T2A/cmss/m/it on input line 120.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 120.
+(Font)                  OT1/cmr/bx/it --> T2A/cmss/m/it on input line 118.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T2A/cmtt/m/n on input line 120.
+(Font)                  OT1/cmtt/m/n --> T2A/cmtt/m/n on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T2A/cmtt/m/n on input line 120.
+(Font)                  OT1/cmtt/m/n --> T2A/cmtt/m/n on input line 118.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T2A/cmss/m/n --> T2A/cmss/b/n on input line 120.
+(Font)                  T2A/cmss/m/n --> T2A/cmss/b/n on input line 118.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T2A/cmss/m/it --> T2A/cmss/b/it on input line 120.
+(Font)                  T2A/cmss/m/it --> T2A/cmss/b/it on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T2A/cmr/b/n on input line 120.
+(Font)                  OT1/cmss/b/n --> T2A/cmr/b/n on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T2A/cmss/b/n --> T2A/cmss/b/n on input line 120.
+(Font)                  T2A/cmss/b/n --> T2A/cmss/b/n on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T2A/cmss/m/n --> T2A/cmss/b/n on input line 120.
+(Font)                  T2A/cmss/m/n --> T2A/cmss/b/n on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T2A/cmss/m/it --> T2A/cmss/b/it on input line 120.
+(Font)                  T2A/cmss/m/it --> T2A/cmss/b/it on input line 118.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T2A/cmtt/m/n --> T2A/cmtt/b/n on input line 120.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 120.
+(Font)                  T2A/cmtt/m/n --> T2A/cmtt/b/n on input line 118.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 118.
 LaTeX Font Info:    Encoding `T2A' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `normal' on input line 12
-0.
+(Font)              `pureletters' in the math version `normal' on input line 11
+8.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  T2A/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-20.
+18.
 LaTeX Font Info:    Encoding `T2A' has changed to `OT1' for symbol font
-(Font)              `pureletters' in the math version `bold' on input line 120.
+(Font)              `pureletters' in the math version `bold' on input line 118.
 
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  T2A/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 1
-20.
+18.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 120.
+ut line 118.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -1485,25 +1502,33 @@ Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \th on input line 120.
+LaTeX Info: Redefining \th on input line 118.
 \c@lstlisting=\count391
 
-Package chemgreek Info: Activating mapping `default' on line 120.
+Package chemgreek Info: Activating mapping `default' on line 118.
 
  (./main.nav)
 <Logo_new.jpg, id=33, 995.21812pt x 112.16907pt>
 File: Logo_new.jpg Graphic file (type jpg)
 <use Logo_new.jpg>
-Package pdftex.def Info: Logo_new.jpg  used on input line 124.
+Package pdftex.def Info: Logo_new.jpg  used on input line 122.
 (pdftex.def)             Requested size: 256.0748pt x 28.86203pt.
  [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc} <./Logo_n
 ew.jpg>]
+Underfull \hbox (badness 1642) in paragraph at lines 144--144
+\T2A/cmss/m/n/8 ме-рам, они де-мон-стри-ру-ют дис-крет-ные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+\T2A/cmss/m/n/8 молекулярно-подобные энер-ге-ти-че-ские
+ []
+
 LaTeX Font Info:    Trying to load font information for U+msa on input line 144
 .
-
 (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -1530,18 +1555,22 @@ Package pdftex.def Info: pictures/Cu3L2.png  used on input line 144.
  <./pictures/Cu3L2.png>] [3
 
 ]
+Underfull \hbox (badness 2503) in paragraph at lines 184--184
+\T2A/cmss/m/n/7 спектрометрии, наи-бо-лее ча-сто встре-ча-ет-ся ком-плекс
+ []
+
 <pictures/cu_mass_spec.png, id=95, 665.48625pt x 506.89375pt>
 File: pictures/cu_mass_spec.png Graphic file (type png)
 <use pictures/cu_mass_spec.png>
-Package pdftex.def Info: pictures/cu_mass_spec.png  used on input line 182.
+Package pdftex.def Info: pictures/cu_mass_spec.png  used on input line 184.
 (pdftex.def)             Requested size: 139.4179pt x 106.18785pt.
 <pictures/abs_emm.png, id=96, 452.69125pt x 318.18875pt>
 File: pictures/abs_emm.png Graphic file (type png)
 <use pictures/abs_emm.png>
-Package pdftex.def Info: pictures/abs_emm.png  used on input line 182.
+Package pdftex.def Info: pictures/abs_emm.png  used on input line 184.
 (pdftex.def)             Requested size: 179.25114pt x 125.99147pt.
 
-Overfull \vbox (4.88014pt too high) detected at line 182
+Overfull \vbox (4.65334pt too high) detected at line 184
  []
 
 [4
@@ -1554,14 +1583,14 @@ Overfull \vbox (4.88014pt too high) detected at line 182
 <pictures/opt_SCH3_vac.jpg, id=121, 1019.81pt x 581.17125pt>
 File: pictures/opt_SCH3_vac.jpg Graphic file (type jpg)
 <use pictures/opt_SCH3_vac.jpg>
-Package pdftex.def Info: pictures/opt_SCH3_vac.jpg  used on input line 218.
+Package pdftex.def Info: pictures/opt_SCH3_vac.jpg  used on input line 224.
 (pdftex.def)             Requested size: 298.75394pt x 170.25572pt.
  [7
 
  <./pictures/opt_SCH3_vac.jpg>]
 
 LaTeX Warning: File `pictures/spectra/Cu_vacuum.eps' not found on input line 24
-0.
+6.
 
 Package epstopdf Info: Source file: <pictures/spectra/Cu_vacuum.eps>
 (epstopdf)             Output file: <pictures/spectra/Cu_vacuum-eps-converted-t
@@ -1570,18 +1599,18 @@ o.pdf>
 (epstopdf)                    size: 60528 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cu_vacuum
 -eps-converted-to.pdf pictures/spectra/Cu_vacuum.eps>
-(epstopdf)             \includegraphics on input line 240.
+(epstopdf)             \includegraphics on input line 246.
 Package epstopdf Info: Output file is already uptodate.
 <pictures/spectra/Cu_vacuum-eps-converted-to.pdf, id=130, 774.895pt x 593.21625
 pt>
 File: pictures/spectra/Cu_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu_vacuum-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/spectra/Cu_vacuum-eps-converted-to.pdf  used 
-on input line 240.
+on input line 246.
 (pdftex.def)             Requested size: 199.1693pt x 152.4675pt.
 
 LaTeX Warning: File `pictures/spectra/Cu2_vacuum.eps' not found on input line 2
-40.
+46.
 
 Package epstopdf Info: Source file: <pictures/spectra/Cu2_vacuum.eps>
 (epstopdf)             Output file: <pictures/spectra/Cu2_vacuum-eps-converted-
@@ -1590,14 +1619,14 @@ to.pdf>
 (epstopdf)                    size: 55664 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cu2_vacuu
 m-eps-converted-to.pdf pictures/spectra/Cu2_vacuum.eps>
-(epstopdf)             \includegraphics on input line 240.
+(epstopdf)             \includegraphics on input line 246.
 Package epstopdf Info: Output file is already uptodate.
 <pictures/spectra/Cu2_vacuum-eps-converted-to.pdf, id=131, 774.895pt x 593.2162
 5pt>
 File: pictures/spectra/Cu2_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu2_vacuum-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/spectra/Cu2_vacuum-eps-converted-to.pdf  used
- on input line 240.
+ on input line 246.
 (pdftex.def)             Requested size: 199.1693pt x 152.4675pt.
 [8
 
@@ -1605,7 +1634,7 @@ Package pdftex.def Info: pictures/spectra/Cu2_vacuum-eps-converted-to.pdf  used
 cuum-eps-converted-to.pdf>]
 
 LaTeX Warning: File `pictures/spectra/Cu3_vacuum.eps' not found on input line 2
-62.
+68.
 
 Package epstopdf Info: Source file: <pictures/spectra/Cu3_vacuum.eps>
 (epstopdf)             Output file: <pictures/spectra/Cu3_vacuum-eps-converted-
@@ -1614,18 +1643,18 @@ to.pdf>
 (epstopdf)                    size: 52982 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cu3_vacuu
 m-eps-converted-to.pdf pictures/spectra/Cu3_vacuum.eps>
-(epstopdf)             \includegraphics on input line 262.
+(epstopdf)             \includegraphics on input line 268.
 Package epstopdf Info: Output file is already uptodate.
 <pictures/spectra/Cu3_vacuum-eps-converted-to.pdf, id=231, 774.895pt x 593.2162
 5pt>
 File: pictures/spectra/Cu3_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu3_vacuum-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/spectra/Cu3_vacuum-eps-converted-to.pdf  used
- on input line 262.
+ on input line 268.
 (pdftex.def)             Requested size: 199.1693pt x 152.4675pt.
 
 LaTeX Warning: File `pictures/spectra/Cu4_vacuum.eps' not found on input line 2
-62.
+68.
 
 Package epstopdf Info: Source file: <pictures/spectra/Cu4_vacuum.eps>
 (epstopdf)             Output file: <pictures/spectra/Cu4_vacuum-eps-converted-
@@ -1634,14 +1663,14 @@ to.pdf>
 (epstopdf)                    size: 54441 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cu4_vacuu
 m-eps-converted-to.pdf pictures/spectra/Cu4_vacuum.eps>
-(epstopdf)             \includegraphics on input line 262.
+(epstopdf)             \includegraphics on input line 268.
 Package epstopdf Info: Output file is already uptodate.
 <pictures/spectra/Cu4_vacuum-eps-converted-to.pdf, id=232, 774.895pt x 593.2162
 5pt>
 File: pictures/spectra/Cu4_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu4_vacuum-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/spectra/Cu4_vacuum-eps-converted-to.pdf  used
- on input line 262.
+ on input line 268.
 (pdftex.def)             Requested size: 199.1693pt x 152.4675pt.
 [9
 
@@ -1649,7 +1678,7 @@ Package pdftex.def Info: pictures/spectra/Cu4_vacuum-eps-converted-to.pdf  used
 acuum-eps-converted-to.pdf>]
 
 LaTeX Warning: File `pictures/spectra/Cu5_vacuum.eps' not found on input line 3
-11.
+17.
 
 Package epstopdf Info: Source file: <pictures/spectra/Cu5_vacuum.eps>
 (epstopdf)             Output file: <pictures/spectra/Cu5_vacuum-eps-converted-
@@ -1658,79 +1687,79 @@ to.pdf>
 (epstopdf)                    size: 52636 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cu5_vacuu
 m-eps-converted-to.pdf pictures/spectra/Cu5_vacuum.eps>
-(epstopdf)             \includegraphics on input line 311.
+(epstopdf)             \includegraphics on input line 317.
 Package epstopdf Info: Output file is already uptodate.
 <pictures/spectra/Cu5_vacuum-eps-converted-to.pdf, id=326, 774.895pt x 593.2162
 5pt>
 File: pictures/spectra/Cu5_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu5_vacuum-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/spectra/Cu5_vacuum-eps-converted-to.pdf  used
- on input line 311.
+ on input line 317.
 (pdftex.def)             Requested size: 175.26726pt x 134.17392pt.
 
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 311--311
+Overfull \hbox (15.93427pt too wide) in paragraph at lines 317--317
  [] 
  []
 
 
-LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 311.
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 317.
 
 
-LaTeX Font Info:    Calculating math sizes for size <> on input line 311.
+LaTeX Font Info:    Calculating math sizes for size <> on input line 317.
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <> not available
-(Font)              size <3> substituted on input line 311.
+(Font)              size <3> substituted on input line 317.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <0.7> not available
-(Font)              size <3> substituted on input line 311.
+(Font)              size <3> substituted on input line 317.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <0.5> not available
-(Font)              size <3> substituted on input line 311.
+(Font)              size <3> substituted on input line 317.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <> not available
-(Font)              size <5> substituted on input line 311.
+(Font)              size <5> substituted on input line 317.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.7> not available
-(Font)              size <5> substituted on input line 311.
+(Font)              size <5> substituted on input line 317.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <0.5> not available
-(Font)              size <5> substituted on input line 311.
+(Font)              size <5> substituted on input line 317.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <> not available
-(Font)              size <5> substituted on input line 311.
+(Font)              size <5> substituted on input line 317.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.7> not available
-(Font)              size <5> substituted on input line 311.
+(Font)              size <5> substituted on input line 317.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <0.5> not available
-(Font)              size <5> substituted on input line 311.
+(Font)              size <5> substituted on input line 317.
 
 
 LaTeX Font Warning: Font shape `T2A/cmss/m/n' in size <> not available
-(Font)              size <3> substituted on input line 311.
+(Font)              size <3> substituted on input line 317.
 
 
 LaTeX Font Warning: Font shape `T2A/cmss/m/n' in size <0.7> not available
-(Font)              size <3> substituted on input line 311.
+(Font)              size <3> substituted on input line 317.
 
 
 LaTeX Font Warning: Font shape `T2A/cmss/m/n' in size <0.5> not available
-(Font)              size <3> substituted on input line 311.
+(Font)              size <3> substituted on input line 317.
 
 [10
 
  <./pictures/spectra/Cu5_vacuum-eps-converted-to.pdf>]
 
 LaTeX Warning: File `pictures/spectra/CAM-B3Lyp_vacuum.eps' not found on input 
-line 333.
+line 339.
 
 Package epstopdf Info: Source file: <pictures/spectra/CAM-B3Lyp_vacuum.eps>
 (epstopdf)             Output file: <pictures/spectra/CAM-B3Lyp_vacuum-eps-conv
@@ -1739,7 +1768,7 @@ erted-to.pdf>
 (epstopdf)                    size: 47377 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/CAM-B3Lyp
 _vacuum-eps-converted-to.pdf pictures/spectra/CAM-B3Lyp_vacuum.eps>
-(epstopdf)             \includegraphics on input line 333.
+(epstopdf)             \includegraphics on input line 339.
 Package epstopdf Info: Output file is already uptodate.
 <pictures/spectra/CAM-B3Lyp_vacuum-eps-converted-to.pdf, id=383, 774.895pt x 59
 3.21625pt>
@@ -1747,11 +1776,11 @@ File: pictures/spectra/CAM-B3Lyp_vacuum-eps-converted-to.pdf Graphic file (type
  pdf)
 <use pictures/spectra/CAM-B3Lyp_vacuum-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/spectra/CAM-B3Lyp_vacuum-eps-converted-to.pdf
-  used on input line 333.
+  used on input line 339.
 (pdftex.def)             Requested size: 199.1693pt x 152.4675pt.
 
 LaTeX Warning: File `pictures/spectra/M06-2X_vacuum.eps' not found on input lin
-e 333.
+e 339.
 
 Package epstopdf Info: Source file: <pictures/spectra/M06-2X_vacuum.eps>
 (epstopdf)             Output file: <pictures/spectra/M06-2X_vacuum-eps-convert
@@ -1760,7 +1789,7 @@ ed-to.pdf>
 (epstopdf)                    size: 45610 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/M06-2X_va
 cuum-eps-converted-to.pdf pictures/spectra/M06-2X_vacuum.eps>
-(epstopdf)             \includegraphics on input line 333.
+(epstopdf)             \includegraphics on input line 339.
 Package epstopdf Info: Output file is already uptodate.
 <pictures/spectra/M06-2X_vacuum-eps-converted-to.pdf, id=384, 774.895pt x 593.2
 1625pt>
@@ -1768,7 +1797,7 @@ File: pictures/spectra/M06-2X_vacuum-eps-converted-to.pdf Graphic file (type pd
 f)
 <use pictures/spectra/M06-2X_vacuum-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/spectra/M06-2X_vacuum-eps-converted-to.pdf  u
-sed on input line 333.
+sed on input line 339.
 (pdftex.def)             Requested size: 199.1693pt x 152.4675pt.
 [11
 
@@ -1777,23 +1806,23 @@ sed on input line 333.
 <pictures/orbitals/Cu2L2_1.jpg, id=461, 963.6pt x 542.025pt>
 File: pictures/orbitals/Cu2L2_1.jpg Graphic file (type jpg)
 <use pictures/orbitals/Cu2L2_1.jpg>
-Package pdftex.def Info: pictures/orbitals/Cu2L2_1.jpg  used on input line 345.
+Package pdftex.def Info: pictures/orbitals/Cu2L2_1.jpg  used on input line 351.
 
 (pdftex.def)             Requested size: 131.45245pt x 73.93938pt.
 <pictures/orbitals/Cu2L2_2.jpg, id=463, 963.6pt x 542.025pt>
 File: pictures/orbitals/Cu2L2_2.jpg Graphic file (type jpg)
 <use pictures/orbitals/Cu2L2_2.jpg>
-Package pdftex.def Info: pictures/orbitals/Cu2L2_2.jpg  used on input line 345.
+Package pdftex.def Info: pictures/orbitals/Cu2L2_2.jpg  used on input line 351.
 
 (pdftex.def)             Requested size: 131.45245pt x 73.93938pt.
 <pictures/orbitals/Cu2L2_3.jpg, id=465, 963.6pt x 542.025pt>
 File: pictures/orbitals/Cu2L2_3.jpg Graphic file (type jpg)
 <use pictures/orbitals/Cu2L2_3.jpg>
-Package pdftex.def Info: pictures/orbitals/Cu2L2_3.jpg  used on input line 345.
+Package pdftex.def Info: pictures/orbitals/Cu2L2_3.jpg  used on input line 351.
 
 (pdftex.def)             Requested size: 131.45245pt x 73.93938pt.
 
-Overfull \hbox (16.01389pt too wide) in paragraph at lines 345--345
+Overfull \hbox (16.01389pt too wide) in paragraph at lines 351--351
  [][][] 
  []
 
@@ -1804,14 +1833,14 @@ s/orbitals/Cu2L2_3.jpg>]
 <pictures/opt_Cys_vac.jpg, id=480, 1019.81pt x 581.17125pt>
 File: pictures/opt_Cys_vac.jpg Graphic file (type jpg)
 <use pictures/opt_Cys_vac.jpg>
-Package pdftex.def Info: pictures/opt_Cys_vac.jpg  used on input line 357.
+Package pdftex.def Info: pictures/opt_Cys_vac.jpg  used on input line 363.
 (pdftex.def)             Requested size: 298.75394pt x 170.25572pt.
  [13
 
  <./pictures/opt_Cys_vac.jpg>]
 
 LaTeX Warning: File `pictures/spectra/Cys_CAM-B3Lyp_vacuum.eps' not found on in
-put line 379.
+put line 385.
 
 Package epstopdf Info: Source file: <pictures/spectra/Cys_CAM-B3Lyp_vacuum.eps>
 
@@ -1821,7 +1850,7 @@ converted-to.pdf>
 (epstopdf)                    size: 49809 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cys_CAM-B
 3Lyp_vacuum-eps-converted-to.pdf pictures/spectra/Cys_CAM-B3Lyp_vacuum.eps>
-(epstopdf)             \includegraphics on input line 379.
+(epstopdf)             \includegraphics on input line 385.
 Package epstopdf Info: Output file is already uptodate.
 <pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to.pdf, id=489, 774.895pt 
 x 593.21625pt>
@@ -1829,11 +1858,11 @@ File: pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to.pdf Graphic file (
 type pdf)
 <use pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to
-.pdf  used on input line 379.
+.pdf  used on input line 385.
 (pdftex.def)             Requested size: 199.1693pt x 152.4675pt.
 
 LaTeX Warning: File `pictures/spectra/Cys_M06-2X_vacuum.eps' not found on input
- line 379.
+ line 385.
 
 Package epstopdf Info: Source file: <pictures/spectra/Cys_M06-2X_vacuum.eps>
 (epstopdf)             Output file: <pictures/spectra/Cys_M06-2X_vacuum-eps-con
@@ -1842,7 +1871,7 @@ verted-to.pdf>
 (epstopdf)                    size: 47669 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cys_M06-2
 X_vacuum-eps-converted-to.pdf pictures/spectra/Cys_M06-2X_vacuum.eps>
-(epstopdf)             \includegraphics on input line 379.
+(epstopdf)             \includegraphics on input line 385.
 Package epstopdf Info: Output file is already uptodate.
 <pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pdf, id=490, 774.895pt x 5
 93.21625pt>
@@ -1850,7 +1879,7 @@ File: pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pd
-f  used on input line 379.
+f  used on input line 385.
 (pdftex.def)             Requested size: 199.1693pt x 152.4675pt.
 [14
 
@@ -1868,7 +1897,7 @@ ctra/Cys_M06-2X_vacuum-eps-converted-to.pdf>] [15
 File: pictures/spectra/exci_wB97X-D3_vacuum.png Graphic file (type png)
 <use pictures/spectra/exci_wB97X-D3_vacuum.png>
 Package pdftex.def Info: pictures/spectra/exci_wB97X-D3_vacuum.png  used on inp
-ut line 462.
+ut line 468.
 (pdftex.def)             Requested size: 199.1693pt x 152.44177pt.
  [19
 
@@ -1896,10 +1925,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 33794 strings out of 474116
- 669689 string characters out of 5743681
+ 33883 strings out of 474116
+ 671652 string characters out of 5743681
  1943187 words of memory out of 5000000
- 55433 multiletter control sequences out of 15000+600000
+ 55518 multiletter control sequences out of 15000+600000
  585187 words of font info for 102 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,17n,123p,882b,1293s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1922,7 +1951,7 @@ ve/2024/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive
 4/texmf-dist/fonts/type1/public/cm-super/sfsx0900.pfb></usr/local/texlive/2024/
 texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2024/te
 xmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb>
-Output written on main.pdf (19 pages, 4142059 bytes).
+Output written on main.pdf (19 pages, 4142197 bytes).
 PDF statistics:
  700 PDF objects out of 1000 (max. 8388607)
  288 compressed objects within 3 object streams
