@@ -109,7 +109,7 @@
 
 \author[Андреев Иван Николаевич (22.Б27-фз)]{Выполнил: \textbf{Андреев Иван Николаевич} (группа 22.Б27-фз) \\ Научный руководитель: к.х.н., с.н.с. \textbf{Буглак Андрей Андреевич}}
 
-\institute{Санкт-Петербургский Государственный Университет, Физический факультет \\ Кафедра молекулярной биофизики и физики полимеров}
+\institute{Санкт-Петербургский государственный университет, Физический факультет \\ Кафедра молекулярной биофизики и физики полимеров}
 
 \titlegraphic{\includegraphics[width=9cm]{Logo_new.jpg}}
 
@@ -175,7 +175,7 @@
 	
 		\begin{figure}
 		    \includegraphics[width=0.9\linewidth]{pictures/abs_emm.png}
-		    \caption{\centering \footnotesize Спектры возбуждения (1) и люминесценции\ths (2) для Cys-CuNC. [1]}
+		    \caption{\centering \footnotesize Спектры возбуждения люминесценции (1) и испускания\ths (2) для Cys-CuNC. [1]}
 		\end{figure}
 		\vfill
 		\tiny \textcolor{gray}{[1] Jia, X., Li, J., \& Wang, E. (2013). Cu nanoclusters with aggregation induced emission enhancement. Small, 9(22), 3873–3879. doi.org/10.1002/smll.201300896}
@@ -185,7 +185,7 @@
 
 \begin{frame}{Задачи работы}
 	\justify
-	Целью настоящей работы является определение структуры образцов, содержавшихся в растворе. \\[0.5cm]
+	Целью настоящей работы является определение структуры люминесцирующих кластеров. \\[0.5cm]
 	
 	% Целью настоящей работы является воспроизведение экспериментальных спектров поглощения и выявления оптимального метода расчёта. \\[0.5cm]
 	
@@ -248,7 +248,7 @@
 \begin{frame}{Комплексы с метилтиогруппой. Сравнительный анализ спектров.}
 	\begin{columns}
 		
-		\column{0.5\textwidth}
+		\column{0.33\textwidth}
 		
 		\begin{figure}[H]
 			\centering
@@ -256,7 +256,7 @@
 			\caption{\footnotesize Рассчитанные спектры поглощения для кластера \ce{[Cu3(SCH3)2]^{-1}} в газовой фазе.}
 		\end{figure}
 		
-		\column{0.5\textwidth}
+		\column{0.33\textwidth}
 		
 		\begin{figure}[H]
 			\centering
@@ -264,54 +264,51 @@
 			\caption{\footnotesize Рассчитанные спектры поглощения для кластера \ce{[Cu4(SCH3)3]^{-1}} в газовой фазе.}
 		\end{figure}
 		
+		\column{0.33\textwidth}
+		
+		\begin{figure}[H]
+			\centering
+			\includegraphics[width=1\textwidth]{pictures/spectra/Cu5_vacuum.eps}
+			\caption{\footnotesize Рассчитанные спектры поглощения для кластера \ce{[Cu5(SCH3)4]^{-1}} в газовой фазе.}
+		\end{figure}
+		
 	\end{columns}
 \end{frame}
 
 \begin{frame}{Комплексы с метилтиогруппой. Сравнительный анализ спектров.}
-	\begin{columns}
+	\begin{columns}		
+		\column{0.6\textwidth}
+		
+			\begin{table}[H]
+				\caption{\scriptsize RMSE DFT-CCSD для всех переходов в эВ.}
+				\label{tab_bench_1}
+				\centering
+				\footnotesize
+				\begin{tabular}{|c|c|c|c|c|}
+					\hline
+					BHandH-LYP	&	CAM-B3LYP	& M06-2X	& PBE0	& wB97X	 	\\ \hline
+					0,39		&   \textbf{0,25}		& 0,33		& 0,35	& 0,43	 	\\ \hline
+				\end{tabular}
+			\end{table}
+			
+			\begin{table}[H]
+				\caption{\scriptsize RMSE DFT-CCSD для HOMO$\rarr$LUMO переходов в эВ.}
+				\label{tab_bench_2}
+				\centering
+				\footnotesize
+				\begin{tabular}{|c|c|c|c|c|}
+					\hline
+					BHandH-LYP	&	CAM-B3LYP	& M06-2X	& PBE0	& wB97X 	\\ \hline
+					0,20		&   \textbf{0,17}		& 0,21		& 0,31	& 0,35 		\\ \hline
+				\end{tabular}
+			\end{table}	
 		
 		\column{0.4\textwidth}
 		
-		\begin{figure}[H]
-			\centering
-			\includegraphics[width=1.1\textwidth]{pictures/spectra/Cu5_vacuum.eps}
-			\caption{\footnotesize Рассчитанные спектры поглощения для кластера \ce{[Cu5(SCH3)4]^{-1}} в газовой фазе.}
-		\end{figure}
-		
-		\column{0.6\textwidth}
-		
-		\begin{table}[H]
-			\caption{\scriptsize RMSE DFT-CCSD для всех переходов в эВ.}
-			\label{tab_bench_1}
-			\centering
-			\footnotesize
-			\begin{tabular}{|c|c|c|c|c|}
-				\hline
-				BHandH-LYP	&	CAM-B3LYP	& M06-2X	& PBE0	& wB97X	 	\\ \hline
-				0,39		&   \textbf{0,25}		& 0,33		& 0,35	& 0,43	 	\\ \hline
-			\end{tabular}
-		\end{table}
-		
-		\begin{table}[H]
-			\caption{\scriptsize RMSE DFT-CCSD для HOMO$\rarr$LUMO переходов в эВ.}
-			\label{tab_bench_2}
-			\centering
-			\footnotesize
-			\begin{tabular}{|c|c|c|c|c|}
-				\hline
-				BHandH-LYP	&	CAM-B3LYP	& M06-2X	& PBE0	& wB97X 	\\ \hline
-				0,20		&   \textbf{0,17}		& 0,21		& 0,31	& 0,35 		\\ \hline
-			\end{tabular}
-		\end{table}	
-		
-		\begin{tabular}{c}
-			\\
-		\end{tabular}
-		
-		\begin{equation}
-			\scriptsize
-			RMSE = \sqrt{\frac{\sum\limits_{i=1}^N (E^{DFT}_i-E^{CCSD}_i)^2}{N}}
-		\end{equation}
+			\begin{equation}
+				\small
+				RMSE = \sqrt{\frac{\sum\limits_{i=1}^N (E^{DFT}_i-E^{CCSD}_i)^2}{N}}
+			\end{equation}
 		
 	\end{columns}
 \end{frame}
@@ -451,7 +448,7 @@
 		\column{0.5\textwidth}
 		\begin{figure}
 			\centering
-			\includegraphics[width=1\textwidth]{pictures/spectra/exci_wB97X-D3_vacuum.png} 
+			\includegraphics[width=1\textwidth]{pictures/spectra/exci_wB97X-D3_vacuum.eps} 
 			\caption{\footnotesize Модельные спектры поглощения комплексов с метилтиогруппой, полученные при помощи методов wB97X и wB97X-D3 в газовой фазе. Лоренцево уширение с полушириной 15\ths нм.}
 		\end{figure}
 		
