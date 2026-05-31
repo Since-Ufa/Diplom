@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.30)  31 MAY 2026 12:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.30)  31 MAY 2026 13:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1651,7 +1651,12 @@ File: pictures/spectra/Cu3_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu3_vacuum-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/spectra/Cu3_vacuum-eps-converted-to.pdf  used
  on input line 276.
-(pdftex.def)             Requested size: 131.45245pt x 100.62817pt.
+(pdftex.def)             Requested size: 157.74254pt x 120.7502pt.
+
+Overfull \hbox (26.29008pt too wide) in paragraph at lines 276--276
+ [] 
+ []
+
 
 LaTeX Warning: File `pictures/spectra/Cu4_vacuum.eps' not found on input line 2
 76.
@@ -1671,7 +1676,12 @@ File: pictures/spectra/Cu4_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu4_vacuum-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/spectra/Cu4_vacuum-eps-converted-to.pdf  used
  on input line 276.
-(pdftex.def)             Requested size: 131.45245pt x 100.62817pt.
+(pdftex.def)             Requested size: 157.74254pt x 120.7502pt.
+
+Overfull \hbox (26.29008pt too wide) in paragraph at lines 276--276
+ [] 
+ []
+
 
 LaTeX Warning: File `pictures/spectra/Cu5_vacuum.eps' not found on input line 2
 76.
@@ -1691,7 +1701,12 @@ File: pictures/spectra/Cu5_vacuum-eps-converted-to.pdf Graphic file (type pdf)
 <use pictures/spectra/Cu5_vacuum-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/spectra/Cu5_vacuum-eps-converted-to.pdf  used
  on input line 276.
-(pdftex.def)             Requested size: 131.45245pt x 100.62817pt.
+(pdftex.def)             Requested size: 157.74254pt x 120.7502pt.
+
+Overfull \hbox (26.29008pt too wide) in paragraph at lines 276--276
+ [] 
+ []
+
 [9
 
  <./pictures/spectra/Cu3_vacuum-eps-converted-to.pdf> <./pictures/spectra/Cu4_v
@@ -1855,20 +1870,23 @@ Package pdftex.def Info: pictures/opt_Cys_vac.jpg  used on input line 378.
  [13
 
  <./pictures/opt_Cys_vac.jpg>]
-
-LaTeX Warning: File `pictures/spectra/Cys_CAM-B3Lyp_vacuum.eps' not found on in
-put line 400.
-
 Package epstopdf Info: Source file: <pictures/spectra/Cys_CAM-B3Lyp_vacuum.eps>
 
+(epstopdf)                    date: 2026-05-31 13:33:45
+(epstopdf)                    size: 132164 bytes
 (epstopdf)             Output file: <pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2026-05-31 12:14:43
-(epstopdf)                    size: 42621 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cys_CAM-B
 3Lyp_vacuum-eps-converted-to.pdf pictures/spectra/Cys_CAM-B3Lyp_vacuum.eps>
 (epstopdf)             \includegraphics on input line 400.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-convert
+ed-to.pdf pictures/spectra/Cys_CAM-B3Lyp_vacuum.eps)...executed safely (allowed
+).
+
+Package epstopdf Info: Result file: <pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2026-05-31 13:35:55
+(epstopdf)                    size: 38072 bytes.
 <pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to.pdf, id=523, 774.895pt 
 x 593.21625pt>
 File: pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to.pdf Graphic file (
@@ -1877,19 +1895,21 @@ type pdf)
 Package pdftex.def Info: pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to
 .pdf  used on input line 400.
 (pdftex.def)             Requested size: 199.1693pt x 152.4675pt.
-
-LaTeX Warning: File `pictures/spectra/Cys_M06-2X_vacuum.eps' not found on input
- line 400.
-
 Package epstopdf Info: Source file: <pictures/spectra/Cys_M06-2X_vacuum.eps>
+(epstopdf)                    date: 2026-05-31 13:33:45
+(epstopdf)                    size: 130421 bytes
 (epstopdf)             Output file: <pictures/spectra/Cys_M06-2X_vacuum-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2026-05-31 12:14:44
-(epstopdf)                    size: 40118 bytes
 (epstopdf)             Command: <repstopdf --outfile=pictures/spectra/Cys_M06-2
 X_vacuum-eps-converted-to.pdf pictures/spectra/Cys_M06-2X_vacuum.eps>
 (epstopdf)             \includegraphics on input line 400.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=pictures/spectra/Cys_M06-2X_vacuum-eps-converted-
+to.pdf pictures/spectra/Cys_M06-2X_vacuum.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <pictures/spectra/Cys_M06-2X_vacuum-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2026-05-31 13:35:55
+(epstopdf)                    size: 37171 bytes.
 <pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pdf, id=524, 774.895pt x 5
 93.21625pt>
 File: pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pdf Graphic file (typ
@@ -1898,7 +1918,7 @@ e pdf)
 Package pdftex.def Info: pictures/spectra/Cys_M06-2X_vacuum-eps-converted-to.pd
 f  used on input line 400.
 (pdftex.def)             Requested size: 199.1693pt x 152.4675pt.
-[14
+ [14
 
  <./pictures/spectra/Cys_CAM-B3Lyp_vacuum-eps-converted-to.pdf> <./pictures/spe
 ctra/Cys_M06-2X_vacuum-eps-converted-to.pdf>] [15
@@ -1924,7 +1944,7 @@ converted-to.pdf>
 X-D3_vacuum-eps-converted-to.pdf pictures/spectra/exci_wB97X-D3_vacuum.eps>
 (epstopdf)             \includegraphics on input line 483.
 Package epstopdf Info: Output file is already uptodate.
-<pictures/spectra/exci_wB97X-D3_vacuum-eps-converted-to.pdf, id=625, 774.895pt 
+<pictures/spectra/exci_wB97X-D3_vacuum-eps-converted-to.pdf, id=624, 774.895pt 
 x 593.21625pt>
 File: pictures/spectra/exci_wB97X-D3_vacuum-eps-converted-to.pdf Graphic file (
 type pdf)
@@ -1958,10 +1978,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 33956 strings out of 474116
- 674988 string characters out of 5743681
+ 33902 strings out of 474116
+ 672297 string characters out of 5743681
  1943187 words of memory out of 5000000
- 55586 multiletter control sequences out of 15000+600000
+ 55532 multiletter control sequences out of 15000+600000
  587140 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,17n,123p,882b,1293s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1987,9 +2007,9 @@ exmf-dist/fonts/type1/public/cm-super/sfsx0800.pfb></usr/local/texlive/2024/tex
 mf-dist/fonts/type1/public/cm-super/sfsx0900.pfb></usr/local/texlive/2024/texmf
 -dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2024/texmf-d
 ist/fonts/type1/public/cm-super/sfsx2074.pfb>
-Output written on main.pdf (19 pages, 3254080 bytes).
+Output written on main.pdf (19 pages, 3248618 bytes).
 PDF statistics:
- 773 PDF objects out of 1000 (max. 8388607)
+ 772 PDF objects out of 1000 (max. 8388607)
  315 compressed objects within 4 object streams
  43 named destinations out of 1000 (max. 500000)
  305 words of extra memory for PDF output out of 10000 (max. 10000000)
