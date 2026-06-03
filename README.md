@@ -1,1 +1,1 @@
-I'm a bachelor now! \^o^/
+I'm a bachelor now! \\^o^/
